@@ -1,0 +1,301 @@
+Company,Sector
+TRA_Co_1,Transportation
+TRA_Co_2,Transportation
+TRA_Co_3,Transportation
+TRA_Co_4,Transportation
+TRA_Co_5,Transportation
+TRA_Co_6,Transportation
+TRA_Co_7,Transportation
+TRA_Co_8,Transportation
+TRA_Co_9,Transportation
+TRA_Co_10,Transportation
+TRA_Co_11,Transportation
+TRA_Co_12,Transportation
+TRA_Co_13,Transportation
+TRA_Co_14,Transportation
+TRA_Co_15,Transportation
+TRA_Co_16,Transportation
+TRA_Co_17,Transportation
+TRA_Co_18,Transportation
+TRA_Co_19,Transportation
+TRA_Co_20,Transportation
+ENE_Co_1,Energy
+ENE_Co_2,Energy
+ENE_Co_3,Energy
+ENE_Co_4,Energy
+ENE_Co_5,Energy
+ENE_Co_6,Energy
+ENE_Co_7,Energy
+ENE_Co_8,Energy
+ENE_Co_9,Energy
+ENE_Co_10,Energy
+ENE_Co_11,Energy
+ENE_Co_12,Energy
+ENE_Co_13,Energy
+ENE_Co_14,Energy
+ENE_Co_15,Energy
+ENE_Co_16,Energy
+ENE_Co_17,Energy
+ENE_Co_18,Energy
+ENE_Co_19,Energy
+ENE_Co_20,Energy
+MAN_Co_1,Manufacturing
+MAN_Co_2,Manufacturing
+MAN_Co_3,Manufacturing
+MAN_Co_4,Manufacturing
+MAN_Co_5,Manufacturing
+MAN_Co_6,Manufacturing
+MAN_Co_7,Manufacturing
+MAN_Co_8,Manufacturing
+MAN_Co_9,Manufacturing
+MAN_Co_10,Manufacturing
+MAN_Co_11,Manufacturing
+MAN_Co_12,Manufacturing
+MAN_Co_13,Manufacturing
+MAN_Co_14,Manufacturing
+MAN_Co_15,Manufacturing
+MAN_Co_16,Manufacturing
+MAN_Co_17,Manufacturing
+MAN_Co_18,Manufacturing
+MAN_Co_19,Manufacturing
+MAN_Co_20,Manufacturing
+INF_Co_1,Information Technology
+INF_Co_2,Information Technology
+INF_Co_3,Information Technology
+INF_Co_4,Information Technology
+INF_Co_5,Information Technology
+INF_Co_6,Information Technology
+INF_Co_7,Information Technology
+INF_Co_8,Information Technology
+INF_Co_9,Information Technology
+INF_Co_10,Information Technology
+INF_Co_11,Information Technology
+INF_Co_12,Information Technology
+INF_Co_13,Information Technology
+INF_Co_14,Information Technology
+INF_Co_15,Information Technology
+INF_Co_16,Information Technology
+INF_Co_17,Information Technology
+INF_Co_18,Information Technology
+INF_Co_19,Information Technology
+INF_Co_20,Information Technology
+FIN_Co_1,Finance
+FIN_Co_2,Finance
+FIN_Co_3,Finance
+FIN_Co_4,Finance
+FIN_Co_5,Finance
+FIN_Co_6,Finance
+FIN_Co_7,Finance
+FIN_Co_8,Finance
+FIN_Co_9,Finance
+FIN_Co_10,Finance
+FIN_Co_11,Finance
+FIN_Co_12,Finance
+FIN_Co_13,Finance
+FIN_Co_14,Finance
+FIN_Co_15,Finance
+FIN_Co_16,Finance
+FIN_Co_17,Finance
+FIN_Co_18,Finance
+FIN_Co_19,Finance
+FIN_Co_20,Finance
+RET_Co_1,Retail
+RET_Co_2,Retail
+RET_Co_3,Retail
+RET_Co_4,Retail
+RET_Co_5,Retail
+RET_Co_6,Retail
+RET_Co_7,Retail
+RET_Co_8,Retail
+RET_Co_9,Retail
+RET_Co_10,Retail
+RET_Co_11,Retail
+RET_Co_12,Retail
+RET_Co_13,Retail
+RET_Co_14,Retail
+RET_Co_15,Retail
+RET_Co_16,Retail
+RET_Co_17,Retail
+RET_Co_18,Retail
+RET_Co_19,Retail
+RET_Co_20,Retail
+HEA_Co_1,Healthcare
+HEA_Co_2,Healthcare
+HEA_Co_3,Healthcare
+HEA_Co_4,Healthcare
+HEA_Co_5,Healthcare
+HEA_Co_6,Healthcare
+HEA_Co_7,Healthcare
+HEA_Co_8,Healthcare
+HEA_Co_9,Healthcare
+HEA_Co_10,Healthcare
+HEA_Co_11,Healthcare
+HEA_Co_12,Healthcare
+HEA_Co_13,Healthcare
+HEA_Co_14,Healthcare
+HEA_Co_15,Healthcare
+HEA_Co_16,Healthcare
+HEA_Co_17,Healthcare
+HEA_Co_18,Healthcare
+HEA_Co_19,Healthcare
+HEA_Co_20,Healthcare
+CON_Co_1,Construction
+CON_Co_2,Construction
+CON_Co_3,Construction
+CON_Co_4,Construction
+CON_Co_5,Construction
+CON_Co_6,Construction
+CON_Co_7,Construction
+CON_Co_8,Construction
+CON_Co_9,Construction
+CON_Co_10,Construction
+CON_Co_11,Construction
+CON_Co_12,Construction
+CON_Co_13,Construction
+CON_Co_14,Construction
+CON_Co_15,Construction
+CON_Co_16,Construction
+CON_Co_17,Construction
+CON_Co_18,Construction
+CON_Co_19,Construction
+CON_Co_20,Construction
+AGR_Co_1,Agriculture
+AGR_Co_2,Agriculture
+AGR_Co_3,Agriculture
+AGR_Co_4,Agriculture
+AGR_Co_5,Agriculture
+AGR_Co_6,Agriculture
+AGR_Co_7,Agriculture
+AGR_Co_8,Agriculture
+AGR_Co_9,Agriculture
+AGR_Co_10,Agriculture
+AGR_Co_11,Agriculture
+AGR_Co_12,Agriculture
+AGR_Co_13,Agriculture
+AGR_Co_14,Agriculture
+AGR_Co_15,Agriculture
+AGR_Co_16,Agriculture
+AGR_Co_17,Agriculture
+AGR_Co_18,Agriculture
+AGR_Co_19,Agriculture
+AGR_Co_20,Agriculture
+TEL_Co_1,Telecommunications
+TEL_Co_2,Telecommunications
+TEL_Co_3,Telecommunications
+TEL_Co_4,Telecommunications
+TEL_Co_5,Telecommunications
+TEL_Co_6,Telecommunications
+TEL_Co_7,Telecommunications
+TEL_Co_8,Telecommunications
+TEL_Co_9,Telecommunications
+TEL_Co_10,Telecommunications
+TEL_Co_11,Telecommunications
+TEL_Co_12,Telecommunications
+TEL_Co_13,Telecommunications
+TEL_Co_14,Telecommunications
+TEL_Co_15,Telecommunications
+TEL_Co_16,Telecommunications
+TEL_Co_17,Telecommunications
+TEL_Co_18,Telecommunications
+TEL_Co_19,Telecommunications
+TEL_Co_20,Telecommunications
+EDU_Co_1,Education
+EDU_Co_2,Education
+EDU_Co_3,Education
+EDU_Co_4,Education
+EDU_Co_5,Education
+EDU_Co_6,Education
+EDU_Co_7,Education
+EDU_Co_8,Education
+EDU_Co_9,Education
+EDU_Co_10,Education
+EDU_Co_11,Education
+EDU_Co_12,Education
+EDU_Co_13,Education
+EDU_Co_14,Education
+EDU_Co_15,Education
+EDU_Co_16,Education
+EDU_Co_17,Education
+EDU_Co_18,Education
+EDU_Co_19,Education
+EDU_Co_20,Education
+MED_Co_1,Media
+MED_Co_2,Media
+MED_Co_3,Media
+MED_Co_4,Media
+MED_Co_5,Media
+MED_Co_6,Media
+MED_Co_7,Media
+MED_Co_8,Media
+MED_Co_9,Media
+MED_Co_10,Media
+MED_Co_11,Media
+MED_Co_12,Media
+MED_Co_13,Media
+MED_Co_14,Media
+MED_Co_15,Media
+MED_Co_16,Media
+MED_Co_17,Media
+MED_Co_18,Media
+MED_Co_19,Media
+MED_Co_20,Media
+MIN_Co_1,Mining
+MIN_Co_2,Mining
+MIN_Co_3,Mining
+MIN_Co_4,Mining
+MIN_Co_5,Mining
+MIN_Co_6,Mining
+MIN_Co_7,Mining
+MIN_Co_8,Mining
+MIN_Co_9,Mining
+MIN_Co_10,Mining
+MIN_Co_11,Mining
+MIN_Co_12,Mining
+MIN_Co_13,Mining
+MIN_Co_14,Mining
+MIN_Co_15,Mining
+MIN_Co_16,Mining
+MIN_Co_17,Mining
+MIN_Co_18,Mining
+MIN_Co_19,Mining
+MIN_Co_20,Mining
+GOV_Co_1,Government
+GOV_Co_2,Government
+GOV_Co_3,Government
+GOV_Co_4,Government
+GOV_Co_5,Government
+GOV_Co_6,Government
+GOV_Co_7,Government
+GOV_Co_8,Government
+GOV_Co_9,Government
+GOV_Co_10,Government
+GOV_Co_11,Government
+GOV_Co_12,Government
+GOV_Co_13,Government
+GOV_Co_14,Government
+GOV_Co_15,Government
+GOV_Co_16,Government
+GOV_Co_17,Government
+GOV_Co_18,Government
+GOV_Co_19,Government
+GOV_Co_20,Government
+WAS_Co_1,Waste Management
+WAS_Co_2,Waste Management
+WAS_Co_3,Waste Management
+WAS_Co_4,Waste Management
+WAS_Co_5,Waste Management
+WAS_Co_6,Waste Management
+WAS_Co_7,Waste Management
+WAS_Co_8,Waste Management
+WAS_Co_9,Waste Management
+WAS_Co_10,Waste Management
+WAS_Co_11,Waste Management
+WAS_Co_12,Waste Management
+WAS_Co_13,Waste Management
+WAS_Co_14,Waste Management
+WAS_Co_15,Waste Management
+WAS_Co_16,Waste Management
+WAS_Co_17,Waste Management
+WAS_Co_18,Waste Management
+WAS_Co_19,Waste Management
+WAS_Co_20,Waste Management

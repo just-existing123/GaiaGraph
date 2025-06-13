@@ -1,0 +1,401 @@
+Company,Sector
+Transportation 1,Transportation
+Transportation 2,Transportation
+Transportation 3,Transportation
+Transportation 4,Transportation
+Transportation 5,Transportation
+Transportation 6,Transportation
+Transportation 7,Transportation
+Transportation 8,Transportation
+Transportation 9,Transportation
+Transportation 10,Transportation
+Transportation 11,Transportation
+Transportation 12,Transportation
+Transportation 13,Transportation
+Transportation 14,Transportation
+Transportation 15,Transportation
+Transportation 16,Transportation
+Transportation 17,Transportation
+Transportation 18,Transportation
+Transportation 19,Transportation
+Transportation 20,Transportation
+Transportation 21,Transportation
+Transportation 22,Transportation
+Transportation 23,Transportation
+Transportation 24,Transportation
+Transportation 25,Transportation
+Transportation 26,Transportation
+Transportation 27,Transportation
+Transportation 28,Transportation
+Transportation 29,Transportation
+Transportation 30,Transportation
+Transportation 31,Transportation
+Transportation 32,Transportation
+Transportation 33,Transportation
+Transportation 34,Transportation
+Transportation 35,Transportation
+Energy 1,Energy
+Energy 2,Energy
+Energy 3,Energy
+Energy 4,Energy
+Energy 5,Energy
+Energy 6,Energy
+Energy 7,Energy
+Energy 8,Energy
+Energy 9,Energy
+Energy 10,Energy
+Energy 11,Energy
+Energy 12,Energy
+Energy 13,Energy
+Energy 14,Energy
+Energy 15,Energy
+Manufacturing 1,Manufacturing
+Manufacturing 2,Manufacturing
+Manufacturing 3,Manufacturing
+Manufacturing 4,Manufacturing
+Manufacturing 5,Manufacturing
+Manufacturing 6,Manufacturing
+Manufacturing 7,Manufacturing
+Manufacturing 8,Manufacturing
+Manufacturing 9,Manufacturing
+Manufacturing 10,Manufacturing
+Manufacturing 11,Manufacturing
+Manufacturing 12,Manufacturing
+Manufacturing 13,Manufacturing
+Manufacturing 14,Manufacturing
+Manufacturing 15,Manufacturing
+Manufacturing 16,Manufacturing
+Manufacturing 17,Manufacturing
+Manufacturing 18,Manufacturing
+Manufacturing 19,Manufacturing
+Manufacturing 20,Manufacturing
+Manufacturing 21,Manufacturing
+Manufacturing 22,Manufacturing
+Manufacturing 23,Manufacturing
+Manufacturing 24,Manufacturing
+Manufacturing 25,Manufacturing
+Manufacturing 26,Manufacturing
+Manufacturing 27,Manufacturing
+Manufacturing 28,Manufacturing
+Manufacturing 29,Manufacturing
+Manufacturing 30,Manufacturing
+Manufacturing 31,Manufacturing
+Manufacturing 32,Manufacturing
+Manufacturing 33,Manufacturing
+Manufacturing 34,Manufacturing
+Manufacturing 35,Manufacturing
+Manufacturing 36,Manufacturing
+Manufacturing 37,Manufacturing
+Manufacturing 38,Manufacturing
+Manufacturing 39,Manufacturing
+Manufacturing 40,Manufacturing
+Information Technology 1,Information Technology
+Information Technology 2,Information Technology
+Information Technology 3,Information Technology
+Information Technology 4,Information Technology
+Information Technology 5,Information Technology
+Information Technology 6,Information Technology
+Information Technology 7,Information Technology
+Information Technology 8,Information Technology
+Information Technology 9,Information Technology
+Information Technology 10,Information Technology
+Information Technology 11,Information Technology
+Information Technology 12,Information Technology
+Information Technology 13,Information Technology
+Information Technology 14,Information Technology
+Information Technology 15,Information Technology
+Information Technology 16,Information Technology
+Information Technology 17,Information Technology
+Information Technology 18,Information Technology
+Information Technology 19,Information Technology
+Information Technology 20,Information Technology
+Information Technology 21,Information Technology
+Information Technology 22,Information Technology
+Information Technology 23,Information Technology
+Information Technology 24,Information Technology
+Information Technology 25,Information Technology
+Information Technology 26,Information Technology
+Information Technology 27,Information Technology
+Information Technology 28,Information Technology
+Information Technology 29,Information Technology
+Information Technology 30,Information Technology
+Information Technology 31,Information Technology
+Information Technology 32,Information Technology
+Information Technology 33,Information Technology
+Information Technology 34,Information Technology
+Information Technology 35,Information Technology
+Information Technology 36,Information Technology
+Information Technology 37,Information Technology
+Information Technology 38,Information Technology
+Information Technology 39,Information Technology
+Information Technology 40,Information Technology
+Information Technology 41,Information Technology
+Information Technology 42,Information Technology
+Information Technology 43,Information Technology
+Information Technology 44,Information Technology
+Information Technology 45,Information Technology
+Finance 1,Finance
+Finance 2,Finance
+Finance 3,Finance
+Finance 4,Finance
+Finance 5,Finance
+Finance 6,Finance
+Finance 7,Finance
+Finance 8,Finance
+Finance 9,Finance
+Finance 10,Finance
+Finance 11,Finance
+Finance 12,Finance
+Finance 13,Finance
+Finance 14,Finance
+Finance 15,Finance
+Finance 16,Finance
+Finance 17,Finance
+Finance 18,Finance
+Finance 19,Finance
+Finance 20,Finance
+Finance 21,Finance
+Finance 22,Finance
+Finance 23,Finance
+Finance 24,Finance
+Finance 25,Finance
+Finance 26,Finance
+Finance 27,Finance
+Finance 28,Finance
+Finance 29,Finance
+Finance 30,Finance
+Finance 31,Finance
+Finance 32,Finance
+Finance 33,Finance
+Finance 34,Finance
+Finance 35,Finance
+Finance 36,Finance
+Finance 37,Finance
+Finance 38,Finance
+Finance 39,Finance
+Finance 40,Finance
+Retail 1,Retail
+Retail 2,Retail
+Retail 3,Retail
+Retail 4,Retail
+Retail 5,Retail
+Retail 6,Retail
+Retail 7,Retail
+Retail 8,Retail
+Retail 9,Retail
+Retail 10,Retail
+Retail 11,Retail
+Retail 12,Retail
+Retail 13,Retail
+Retail 14,Retail
+Retail 15,Retail
+Retail 16,Retail
+Retail 17,Retail
+Retail 18,Retail
+Retail 19,Retail
+Retail 20,Retail
+Retail 21,Retail
+Retail 22,Retail
+Retail 23,Retail
+Retail 24,Retail
+Retail 25,Retail
+Retail 26,Retail
+Retail 27,Retail
+Retail 28,Retail
+Retail 29,Retail
+Retail 30,Retail
+Retail 31,Retail
+Retail 32,Retail
+Retail 33,Retail
+Retail 34,Retail
+Retail 35,Retail
+Retail 36,Retail
+Retail 37,Retail
+Retail 38,Retail
+Retail 39,Retail
+Retail 40,Retail
+Healthcare 1,Healthcare
+Healthcare 2,Healthcare
+Healthcare 3,Healthcare
+Healthcare 4,Healthcare
+Healthcare 5,Healthcare
+Healthcare 6,Healthcare
+Healthcare 7,Healthcare
+Healthcare 8,Healthcare
+Healthcare 9,Healthcare
+Healthcare 10,Healthcare
+Healthcare 11,Healthcare
+Healthcare 12,Healthcare
+Healthcare 13,Healthcare
+Healthcare 14,Healthcare
+Healthcare 15,Healthcare
+Healthcare 16,Healthcare
+Healthcare 17,Healthcare
+Healthcare 18,Healthcare
+Healthcare 19,Healthcare
+Healthcare 20,Healthcare
+Healthcare 21,Healthcare
+Healthcare 22,Healthcare
+Healthcare 23,Healthcare
+Healthcare 24,Healthcare
+Healthcare 25,Healthcare
+Healthcare 26,Healthcare
+Healthcare 27,Healthcare
+Healthcare 28,Healthcare
+Healthcare 29,Healthcare
+Healthcare 30,Healthcare
+Healthcare 31,Healthcare
+Healthcare 32,Healthcare
+Healthcare 33,Healthcare
+Healthcare 34,Healthcare
+Healthcare 35,Healthcare
+Construction 1,Construction
+Construction 2,Construction
+Construction 3,Construction
+Construction 4,Construction
+Construction 5,Construction
+Construction 6,Construction
+Construction 7,Construction
+Construction 8,Construction
+Construction 9,Construction
+Construction 10,Construction
+Construction 11,Construction
+Construction 12,Construction
+Construction 13,Construction
+Construction 14,Construction
+Construction 15,Construction
+Construction 16,Construction
+Construction 17,Construction
+Construction 18,Construction
+Construction 19,Construction
+Construction 20,Construction
+Construction 21,Construction
+Construction 22,Construction
+Construction 23,Construction
+Construction 24,Construction
+Construction 25,Construction
+Construction 26,Construction
+Construction 27,Construction
+Construction 28,Construction
+Construction 29,Construction
+Construction 30,Construction
+Agriculture 1,Agriculture
+Agriculture 2,Agriculture
+Agriculture 3,Agriculture
+Agriculture 4,Agriculture
+Agriculture 5,Agriculture
+Agriculture 6,Agriculture
+Agriculture 7,Agriculture
+Agriculture 8,Agriculture
+Agriculture 9,Agriculture
+Agriculture 10,Agriculture
+Agriculture 11,Agriculture
+Agriculture 12,Agriculture
+Agriculture 13,Agriculture
+Agriculture 14,Agriculture
+Agriculture 15,Agriculture
+Agriculture 16,Agriculture
+Agriculture 17,Agriculture
+Agriculture 18,Agriculture
+Agriculture 19,Agriculture
+Agriculture 20,Agriculture
+Telecommunications 1,Telecommunications
+Telecommunications 2,Telecommunications
+Telecommunications 3,Telecommunications
+Telecommunications 4,Telecommunications
+Telecommunications 5,Telecommunications
+Telecommunications 6,Telecommunications
+Telecommunications 7,Telecommunications
+Telecommunications 8,Telecommunications
+Telecommunications 9,Telecommunications
+Telecommunications 10,Telecommunications
+Telecommunications 11,Telecommunications
+Telecommunications 12,Telecommunications
+Telecommunications 13,Telecommunications
+Telecommunications 14,Telecommunications
+Telecommunications 15,Telecommunications
+Telecommunications 16,Telecommunications
+Telecommunications 17,Telecommunications
+Telecommunications 18,Telecommunications
+Telecommunications 19,Telecommunications
+Telecommunications 20,Telecommunications
+Education 1,Education
+Education 2,Education
+Education 3,Education
+Education 4,Education
+Education 5,Education
+Education 6,Education
+Education 7,Education
+Education 8,Education
+Education 9,Education
+Education 10,Education
+Education 11,Education
+Education 12,Education
+Education 13,Education
+Education 14,Education
+Education 15,Education
+Education 16,Education
+Education 17,Education
+Education 18,Education
+Education 19,Education
+Education 20,Education
+Media 1,Media
+Media 2,Media
+Media 3,Media
+Media 4,Media
+Media 5,Media
+Media 6,Media
+Media 7,Media
+Media 8,Media
+Media 9,Media
+Media 10,Media
+Media 11,Media
+Media 12,Media
+Media 13,Media
+Media 14,Media
+Media 15,Media
+Media 16,Media
+Media 17,Media
+Media 18,Media
+Media 19,Media
+Media 20,Media
+Mining 1,Mining
+Mining 2,Mining
+Mining 3,Mining
+Mining 4,Mining
+Mining 5,Mining
+Mining 6,Mining
+Mining 7,Mining
+Mining 8,Mining
+Mining 9,Mining
+Mining 10,Mining
+Mining 11,Mining
+Mining 12,Mining
+Mining 13,Mining
+Mining 14,Mining
+Mining 15,Mining
+Government 1,Government
+Government 2,Government
+Government 3,Government
+Government 4,Government
+Government 5,Government
+Government 6,Government
+Government 7,Government
+Government 8,Government
+Government 9,Government
+Government 10,Government
+Waste Management 1,Waste Management
+Waste Management 2,Waste Management
+Waste Management 3,Waste Management
+Waste Management 4,Waste Management
+Waste Management 5,Waste Management
+Waste Management 6,Waste Management
+Waste Management 7,Waste Management
+Waste Management 8,Waste Management
+Waste Management 9,Waste Management
+Waste Management 10,Waste Management
+Waste Management 11,Waste Management
+Waste Management 12,Waste Management
+Waste Management 13,Waste Management
+Waste Management 14,Waste Management
+Waste Management 15,Waste Management
