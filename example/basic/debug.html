@@ -1,0 +1,192 @@
+<head>
+  <style>
+    body { 
+      margin: 0; 
+      font-family: Arial, sans-serif;
+      background-color: #121212;  /* Dark background */
+      color: #ffffff;  /* White text */
+    }
+    .container {
+      padding: 20px;
+      max-width: 800px;
+      margin: 0 auto;
+    }
+    h1, h2, h3 {
+      color: #4CAF50;  /* Green headers */
+    }
+    pre {
+      background-color: #1e1e1e;
+      padding: 15px;
+      border-radius: 5px;
+      overflow: auto;
+      color: #e6e6e6;
+      border: 1px solid #333;
+    }
+    .button {
+      background-color: #4CAF50;
+      border: none;
+      color: white;
+      padding: 10px 20px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 10px 5px;
+      cursor: pointer;
+      border-radius: 4px;
+    }
+    .info {
+      background-color: #1e1e1e;
+      border-left: 4px solid #4CAF50;
+      padding: 10px;
+      margin: 10px 0;
+    }
+    .error {
+      background-color: #1e1e1e;
+      border-left: 4px solid #f44336;
+      padding: 10px;
+      margin: 10px 0;
+      color: #f44336;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container">
+    <h1>React Force Graph Debugger</h1>
+    
+    <div class="info">
+      <p>This page will help debug issues with the React Force Graph application.</p>
+    </div>
+    
+    <h2>Test Graph API</h2>
+    <button class="button" id="testGraphApi">Test Graph API</button>
+    <div id="graphApiResult"></div>
+    
+    <h2>Test Influences API</h2>
+    <input type="text" id="nodeId" placeholder="Enter node ID" style="padding: 8px; margin-right: 10px;">
+    <button class="button" id="testInfluencesApi">Test Influences API</button>
+    <div id="influencesApiResult"></div>
+    
+    <h2>Check Required Libraries</h2>
+    <button class="button" id="checkLibraries">Check Libraries</button>
+    <div id="librariesResult"></div>
+    
+    <h2>View Local Changes</h2>
+    <div id="changesResult">
+      <h3>Changes Made:</h3>
+      <ul>
+        <li>Changed "Influencers" to "Directly connected neighbours"</li>
+        <li>Changed "influence" to "incentive" in the UI</li>
+        <li>Added green scores for connected neighbors</li>
+        <li>Added "All Green Scores" button and panel</li>
+      </ul>
+    </div>
+  </div>
+
+  <script>
+    // Test Graph API
+    document.getElementById('testGraphApi').addEventListener('click', function() {
+      const resultDiv = document.getElementById('graphApiResult');
+      resultDiv.innerHTML = '<p>Loading...</p>';
+      
+      fetch('/api/graph')
+        .then(response => {
+          if (!response.ok) {
+            throw new Error(`HTTP error ${response.status}`);
+          }
+          return response.json();
+        })
+        .then(data => {
+          let output = `<div class="info"><p>Success! Received data with ${data.nodes.length} nodes and ${data.links.length} links.</p></div>`;
+          output += `<h3>Sample Nodes (first 3):</h3><pre>${JSON.stringify(data.nodes.slice(0, 3), null, 2)}</pre>`;
+          output += `<h3>Sample Links (first 3):</h3><pre>${JSON.stringify(data.links.slice(0, 3), null, 2)}</pre>`;
+          resultDiv.innerHTML = output;
+        })
+        .catch(error => {
+          resultDiv.innerHTML = `<div class="error"><p>Error: ${error.message}</p></div>`;
+        });
+    });
+    
+    // Test Influences API
+    document.getElementById('testInfluencesApi').addEventListener('click', function() {
+      const nodeId = document.getElementById('nodeId').value;
+      const resultDiv = document.getElementById('influencesApiResult');
+      
+      if (!nodeId) {
+        resultDiv.innerHTML = '<div class="error"><p>Please enter a node ID</p></div>';
+        return;
+      }
+      
+      resultDiv.innerHTML = '<p>Loading...</p>';
+      const encodedNodeId = encodeURIComponent(nodeId);
+      
+      fetch(`/api/influences/${encodedNodeId}`)
+        .then(response => {
+          if (!response.ok) {
+            throw new Error(`HTTP error ${response.status}`);
+          }
+          return response.json();
+        })
+        .then(data => {
+          let output = `<div class="info"><p>Success! Received data for node "${data.nodeName}".</p></div>`;
+          output += `<h3>Directly connected neighbours (${data.influencers.length}):</h3><pre>${JSON.stringify(data.influencers, null, 2)}</pre>`;
+          resultDiv.innerHTML = output;
+        })
+        .catch(error => {
+          resultDiv.innerHTML = `<div class="error"><p>Error: ${error.message}</p></div>`;
+        });
+    });
+    
+    // Check required libraries
+    document.getElementById('checkLibraries').addEventListener('click', function() {
+      const resultDiv = document.getElementById('librariesResult');
+      let output = '<h3>Library Status:</h3><ul>';
+      
+      // Check React
+      try {
+        const reactVersion = React.version;
+        output += `<li>React: ✅ Available (version ${reactVersion})</li>`;
+      } catch (e) {
+        output += `<li>React: ❌ Not available (${e.message})</li>`;
+      }
+      
+      // Check ReactDOM
+      try {
+        const reactDomVersion = ReactDOM ? 'Available' : 'Not defined';
+        output += `<li>ReactDOM: ✅ ${reactDomVersion}</li>`;
+      } catch (e) {
+        output += `<li>ReactDOM: ❌ Not available (${e.message})</li>`;
+      }
+      
+      // Check D3
+      try {
+        const d3Version = d3 ? d3.version : 'Available but no version';
+        output += `<li>D3.js: ✅ Available (version ${d3Version})</li>`;
+      } catch (e) {
+        output += `<li>D3.js: ❌ Not available (${e.message})</li>`;
+      }
+      
+      // Check Babel
+      try {
+        const babelAvailable = window.Babel ? 'Available' : 'Not defined';
+        output += `<li>Babel: ✅ ${babelAvailable}</li>`;
+      } catch (e) {
+        output += `<li>Babel: ❌ Not available (${e.message})</li>`;
+      }
+      
+      // Check ForceGraph3D
+      fetch('https://esm.sh/react-force-graph-3d?external=react')
+        .then(() => {
+          output += `<li>ForceGraph3D: ✅ URL accessible</li>`;
+          output += '</ul>';
+          resultDiv.innerHTML = output;
+        })
+        .catch(error => {
+          output += `<li>ForceGraph3D: ❌ URL not accessible (${error.message})</li>`;
+          output += '</ul>';
+          resultDiv.innerHTML = output;
+        });
+    });
+  </script>
+</body>

@@ -1,0 +1,8741 @@
+{
+  "nodes": [
+    {
+      "id": "Transportation 1",
+      "name": "Transportation 1",
+      "sector": "Transportation",
+      "val": 30,
+      "color": "#ff7f0e"
+    },
+    {
+      "id": "Transportation 2",
+      "name": "Transportation 2",
+      "sector": "Transportation",
+      "val": 72,
+      "color": "#ff7f0e"
+    },
+    {
+      "id": "Transportation 3",
+      "name": "Transportation 3",
+      "sector": "Transportation",
+      "val": 46.198303,
+      "color": "#ff7f0e"
+    },
+    {
+      "id": "Transportation 4",
+      "name": "Transportation 4",
+      "sector": "Transportation",
+      "val": 66.7839265,
+      "color": "#ff7f0e"
+    },
+    {
+      "id": "Transportation 5",
+      "name": "Transportation 5",
+      "sector": "Transportation",
+      "val": 74.5998175,
+      "color": "#ff7f0e"
+    },
+    {
+      "id": "Transportation 6",
+      "name": "Transportation 6",
+      "sector": "Transportation",
+      "val": 58,
+      "color": "#ff7f0e"
+    },
+    {
+      "id": "Transportation 7",
+      "name": "Transportation 7",
+      "sector": "Transportation",
+      "val": 52.006019,
+      "color": "#ff7f0e"
+    },
+    {
+      "id": "Transportation 8",
+      "name": "Transportation 8",
+      "sector": "Transportation",
+      "val": 21,
+      "color": "#ff7f0e"
+    },
+    {
+      "id": "Transportation 9",
+      "name": "Transportation 9",
+      "sector": "Transportation",
+      "val": 65.732485,
+      "color": "#ff7f0e"
+    },
+    {
+      "id": "Transportation 10",
+      "name": "Transportation 10",
+      "sector": "Transportation",
+      "val": 80,
+      "color": "#ff7f0e"
+    },
+    {
+      "id": "Transportation 11",
+      "name": "Transportation 11",
+      "sector": "Transportation",
+      "val": 46,
+      "color": "#ff7f0e"
+    },
+    {
+      "id": "Transportation 12",
+      "name": "Transportation 12",
+      "sector": "Transportation",
+      "val": 47.35375,
+      "color": "#ff7f0e"
+    },
+    {
+      "id": "Transportation 13",
+      "name": "Transportation 13",
+      "sector": "Transportation",
+      "val": 65,
+      "color": "#ff7f0e"
+    },
+    {
+      "id": "Transportation 14",
+      "name": "Transportation 14",
+      "sector": "Transportation",
+      "val": 39,
+      "color": "#ff7f0e"
+    },
+    {
+      "id": "Transportation 15",
+      "name": "Transportation 15",
+      "sector": "Transportation",
+      "val": 61.558935,
+      "color": "#ff7f0e"
+    },
+    {
+      "id": "Transportation 16",
+      "name": "Transportation 16",
+      "sector": "Transportation",
+      "val": 59.6999,
+      "color": "#ff7f0e"
+    },
+    {
+      "id": "Transportation 17",
+      "name": "Transportation 17",
+      "sector": "Transportation",
+      "val": 63,
+      "color": "#ff7f0e"
+    },
+    {
+      "id": "Transportation 18",
+      "name": "Transportation 18",
+      "sector": "Transportation",
+      "val": 58,
+      "color": "#ff7f0e"
+    },
+    {
+      "id": "Transportation 19",
+      "name": "Transportation 19",
+      "sector": "Transportation",
+      "val": 67,
+      "color": "#ff7f0e"
+    },
+    {
+      "id": "Transportation 20",
+      "name": "Transportation 20",
+      "sector": "Transportation",
+      "val": 72,
+      "color": "#ff7f0e"
+    },
+    {
+      "id": "Transportation 21",
+      "name": "Transportation 21",
+      "sector": "Transportation",
+      "val": 53.089376,
+      "color": "#ff7f0e"
+    },
+    {
+      "id": "Transportation 22",
+      "name": "Transportation 22",
+      "sector": "Transportation",
+      "val": 41.34854,
+      "color": "#ff7f0e"
+    },
+    {
+      "id": "Transportation 23",
+      "name": "Transportation 23",
+      "sector": "Transportation",
+      "val": 32.499735,
+      "color": "#ff7f0e"
+    },
+    {
+      "id": "Transportation 24",
+      "name": "Transportation 24",
+      "sector": "Transportation",
+      "val": 39,
+      "color": "#ff7f0e"
+    },
+    {
+      "id": "Transportation 25",
+      "name": "Transportation 25",
+      "sector": "Transportation",
+      "val": 68,
+      "color": "#ff7f0e"
+    },
+    {
+      "id": "Transportation 26",
+      "name": "Transportation 26",
+      "sector": "Transportation",
+      "val": 27.3275,
+      "color": "#ff7f0e"
+    },
+    {
+      "id": "Transportation 27",
+      "name": "Transportation 27",
+      "sector": "Transportation",
+      "val": 69.221472,
+      "color": "#ff7f0e"
+    },
+    {
+      "id": "Transportation 28",
+      "name": "Transportation 28",
+      "sector": "Transportation",
+      "val": 79.2639385,
+      "color": "#ff7f0e"
+    },
+    {
+      "id": "Transportation 29",
+      "name": "Transportation 29",
+      "sector": "Transportation",
+      "val": 53,
+      "color": "#ff7f0e"
+    },
+    {
+      "id": "Transportation 30",
+      "name": "Transportation 30",
+      "sector": "Transportation",
+      "val": 60,
+      "color": "#ff7f0e"
+    },
+    {
+      "id": "Transportation 31",
+      "name": "Transportation 31",
+      "sector": "Transportation",
+      "val": 75.8728295,
+      "color": "#ff7f0e"
+    },
+    {
+      "id": "Transportation 32",
+      "name": "Transportation 32",
+      "sector": "Transportation",
+      "val": 50.10571,
+      "color": "#ff7f0e"
+    },
+    {
+      "id": "Transportation 33",
+      "name": "Transportation 33",
+      "sector": "Transportation",
+      "val": 41.55727,
+      "color": "#ff7f0e"
+    },
+    {
+      "id": "Transportation 34",
+      "name": "Transportation 34",
+      "sector": "Transportation",
+      "val": 55.05177,
+      "color": "#ff7f0e"
+    },
+    {
+      "id": "Transportation 35",
+      "name": "Transportation 35",
+      "sector": "Transportation",
+      "val": 72,
+      "color": "#ff7f0e"
+    },
+    {
+      "id": "Energy 1",
+      "name": "Energy 1",
+      "sector": "Energy",
+      "val": 40.058653,
+      "color": "#9467bd"
+    },
+    {
+      "id": "Energy 2",
+      "name": "Energy 2",
+      "sector": "Energy",
+      "val": 70,
+      "color": "#9467bd"
+    },
+    {
+      "id": "Energy 3",
+      "name": "Energy 3",
+      "sector": "Energy",
+      "val": 44.3681045,
+      "color": "#9467bd"
+    },
+    {
+      "id": "Energy 4",
+      "name": "Energy 4",
+      "sector": "Energy",
+      "val": 41.3657445,
+      "color": "#9467bd"
+    },
+    {
+      "id": "Energy 5",
+      "name": "Energy 5",
+      "sector": "Energy",
+      "val": 41.560249999999996,
+      "color": "#9467bd"
+    },
+    {
+      "id": "Energy 6",
+      "name": "Energy 6",
+      "sector": "Energy",
+      "val": 49.075411,
+      "color": "#9467bd"
+    },
+    {
+      "id": "Energy 7",
+      "name": "Energy 7",
+      "sector": "Energy",
+      "val": 78,
+      "color": "#9467bd"
+    },
+    {
+      "id": "Energy 8",
+      "name": "Energy 8",
+      "sector": "Energy",
+      "val": 59,
+      "color": "#9467bd"
+    },
+    {
+      "id": "Energy 9",
+      "name": "Energy 9",
+      "sector": "Energy",
+      "val": 24,
+      "color": "#9467bd"
+    },
+    {
+      "id": "Energy 10",
+      "name": "Energy 10",
+      "sector": "Energy",
+      "val": 69.0,
+      "color": "#9467bd"
+    },
+    {
+      "id": "Energy 11",
+      "name": "Energy 11",
+      "sector": "Energy",
+      "val": 64.833139,
+      "color": "#9467bd"
+    },
+    {
+      "id": "Energy 12",
+      "name": "Energy 12",
+      "sector": "Energy",
+      "val": 77,
+      "color": "#9467bd"
+    },
+    {
+      "id": "Energy 13",
+      "name": "Energy 13",
+      "sector": "Energy",
+      "val": 57.1166285,
+      "color": "#9467bd"
+    },
+    {
+      "id": "Energy 14",
+      "name": "Energy 14",
+      "sector": "Energy",
+      "val": 33.147999999999996,
+      "color": "#9467bd"
+    },
+    {
+      "id": "Energy 15",
+      "name": "Energy 15",
+      "sector": "Energy",
+      "val": 67.1624595,
+      "color": "#9467bd"
+    },
+    {
+      "id": "Manufacturing 1",
+      "name": "Manufacturing 1",
+      "sector": "Manufacturing",
+      "val": 45,
+      "color": "#7f7f7f"
+    },
+    {
+      "id": "Manufacturing 2",
+      "name": "Manufacturing 2",
+      "sector": "Manufacturing",
+      "val": 52.19152,
+      "color": "#7f7f7f"
+    },
+    {
+      "id": "Manufacturing 3",
+      "name": "Manufacturing 3",
+      "sector": "Manufacturing",
+      "val": 34.67206,
+      "color": "#7f7f7f"
+    },
+    {
+      "id": "Manufacturing 4",
+      "name": "Manufacturing 4",
+      "sector": "Manufacturing",
+      "val": 48,
+      "color": "#7f7f7f"
+    },
+    {
+      "id": "Manufacturing 5",
+      "name": "Manufacturing 5",
+      "sector": "Manufacturing",
+      "val": 40.297814,
+      "color": "#7f7f7f"
+    },
+    {
+      "id": "Manufacturing 6",
+      "name": "Manufacturing 6",
+      "sector": "Manufacturing",
+      "val": 60.603035,
+      "color": "#7f7f7f"
+    },
+    {
+      "id": "Manufacturing 7",
+      "name": "Manufacturing 7",
+      "sector": "Manufacturing",
+      "val": 50,
+      "color": "#7f7f7f"
+    },
+    {
+      "id": "Manufacturing 8",
+      "name": "Manufacturing 8",
+      "sector": "Manufacturing",
+      "val": 60,
+      "color": "#7f7f7f"
+    },
+    {
+      "id": "Manufacturing 9",
+      "name": "Manufacturing 9",
+      "sector": "Manufacturing",
+      "val": 67.908005,
+      "color": "#7f7f7f"
+    },
+    {
+      "id": "Manufacturing 10",
+      "name": "Manufacturing 10",
+      "sector": "Manufacturing",
+      "val": 86.0,
+      "color": "#7f7f7f"
+    },
+    {
+      "id": "Manufacturing 11",
+      "name": "Manufacturing 11",
+      "sector": "Manufacturing",
+      "val": 28.343539,
+      "color": "#7f7f7f"
+    },
+    {
+      "id": "Manufacturing 12",
+      "name": "Manufacturing 12",
+      "sector": "Manufacturing",
+      "val": 56,
+      "color": "#7f7f7f"
+    },
+    {
+      "id": "Manufacturing 13",
+      "name": "Manufacturing 13",
+      "sector": "Manufacturing",
+      "val": 22.076342,
+      "color": "#7f7f7f"
+    },
+    {
+      "id": "Manufacturing 14",
+      "name": "Manufacturing 14",
+      "sector": "Manufacturing",
+      "val": 33,
+      "color": "#7f7f7f"
+    },
+    {
+      "id": "Manufacturing 15",
+      "name": "Manufacturing 15",
+      "sector": "Manufacturing",
+      "val": 57.332367,
+      "color": "#7f7f7f"
+    },
+    {
+      "id": "Manufacturing 16",
+      "name": "Manufacturing 16",
+      "sector": "Manufacturing",
+      "val": 35,
+      "color": "#7f7f7f"
+    },
+    {
+      "id": "Manufacturing 17",
+      "name": "Manufacturing 17",
+      "sector": "Manufacturing",
+      "val": 79,
+      "color": "#7f7f7f"
+    },
+    {
+      "id": "Manufacturing 18",
+      "name": "Manufacturing 18",
+      "sector": "Manufacturing",
+      "val": 50.476672,
+      "color": "#7f7f7f"
+    },
+    {
+      "id": "Manufacturing 19",
+      "name": "Manufacturing 19",
+      "sector": "Manufacturing",
+      "val": 81.751105,
+      "color": "#7f7f7f"
+    },
+    {
+      "id": "Manufacturing 20",
+      "name": "Manufacturing 20",
+      "sector": "Manufacturing",
+      "val": 78.513912,
+      "color": "#7f7f7f"
+    },
+    {
+      "id": "Manufacturing 21",
+      "name": "Manufacturing 21",
+      "sector": "Manufacturing",
+      "val": 70,
+      "color": "#7f7f7f"
+    },
+    {
+      "id": "Manufacturing 22",
+      "name": "Manufacturing 22",
+      "sector": "Manufacturing",
+      "val": 39,
+      "color": "#7f7f7f"
+    },
+    {
+      "id": "Manufacturing 23",
+      "name": "Manufacturing 23",
+      "sector": "Manufacturing",
+      "val": 30.3789505,
+      "color": "#7f7f7f"
+    },
+    {
+      "id": "Manufacturing 24",
+      "name": "Manufacturing 24",
+      "sector": "Manufacturing",
+      "val": 63,
+      "color": "#7f7f7f"
+    },
+    {
+      "id": "Manufacturing 25",
+      "name": "Manufacturing 25",
+      "sector": "Manufacturing",
+      "val": 78.14357500000001,
+      "color": "#7f7f7f"
+    },
+    {
+      "id": "Manufacturing 26",
+      "name": "Manufacturing 26",
+      "sector": "Manufacturing",
+      "val": 76,
+      "color": "#7f7f7f"
+    },
+    {
+      "id": "Manufacturing 27",
+      "name": "Manufacturing 27",
+      "sector": "Manufacturing",
+      "val": 66.5263745,
+      "color": "#7f7f7f"
+    },
+    {
+      "id": "Manufacturing 28",
+      "name": "Manufacturing 28",
+      "sector": "Manufacturing",
+      "val": 42.2453185,
+      "color": "#7f7f7f"
+    },
+    {
+      "id": "Manufacturing 29",
+      "name": "Manufacturing 29",
+      "sector": "Manufacturing",
+      "val": 53.090250499999996,
+      "color": "#7f7f7f"
+    },
+    {
+      "id": "Manufacturing 30",
+      "name": "Manufacturing 30",
+      "sector": "Manufacturing",
+      "val": 39.395765,
+      "color": "#7f7f7f"
+    },
+    {
+      "id": "Manufacturing 31",
+      "name": "Manufacturing 31",
+      "sector": "Manufacturing",
+      "val": 77.669585,
+      "color": "#7f7f7f"
+    },
+    {
+      "id": "Manufacturing 32",
+      "name": "Manufacturing 32",
+      "sector": "Manufacturing",
+      "val": 72.416623,
+      "color": "#7f7f7f"
+    },
+    {
+      "id": "Manufacturing 33",
+      "name": "Manufacturing 33",
+      "sector": "Manufacturing",
+      "val": 74.454965,
+      "color": "#7f7f7f"
+    },
+    {
+      "id": "Manufacturing 34",
+      "name": "Manufacturing 34",
+      "sector": "Manufacturing",
+      "val": 41.7985,
+      "color": "#7f7f7f"
+    },
+    {
+      "id": "Manufacturing 35",
+      "name": "Manufacturing 35",
+      "sector": "Manufacturing",
+      "val": 33.669045,
+      "color": "#7f7f7f"
+    },
+    {
+      "id": "Manufacturing 36",
+      "name": "Manufacturing 36",
+      "sector": "Manufacturing",
+      "val": 25,
+      "color": "#7f7f7f"
+    },
+    {
+      "id": "Manufacturing 37",
+      "name": "Manufacturing 37",
+      "sector": "Manufacturing",
+      "val": 36.076236,
+      "color": "#7f7f7f"
+    },
+    {
+      "id": "Manufacturing 38",
+      "name": "Manufacturing 38",
+      "sector": "Manufacturing",
+      "val": 35,
+      "color": "#7f7f7f"
+    },
+    {
+      "id": "Manufacturing 39",
+      "name": "Manufacturing 39",
+      "sector": "Manufacturing",
+      "val": 62.141855,
+      "color": "#7f7f7f"
+    },
+    {
+      "id": "Manufacturing 40",
+      "name": "Manufacturing 40",
+      "sector": "Manufacturing",
+      "val": 27.3970715,
+      "color": "#7f7f7f"
+    },
+    {
+      "id": "Information Technology 1",
+      "name": "Information Technology 1",
+      "sector": "Information Technology",
+      "val": 24.2823,
+      "color": "#2ca02c"
+    },
+    {
+      "id": "Information Technology 2",
+      "name": "Information Technology 2",
+      "sector": "Information Technology",
+      "val": 27,
+      "color": "#2ca02c"
+    },
+    {
+      "id": "Information Technology 3",
+      "name": "Information Technology 3",
+      "sector": "Information Technology",
+      "val": 28.729006,
+      "color": "#2ca02c"
+    },
+    {
+      "id": "Information Technology 4",
+      "name": "Information Technology 4",
+      "sector": "Information Technology",
+      "val": 43,
+      "color": "#2ca02c"
+    },
+    {
+      "id": "Information Technology 5",
+      "name": "Information Technology 5",
+      "sector": "Information Technology",
+      "val": 80.443875,
+      "color": "#2ca02c"
+    },
+    {
+      "id": "Information Technology 6",
+      "name": "Information Technology 6",
+      "sector": "Information Technology",
+      "val": 72,
+      "color": "#2ca02c"
+    },
+    {
+      "id": "Information Technology 7",
+      "name": "Information Technology 7",
+      "sector": "Information Technology",
+      "val": 77.3775205,
+      "color": "#2ca02c"
+    },
+    {
+      "id": "Information Technology 8",
+      "name": "Information Technology 8",
+      "sector": "Information Technology",
+      "val": 62.43773,
+      "color": "#2ca02c"
+    },
+    {
+      "id": "Information Technology 9",
+      "name": "Information Technology 9",
+      "sector": "Information Technology",
+      "val": 53.4612045,
+      "color": "#2ca02c"
+    },
+    {
+      "id": "Information Technology 10",
+      "name": "Information Technology 10",
+      "sector": "Information Technology",
+      "val": 56,
+      "color": "#2ca02c"
+    },
+    {
+      "id": "Information Technology 11",
+      "name": "Information Technology 11",
+      "sector": "Information Technology",
+      "val": 49.2185,
+      "color": "#2ca02c"
+    },
+    {
+      "id": "Information Technology 12",
+      "name": "Information Technology 12",
+      "sector": "Information Technology",
+      "val": 58,
+      "color": "#2ca02c"
+    },
+    {
+      "id": "Information Technology 13",
+      "name": "Information Technology 13",
+      "sector": "Information Technology",
+      "val": 38.256025,
+      "color": "#2ca02c"
+    },
+    {
+      "id": "Information Technology 14",
+      "name": "Information Technology 14",
+      "sector": "Information Technology",
+      "val": 60.401805,
+      "color": "#2ca02c"
+    },
+    {
+      "id": "Information Technology 15",
+      "name": "Information Technology 15",
+      "sector": "Information Technology",
+      "val": 40.660345,
+      "color": "#2ca02c"
+    },
+    {
+      "id": "Information Technology 16",
+      "name": "Information Technology 16",
+      "sector": "Information Technology",
+      "val": 61.470155,
+      "color": "#2ca02c"
+    },
+    {
+      "id": "Information Technology 17",
+      "name": "Information Technology 17",
+      "sector": "Information Technology",
+      "val": 76,
+      "color": "#2ca02c"
+    },
+    {
+      "id": "Information Technology 18",
+      "name": "Information Technology 18",
+      "sector": "Information Technology",
+      "val": 46.208544,
+      "color": "#2ca02c"
+    },
+    {
+      "id": "Information Technology 19",
+      "name": "Information Technology 19",
+      "sector": "Information Technology",
+      "val": 58.436639,
+      "color": "#2ca02c"
+    },
+    {
+      "id": "Information Technology 20",
+      "name": "Information Technology 20",
+      "sector": "Information Technology",
+      "val": 29.366765,
+      "color": "#2ca02c"
+    },
+    {
+      "id": "Information Technology 21",
+      "name": "Information Technology 21",
+      "sector": "Information Technology",
+      "val": 52.4770315,
+      "color": "#2ca02c"
+    },
+    {
+      "id": "Information Technology 22",
+      "name": "Information Technology 22",
+      "sector": "Information Technology",
+      "val": 60.1660775,
+      "color": "#2ca02c"
+    },
+    {
+      "id": "Information Technology 23",
+      "name": "Information Technology 23",
+      "sector": "Information Technology",
+      "val": 67.200165,
+      "color": "#2ca02c"
+    },
+    {
+      "id": "Information Technology 24",
+      "name": "Information Technology 24",
+      "sector": "Information Technology",
+      "val": 51.6420145,
+      "color": "#2ca02c"
+    },
+    {
+      "id": "Information Technology 25",
+      "name": "Information Technology 25",
+      "sector": "Information Technology",
+      "val": 49.5292,
+      "color": "#2ca02c"
+    },
+    {
+      "id": "Information Technology 26",
+      "name": "Information Technology 26",
+      "sector": "Information Technology",
+      "val": 41.537639999999996,
+      "color": "#2ca02c"
+    },
+    {
+      "id": "Information Technology 27",
+      "name": "Information Technology 27",
+      "sector": "Information Technology",
+      "val": 53,
+      "color": "#2ca02c"
+    },
+    {
+      "id": "Information Technology 28",
+      "name": "Information Technology 28",
+      "sector": "Information Technology",
+      "val": 34.18375,
+      "color": "#2ca02c"
+    },
+    {
+      "id": "Information Technology 29",
+      "name": "Information Technology 29",
+      "sector": "Information Technology",
+      "val": 42,
+      "color": "#2ca02c"
+    },
+    {
+      "id": "Information Technology 30",
+      "name": "Information Technology 30",
+      "sector": "Information Technology",
+      "val": 65.99234,
+      "color": "#2ca02c"
+    },
+    {
+      "id": "Information Technology 31",
+      "name": "Information Technology 31",
+      "sector": "Information Technology",
+      "val": 60.732697,
+      "color": "#2ca02c"
+    },
+    {
+      "id": "Information Technology 32",
+      "name": "Information Technology 32",
+      "sector": "Information Technology",
+      "val": 63.95069,
+      "color": "#2ca02c"
+    },
+    {
+      "id": "Information Technology 33",
+      "name": "Information Technology 33",
+      "sector": "Information Technology",
+      "val": 61,
+      "color": "#2ca02c"
+    },
+    {
+      "id": "Information Technology 34",
+      "name": "Information Technology 34",
+      "sector": "Information Technology",
+      "val": 23.5395145,
+      "color": "#2ca02c"
+    },
+    {
+      "id": "Information Technology 35",
+      "name": "Information Technology 35",
+      "sector": "Information Technology",
+      "val": 23,
+      "color": "#2ca02c"
+    },
+    {
+      "id": "Information Technology 36",
+      "name": "Information Technology 36",
+      "sector": "Information Technology",
+      "val": 44.565452,
+      "color": "#2ca02c"
+    },
+    {
+      "id": "Information Technology 37",
+      "name": "Information Technology 37",
+      "sector": "Information Technology",
+      "val": 22.263865,
+      "color": "#2ca02c"
+    },
+    {
+      "id": "Information Technology 38",
+      "name": "Information Technology 38",
+      "sector": "Information Technology",
+      "val": 72.1056685,
+      "color": "#2ca02c"
+    },
+    {
+      "id": "Information Technology 39",
+      "name": "Information Technology 39",
+      "sector": "Information Technology",
+      "val": 79,
+      "color": "#2ca02c"
+    },
+    {
+      "id": "Information Technology 40",
+      "name": "Information Technology 40",
+      "sector": "Information Technology",
+      "val": 37,
+      "color": "#2ca02c"
+    },
+    {
+      "id": "Information Technology 41",
+      "name": "Information Technology 41",
+      "sector": "Information Technology",
+      "val": 25.366814,
+      "color": "#2ca02c"
+    },
+    {
+      "id": "Information Technology 42",
+      "name": "Information Technology 42",
+      "sector": "Information Technology",
+      "val": 69.82596050000001,
+      "color": "#2ca02c"
+    },
+    {
+      "id": "Information Technology 43",
+      "name": "Information Technology 43",
+      "sector": "Information Technology",
+      "val": 39,
+      "color": "#2ca02c"
+    },
+    {
+      "id": "Information Technology 44",
+      "name": "Information Technology 44",
+      "sector": "Information Technology",
+      "val": 77.759925,
+      "color": "#2ca02c"
+    },
+    {
+      "id": "Information Technology 45",
+      "name": "Information Technology 45",
+      "sector": "Information Technology",
+      "val": 78.358294,
+      "color": "#2ca02c"
+    },
+    {
+      "id": "Finance 1",
+      "name": "Finance 1",
+      "sector": "Finance",
+      "val": 74,
+      "color": "#ff9896"
+    },
+    {
+      "id": "Finance 2",
+      "name": "Finance 2",
+      "sector": "Finance",
+      "val": 73,
+      "color": "#ff9896"
+    },
+    {
+      "id": "Finance 3",
+      "name": "Finance 3",
+      "sector": "Finance",
+      "val": 39.6410485,
+      "color": "#ff9896"
+    },
+    {
+      "id": "Finance 4",
+      "name": "Finance 4",
+      "sector": "Finance",
+      "val": 78.3626245,
+      "color": "#ff9896"
+    },
+    {
+      "id": "Finance 5",
+      "name": "Finance 5",
+      "sector": "Finance",
+      "val": 27,
+      "color": "#ff9896"
+    },
+    {
+      "id": "Finance 6",
+      "name": "Finance 6",
+      "sector": "Finance",
+      "val": 67.958585,
+      "color": "#ff9896"
+    },
+    {
+      "id": "Finance 7",
+      "name": "Finance 7",
+      "sector": "Finance",
+      "val": 41.82005,
+      "color": "#ff9896"
+    },
+    {
+      "id": "Finance 8",
+      "name": "Finance 8",
+      "sector": "Finance",
+      "val": 45.23275,
+      "color": "#ff9896"
+    },
+    {
+      "id": "Finance 9",
+      "name": "Finance 9",
+      "sector": "Finance",
+      "val": 43.4920335,
+      "color": "#ff9896"
+    },
+    {
+      "id": "Finance 10",
+      "name": "Finance 10",
+      "sector": "Finance",
+      "val": 79.7183,
+      "color": "#ff9896"
+    },
+    {
+      "id": "Finance 11",
+      "name": "Finance 11",
+      "sector": "Finance",
+      "val": 67,
+      "color": "#ff9896"
+    },
+    {
+      "id": "Finance 12",
+      "name": "Finance 12",
+      "sector": "Finance",
+      "val": 69,
+      "color": "#ff9896"
+    },
+    {
+      "id": "Finance 13",
+      "name": "Finance 13",
+      "sector": "Finance",
+      "val": 20,
+      "color": "#ff9896"
+    },
+    {
+      "id": "Finance 14",
+      "name": "Finance 14",
+      "sector": "Finance",
+      "val": 31.2924955,
+      "color": "#ff9896"
+    },
+    {
+      "id": "Finance 15",
+      "name": "Finance 15",
+      "sector": "Finance",
+      "val": 37,
+      "color": "#ff9896"
+    },
+    {
+      "id": "Finance 16",
+      "name": "Finance 16",
+      "sector": "Finance",
+      "val": 45.5385835,
+      "color": "#ff9896"
+    },
+    {
+      "id": "Finance 17",
+      "name": "Finance 17",
+      "sector": "Finance",
+      "val": 45.0180485,
+      "color": "#ff9896"
+    },
+    {
+      "id": "Finance 18",
+      "name": "Finance 18",
+      "sector": "Finance",
+      "val": 34.7378,
+      "color": "#ff9896"
+    },
+    {
+      "id": "Finance 19",
+      "name": "Finance 19",
+      "sector": "Finance",
+      "val": 30,
+      "color": "#ff9896"
+    },
+    {
+      "id": "Finance 20",
+      "name": "Finance 20",
+      "sector": "Finance",
+      "val": 66.2069355,
+      "color": "#ff9896"
+    },
+    {
+      "id": "Finance 21",
+      "name": "Finance 21",
+      "sector": "Finance",
+      "val": 29.92052,
+      "color": "#ff9896"
+    },
+    {
+      "id": "Finance 22",
+      "name": "Finance 22",
+      "sector": "Finance",
+      "val": 78,
+      "color": "#ff9896"
+    },
+    {
+      "id": "Finance 23",
+      "name": "Finance 23",
+      "sector": "Finance",
+      "val": 35.047,
+      "color": "#ff9896"
+    },
+    {
+      "id": "Finance 24",
+      "name": "Finance 24",
+      "sector": "Finance",
+      "val": 42.1791115,
+      "color": "#ff9896"
+    },
+    {
+      "id": "Finance 25",
+      "name": "Finance 25",
+      "sector": "Finance",
+      "val": 71,
+      "color": "#ff9896"
+    },
+    {
+      "id": "Finance 26",
+      "name": "Finance 26",
+      "sector": "Finance",
+      "val": 58.8476,
+      "color": "#ff9896"
+    },
+    {
+      "id": "Finance 27",
+      "name": "Finance 27",
+      "sector": "Finance",
+      "val": 23,
+      "color": "#ff9896"
+    },
+    {
+      "id": "Finance 28",
+      "name": "Finance 28",
+      "sector": "Finance",
+      "val": 41.35387,
+      "color": "#ff9896"
+    },
+    {
+      "id": "Finance 29",
+      "name": "Finance 29",
+      "sector": "Finance",
+      "val": 54.752248,
+      "color": "#ff9896"
+    },
+    {
+      "id": "Finance 30",
+      "name": "Finance 30",
+      "sector": "Finance",
+      "val": 62.3524,
+      "color": "#ff9896"
+    },
+    {
+      "id": "Finance 31",
+      "name": "Finance 31",
+      "sector": "Finance",
+      "val": 69,
+      "color": "#ff9896"
+    },
+    {
+      "id": "Finance 32",
+      "name": "Finance 32",
+      "sector": "Finance",
+      "val": 37.082254999999996,
+      "color": "#ff9896"
+    },
+    {
+      "id": "Finance 33",
+      "name": "Finance 33",
+      "sector": "Finance",
+      "val": 58.703003,
+      "color": "#ff9896"
+    },
+    {
+      "id": "Finance 34",
+      "name": "Finance 34",
+      "sector": "Finance",
+      "val": 50.745870000000004,
+      "color": "#ff9896"
+    },
+    {
+      "id": "Finance 35",
+      "name": "Finance 35",
+      "sector": "Finance",
+      "val": 56.21828,
+      "color": "#ff9896"
+    },
+    {
+      "id": "Finance 36",
+      "name": "Finance 36",
+      "sector": "Finance",
+      "val": 39.12768,
+      "color": "#ff9896"
+    },
+    {
+      "id": "Finance 37",
+      "name": "Finance 37",
+      "sector": "Finance",
+      "val": 79,
+      "color": "#ff9896"
+    },
+    {
+      "id": "Finance 38",
+      "name": "Finance 38",
+      "sector": "Finance",
+      "val": 81.5989435,
+      "color": "#ff9896"
+    },
+    {
+      "id": "Finance 39",
+      "name": "Finance 39",
+      "sector": "Finance",
+      "val": 39.54546,
+      "color": "#ff9896"
+    },
+    {
+      "id": "Finance 40",
+      "name": "Finance 40",
+      "sector": "Finance",
+      "val": 47,
+      "color": "#ff9896"
+    },
+    {
+      "id": "Retail 1",
+      "name": "Retail 1",
+      "sector": "Retail",
+      "val": 68.28478,
+      "color": "#ffbb78"
+    },
+    {
+      "id": "Retail 2",
+      "name": "Retail 2",
+      "sector": "Retail",
+      "val": 33.697213,
+      "color": "#ffbb78"
+    },
+    {
+      "id": "Retail 3",
+      "name": "Retail 3",
+      "sector": "Retail",
+      "val": 38.208795,
+      "color": "#ffbb78"
+    },
+    {
+      "id": "Retail 4",
+      "name": "Retail 4",
+      "sector": "Retail",
+      "val": 64.65268,
+      "color": "#ffbb78"
+    },
+    {
+      "id": "Retail 5",
+      "name": "Retail 5",
+      "sector": "Retail",
+      "val": 80.70471,
+      "color": "#ffbb78"
+    },
+    {
+      "id": "Retail 6",
+      "name": "Retail 6",
+      "sector": "Retail",
+      "val": 30.05135,
+      "color": "#ffbb78"
+    },
+    {
+      "id": "Retail 7",
+      "name": "Retail 7",
+      "sector": "Retail",
+      "val": 51,
+      "color": "#ffbb78"
+    },
+    {
+      "id": "Retail 8",
+      "name": "Retail 8",
+      "sector": "Retail",
+      "val": 53,
+      "color": "#ffbb78"
+    },
+    {
+      "id": "Retail 9",
+      "name": "Retail 9",
+      "sector": "Retail",
+      "val": 44.443715,
+      "color": "#ffbb78"
+    },
+    {
+      "id": "Retail 10",
+      "name": "Retail 10",
+      "sector": "Retail",
+      "val": 74.0117765,
+      "color": "#ffbb78"
+    },
+    {
+      "id": "Retail 11",
+      "name": "Retail 11",
+      "sector": "Retail",
+      "val": 51.193515,
+      "color": "#ffbb78"
+    },
+    {
+      "id": "Retail 12",
+      "name": "Retail 12",
+      "sector": "Retail",
+      "val": 24.160132,
+      "color": "#ffbb78"
+    },
+    {
+      "id": "Retail 13",
+      "name": "Retail 13",
+      "sector": "Retail",
+      "val": 28.6530965,
+      "color": "#ffbb78"
+    },
+    {
+      "id": "Retail 14",
+      "name": "Retail 14",
+      "sector": "Retail",
+      "val": 70.211337,
+      "color": "#ffbb78"
+    },
+    {
+      "id": "Retail 15",
+      "name": "Retail 15",
+      "sector": "Retail",
+      "val": 68.847875,
+      "color": "#ffbb78"
+    },
+    {
+      "id": "Retail 16",
+      "name": "Retail 16",
+      "sector": "Retail",
+      "val": 51,
+      "color": "#ffbb78"
+    },
+    {
+      "id": "Retail 17",
+      "name": "Retail 17",
+      "sector": "Retail",
+      "val": 74,
+      "color": "#ffbb78"
+    },
+    {
+      "id": "Retail 18",
+      "name": "Retail 18",
+      "sector": "Retail",
+      "val": 22.4351285,
+      "color": "#ffbb78"
+    },
+    {
+      "id": "Retail 19",
+      "name": "Retail 19",
+      "sector": "Retail",
+      "val": 27.82593,
+      "color": "#ffbb78"
+    },
+    {
+      "id": "Retail 20",
+      "name": "Retail 20",
+      "sector": "Retail",
+      "val": 35.3384415,
+      "color": "#ffbb78"
+    },
+    {
+      "id": "Retail 21",
+      "name": "Retail 21",
+      "sector": "Retail",
+      "val": 33.94579,
+      "color": "#ffbb78"
+    },
+    {
+      "id": "Retail 22",
+      "name": "Retail 22",
+      "sector": "Retail",
+      "val": 29.7189855,
+      "color": "#ffbb78"
+    },
+    {
+      "id": "Retail 23",
+      "name": "Retail 23",
+      "sector": "Retail",
+      "val": 54.963585,
+      "color": "#ffbb78"
+    },
+    {
+      "id": "Retail 24",
+      "name": "Retail 24",
+      "sector": "Retail",
+      "val": 51.168245,
+      "color": "#ffbb78"
+    },
+    {
+      "id": "Retail 25",
+      "name": "Retail 25",
+      "sector": "Retail",
+      "val": 24.346625,
+      "color": "#ffbb78"
+    },
+    {
+      "id": "Retail 26",
+      "name": "Retail 26",
+      "sector": "Retail",
+      "val": 32,
+      "color": "#ffbb78"
+    },
+    {
+      "id": "Retail 27",
+      "name": "Retail 27",
+      "sector": "Retail",
+      "val": 61.110577,
+      "color": "#ffbb78"
+    },
+    {
+      "id": "Retail 28",
+      "name": "Retail 28",
+      "sector": "Retail",
+      "val": 58.553414499999995,
+      "color": "#ffbb78"
+    },
+    {
+      "id": "Retail 29",
+      "name": "Retail 29",
+      "sector": "Retail",
+      "val": 44.782473,
+      "color": "#ffbb78"
+    },
+    {
+      "id": "Retail 30",
+      "name": "Retail 30",
+      "sector": "Retail",
+      "val": 44,
+      "color": "#ffbb78"
+    },
+    {
+      "id": "Retail 31",
+      "name": "Retail 31",
+      "sector": "Retail",
+      "val": 23.991515,
+      "color": "#ffbb78"
+    },
+    {
+      "id": "Retail 32",
+      "name": "Retail 32",
+      "sector": "Retail",
+      "val": 50,
+      "color": "#ffbb78"
+    },
+    {
+      "id": "Retail 33",
+      "name": "Retail 33",
+      "sector": "Retail",
+      "val": 79.555,
+      "color": "#ffbb78"
+    },
+    {
+      "id": "Retail 34",
+      "name": "Retail 34",
+      "sector": "Retail",
+      "val": 47.521499,
+      "color": "#ffbb78"
+    },
+    {
+      "id": "Retail 35",
+      "name": "Retail 35",
+      "sector": "Retail",
+      "val": 66.3002,
+      "color": "#ffbb78"
+    },
+    {
+      "id": "Retail 36",
+      "name": "Retail 36",
+      "sector": "Retail",
+      "val": 43,
+      "color": "#ffbb78"
+    },
+    {
+      "id": "Retail 37",
+      "name": "Retail 37",
+      "sector": "Retail",
+      "val": 37.550041500000006,
+      "color": "#ffbb78"
+    },
+    {
+      "id": "Retail 38",
+      "name": "Retail 38",
+      "sector": "Retail",
+      "val": 79,
+      "color": "#ffbb78"
+    },
+    {
+      "id": "Retail 39",
+      "name": "Retail 39",
+      "sector": "Retail",
+      "val": 52,
+      "color": "#ffbb78"
+    },
+    {
+      "id": "Retail 40",
+      "name": "Retail 40",
+      "sector": "Retail",
+      "val": 70.5271,
+      "color": "#ffbb78"
+    },
+    {
+      "id": "Healthcare 1",
+      "name": "Healthcare 1",
+      "sector": "Healthcare",
+      "val": 35.823004,
+      "color": "#c5b0d5"
+    },
+    {
+      "id": "Healthcare 2",
+      "name": "Healthcare 2",
+      "sector": "Healthcare",
+      "val": 67.360085,
+      "color": "#c5b0d5"
+    },
+    {
+      "id": "Healthcare 3",
+      "name": "Healthcare 3",
+      "sector": "Healthcare",
+      "val": 20.273714,
+      "color": "#c5b0d5"
+    },
+    {
+      "id": "Healthcare 4",
+      "name": "Healthcare 4",
+      "sector": "Healthcare",
+      "val": 48.4035565,
+      "color": "#c5b0d5"
+    },
+    {
+      "id": "Healthcare 5",
+      "name": "Healthcare 5",
+      "sector": "Healthcare",
+      "val": 78.9496615,
+      "color": "#c5b0d5"
+    },
+    {
+      "id": "Healthcare 6",
+      "name": "Healthcare 6",
+      "sector": "Healthcare",
+      "val": 24.7796065,
+      "color": "#c5b0d5"
+    },
+    {
+      "id": "Healthcare 7",
+      "name": "Healthcare 7",
+      "sector": "Healthcare",
+      "val": 76.105203,
+      "color": "#c5b0d5"
+    },
+    {
+      "id": "Healthcare 8",
+      "name": "Healthcare 8",
+      "sector": "Healthcare",
+      "val": 35.25745,
+      "color": "#c5b0d5"
+    },
+    {
+      "id": "Healthcare 9",
+      "name": "Healthcare 9",
+      "sector": "Healthcare",
+      "val": 29.9327885,
+      "color": "#c5b0d5"
+    },
+    {
+      "id": "Healthcare 10",
+      "name": "Healthcare 10",
+      "sector": "Healthcare",
+      "val": 69,
+      "color": "#c5b0d5"
+    },
+    {
+      "id": "Healthcare 11",
+      "name": "Healthcare 11",
+      "sector": "Healthcare",
+      "val": 78.053067,
+      "color": "#c5b0d5"
+    },
+    {
+      "id": "Healthcare 12",
+      "name": "Healthcare 12",
+      "sector": "Healthcare",
+      "val": 27.04194,
+      "color": "#c5b0d5"
+    },
+    {
+      "id": "Healthcare 13",
+      "name": "Healthcare 13",
+      "sector": "Healthcare",
+      "val": 69,
+      "color": "#c5b0d5"
+    },
+    {
+      "id": "Healthcare 14",
+      "name": "Healthcare 14",
+      "sector": "Healthcare",
+      "val": 73.90499750000001,
+      "color": "#c5b0d5"
+    },
+    {
+      "id": "Healthcare 15",
+      "name": "Healthcare 15",
+      "sector": "Healthcare",
+      "val": 66.91875,
+      "color": "#c5b0d5"
+    },
+    {
+      "id": "Healthcare 16",
+      "name": "Healthcare 16",
+      "sector": "Healthcare",
+      "val": 64.83574399999999,
+      "color": "#c5b0d5"
+    },
+    {
+      "id": "Healthcare 17",
+      "name": "Healthcare 17",
+      "sector": "Healthcare",
+      "val": 72.2155265,
+      "color": "#c5b0d5"
+    },
+    {
+      "id": "Healthcare 18",
+      "name": "Healthcare 18",
+      "sector": "Healthcare",
+      "val": 37.084982499999995,
+      "color": "#c5b0d5"
+    },
+    {
+      "id": "Healthcare 19",
+      "name": "Healthcare 19",
+      "sector": "Healthcare",
+      "val": 63,
+      "color": "#c5b0d5"
+    },
+    {
+      "id": "Healthcare 20",
+      "name": "Healthcare 20",
+      "sector": "Healthcare",
+      "val": 60.2927995,
+      "color": "#c5b0d5"
+    },
+    {
+      "id": "Healthcare 21",
+      "name": "Healthcare 21",
+      "sector": "Healthcare",
+      "val": 27,
+      "color": "#c5b0d5"
+    },
+    {
+      "id": "Healthcare 22",
+      "name": "Healthcare 22",
+      "sector": "Healthcare",
+      "val": 35,
+      "color": "#c5b0d5"
+    },
+    {
+      "id": "Healthcare 23",
+      "name": "Healthcare 23",
+      "sector": "Healthcare",
+      "val": 61.6399565,
+      "color": "#c5b0d5"
+    },
+    {
+      "id": "Healthcare 24",
+      "name": "Healthcare 24",
+      "sector": "Healthcare",
+      "val": 46.06505000000001,
+      "color": "#c5b0d5"
+    },
+    {
+      "id": "Healthcare 25",
+      "name": "Healthcare 25",
+      "sector": "Healthcare",
+      "val": 73.65121,
+      "color": "#c5b0d5"
+    },
+    {
+      "id": "Healthcare 26",
+      "name": "Healthcare 26",
+      "sector": "Healthcare",
+      "val": 29,
+      "color": "#c5b0d5"
+    },
+    {
+      "id": "Healthcare 27",
+      "name": "Healthcare 27",
+      "sector": "Healthcare",
+      "val": 38,
+      "color": "#c5b0d5"
+    },
+    {
+      "id": "Healthcare 28",
+      "name": "Healthcare 28",
+      "sector": "Healthcare",
+      "val": 60,
+      "color": "#c5b0d5"
+    },
+    {
+      "id": "Healthcare 29",
+      "name": "Healthcare 29",
+      "sector": "Healthcare",
+      "val": 74,
+      "color": "#c5b0d5"
+    },
+    {
+      "id": "Healthcare 30",
+      "name": "Healthcare 30",
+      "sector": "Healthcare",
+      "val": 68,
+      "color": "#c5b0d5"
+    },
+    {
+      "id": "Healthcare 31",
+      "name": "Healthcare 31",
+      "sector": "Healthcare",
+      "val": 51.174097,
+      "color": "#c5b0d5"
+    },
+    {
+      "id": "Healthcare 32",
+      "name": "Healthcare 32",
+      "sector": "Healthcare",
+      "val": 33.36765,
+      "color": "#c5b0d5"
+    },
+    {
+      "id": "Healthcare 33",
+      "name": "Healthcare 33",
+      "sector": "Healthcare",
+      "val": 34.2054655,
+      "color": "#c5b0d5"
+    },
+    {
+      "id": "Healthcare 34",
+      "name": "Healthcare 34",
+      "sector": "Healthcare",
+      "val": 42.9984,
+      "color": "#c5b0d5"
+    },
+    {
+      "id": "Healthcare 35",
+      "name": "Healthcare 35",
+      "sector": "Healthcare",
+      "val": 24,
+      "color": "#c5b0d5"
+    },
+    {
+      "id": "Construction 1",
+      "name": "Construction 1",
+      "sector": "Construction",
+      "val": 69.580944,
+      "color": "#1f77b4"
+    },
+    {
+      "id": "Construction 2",
+      "name": "Construction 2",
+      "sector": "Construction",
+      "val": 61.13316,
+      "color": "#1f77b4"
+    },
+    {
+      "id": "Construction 3",
+      "name": "Construction 3",
+      "sector": "Construction",
+      "val": 48.294106500000005,
+      "color": "#1f77b4"
+    },
+    {
+      "id": "Construction 4",
+      "name": "Construction 4",
+      "sector": "Construction",
+      "val": 31.15435,
+      "color": "#1f77b4"
+    },
+    {
+      "id": "Construction 5",
+      "name": "Construction 5",
+      "sector": "Construction",
+      "val": 72,
+      "color": "#1f77b4"
+    },
+    {
+      "id": "Construction 6",
+      "name": "Construction 6",
+      "sector": "Construction",
+      "val": 21.03047,
+      "color": "#1f77b4"
+    },
+    {
+      "id": "Construction 7",
+      "name": "Construction 7",
+      "sector": "Construction",
+      "val": 69,
+      "color": "#1f77b4"
+    },
+    {
+      "id": "Construction 8",
+      "name": "Construction 8",
+      "sector": "Construction",
+      "val": 75.8139555,
+      "color": "#1f77b4"
+    },
+    {
+      "id": "Construction 9",
+      "name": "Construction 9",
+      "sector": "Construction",
+      "val": 43.1631565,
+      "color": "#1f77b4"
+    },
+    {
+      "id": "Construction 10",
+      "name": "Construction 10",
+      "sector": "Construction",
+      "val": 72.476965,
+      "color": "#1f77b4"
+    },
+    {
+      "id": "Construction 11",
+      "name": "Construction 11",
+      "sector": "Construction",
+      "val": 45.041895,
+      "color": "#1f77b4"
+    },
+    {
+      "id": "Construction 12",
+      "name": "Construction 12",
+      "sector": "Construction",
+      "val": 64.5730305,
+      "color": "#1f77b4"
+    },
+    {
+      "id": "Construction 13",
+      "name": "Construction 13",
+      "sector": "Construction",
+      "val": 32.830346,
+      "color": "#1f77b4"
+    },
+    {
+      "id": "Construction 14",
+      "name": "Construction 14",
+      "sector": "Construction",
+      "val": 54,
+      "color": "#1f77b4"
+    },
+    {
+      "id": "Construction 15",
+      "name": "Construction 15",
+      "sector": "Construction",
+      "val": 56,
+      "color": "#1f77b4"
+    },
+    {
+      "id": "Construction 16",
+      "name": "Construction 16",
+      "sector": "Construction",
+      "val": 21.4007955,
+      "color": "#1f77b4"
+    },
+    {
+      "id": "Construction 17",
+      "name": "Construction 17",
+      "sector": "Construction",
+      "val": 37.107996,
+      "color": "#1f77b4"
+    },
+    {
+      "id": "Construction 18",
+      "name": "Construction 18",
+      "sector": "Construction",
+      "val": 48.209799499999995,
+      "color": "#1f77b4"
+    },
+    {
+      "id": "Construction 19",
+      "name": "Construction 19",
+      "sector": "Construction",
+      "val": 23.97755,
+      "color": "#1f77b4"
+    },
+    {
+      "id": "Construction 20",
+      "name": "Construction 20",
+      "sector": "Construction",
+      "val": 56.32053,
+      "color": "#1f77b4"
+    },
+    {
+      "id": "Construction 21",
+      "name": "Construction 21",
+      "sector": "Construction",
+      "val": 57.12455,
+      "color": "#1f77b4"
+    },
+    {
+      "id": "Construction 22",
+      "name": "Construction 22",
+      "sector": "Construction",
+      "val": 44.188062,
+      "color": "#1f77b4"
+    },
+    {
+      "id": "Construction 23",
+      "name": "Construction 23",
+      "sector": "Construction",
+      "val": 81.017975,
+      "color": "#1f77b4"
+    },
+    {
+      "id": "Construction 24",
+      "name": "Construction 24",
+      "sector": "Construction",
+      "val": 43.047775,
+      "color": "#1f77b4"
+    },
+    {
+      "id": "Construction 25",
+      "name": "Construction 25",
+      "sector": "Construction",
+      "val": 68,
+      "color": "#1f77b4"
+    },
+    {
+      "id": "Construction 26",
+      "name": "Construction 26",
+      "sector": "Construction",
+      "val": 28,
+      "color": "#1f77b4"
+    },
+    {
+      "id": "Construction 27",
+      "name": "Construction 27",
+      "sector": "Construction",
+      "val": 26,
+      "color": "#1f77b4"
+    },
+    {
+      "id": "Construction 28",
+      "name": "Construction 28",
+      "sector": "Construction",
+      "val": 53.807161,
+      "color": "#1f77b4"
+    },
+    {
+      "id": "Construction 29",
+      "name": "Construction 29",
+      "sector": "Construction",
+      "val": 30.241129,
+      "color": "#1f77b4"
+    },
+    {
+      "id": "Construction 30",
+      "name": "Construction 30",
+      "sector": "Construction",
+      "val": 31.590205,
+      "color": "#1f77b4"
+    },
+    {
+      "id": "Agriculture 1",
+      "name": "Agriculture 1",
+      "sector": "Agriculture",
+      "val": 67.165098,
+      "color": "#d62728"
+    },
+    {
+      "id": "Agriculture 2",
+      "name": "Agriculture 2",
+      "sector": "Agriculture",
+      "val": 63,
+      "color": "#d62728"
+    },
+    {
+      "id": "Agriculture 3",
+      "name": "Agriculture 3",
+      "sector": "Agriculture",
+      "val": 69,
+      "color": "#d62728"
+    },
+    {
+      "id": "Agriculture 4",
+      "name": "Agriculture 4",
+      "sector": "Agriculture",
+      "val": 27,
+      "color": "#d62728"
+    },
+    {
+      "id": "Agriculture 5",
+      "name": "Agriculture 5",
+      "sector": "Agriculture",
+      "val": 40.76293,
+      "color": "#d62728"
+    },
+    {
+      "id": "Agriculture 6",
+      "name": "Agriculture 6",
+      "sector": "Agriculture",
+      "val": 39,
+      "color": "#d62728"
+    },
+    {
+      "id": "Agriculture 7",
+      "name": "Agriculture 7",
+      "sector": "Agriculture",
+      "val": 48,
+      "color": "#d62728"
+    },
+    {
+      "id": "Agriculture 8",
+      "name": "Agriculture 8",
+      "sector": "Agriculture",
+      "val": 73.3710035,
+      "color": "#d62728"
+    },
+    {
+      "id": "Agriculture 9",
+      "name": "Agriculture 9",
+      "sector": "Agriculture",
+      "val": 43.1047375,
+      "color": "#d62728"
+    },
+    {
+      "id": "Agriculture 10",
+      "name": "Agriculture 10",
+      "sector": "Agriculture",
+      "val": 65,
+      "color": "#d62728"
+    },
+    {
+      "id": "Agriculture 11",
+      "name": "Agriculture 11",
+      "sector": "Agriculture",
+      "val": 42.143162,
+      "color": "#d62728"
+    },
+    {
+      "id": "Agriculture 12",
+      "name": "Agriculture 12",
+      "sector": "Agriculture",
+      "val": 76,
+      "color": "#d62728"
+    },
+    {
+      "id": "Agriculture 13",
+      "name": "Agriculture 13",
+      "sector": "Agriculture",
+      "val": 72.0917465,
+      "color": "#d62728"
+    },
+    {
+      "id": "Agriculture 14",
+      "name": "Agriculture 14",
+      "sector": "Agriculture",
+      "val": 63.4398975,
+      "color": "#d62728"
+    },
+    {
+      "id": "Agriculture 15",
+      "name": "Agriculture 15",
+      "sector": "Agriculture",
+      "val": 57.3961405,
+      "color": "#d62728"
+    },
+    {
+      "id": "Agriculture 16",
+      "name": "Agriculture 16",
+      "sector": "Agriculture",
+      "val": 57,
+      "color": "#d62728"
+    },
+    {
+      "id": "Agriculture 17",
+      "name": "Agriculture 17",
+      "sector": "Agriculture",
+      "val": 41.578045,
+      "color": "#d62728"
+    },
+    {
+      "id": "Agriculture 18",
+      "name": "Agriculture 18",
+      "sector": "Agriculture",
+      "val": 38.5022745,
+      "color": "#d62728"
+    },
+    {
+      "id": "Agriculture 19",
+      "name": "Agriculture 19",
+      "sector": "Agriculture",
+      "val": 23.02011,
+      "color": "#d62728"
+    },
+    {
+      "id": "Agriculture 20",
+      "name": "Agriculture 20",
+      "sector": "Agriculture",
+      "val": 50,
+      "color": "#d62728"
+    },
+    {
+      "id": "Telecommunications 1",
+      "name": "Telecommunications 1",
+      "sector": "Telecommunications",
+      "val": 63.80296,
+      "color": "#8c564b"
+    },
+    {
+      "id": "Telecommunications 2",
+      "name": "Telecommunications 2",
+      "sector": "Telecommunications",
+      "val": 31.51809,
+      "color": "#8c564b"
+    },
+    {
+      "id": "Telecommunications 3",
+      "name": "Telecommunications 3",
+      "sector": "Telecommunications",
+      "val": 28.508326,
+      "color": "#8c564b"
+    },
+    {
+      "id": "Telecommunications 4",
+      "name": "Telecommunications 4",
+      "sector": "Telecommunications",
+      "val": 78.38719,
+      "color": "#8c564b"
+    },
+    {
+      "id": "Telecommunications 5",
+      "name": "Telecommunications 5",
+      "sector": "Telecommunications",
+      "val": 55,
+      "color": "#8c564b"
+    },
+    {
+      "id": "Telecommunications 6",
+      "name": "Telecommunications 6",
+      "sector": "Telecommunications",
+      "val": 39.141855,
+      "color": "#8c564b"
+    },
+    {
+      "id": "Telecommunications 7",
+      "name": "Telecommunications 7",
+      "sector": "Telecommunications",
+      "val": 54.707,
+      "color": "#8c564b"
+    },
+    {
+      "id": "Telecommunications 8",
+      "name": "Telecommunications 8",
+      "sector": "Telecommunications",
+      "val": 63,
+      "color": "#8c564b"
+    },
+    {
+      "id": "Telecommunications 9",
+      "name": "Telecommunications 9",
+      "sector": "Telecommunications",
+      "val": 76,
+      "color": "#8c564b"
+    },
+    {
+      "id": "Telecommunications 10",
+      "name": "Telecommunications 10",
+      "sector": "Telecommunications",
+      "val": 20,
+      "color": "#8c564b"
+    },
+    {
+      "id": "Telecommunications 11",
+      "name": "Telecommunications 11",
+      "sector": "Telecommunications",
+      "val": 48.551765,
+      "color": "#8c564b"
+    },
+    {
+      "id": "Telecommunications 12",
+      "name": "Telecommunications 12",
+      "sector": "Telecommunications",
+      "val": 53,
+      "color": "#8c564b"
+    },
+    {
+      "id": "Telecommunications 13",
+      "name": "Telecommunications 13",
+      "sector": "Telecommunications",
+      "val": 35.45194,
+      "color": "#8c564b"
+    },
+    {
+      "id": "Telecommunications 14",
+      "name": "Telecommunications 14",
+      "sector": "Telecommunications",
+      "val": 24.4407225,
+      "color": "#8c564b"
+    },
+    {
+      "id": "Telecommunications 15",
+      "name": "Telecommunications 15",
+      "sector": "Telecommunications",
+      "val": 67.119195,
+      "color": "#8c564b"
+    },
+    {
+      "id": "Telecommunications 16",
+      "name": "Telecommunications 16",
+      "sector": "Telecommunications",
+      "val": 51,
+      "color": "#8c564b"
+    },
+    {
+      "id": "Telecommunications 17",
+      "name": "Telecommunications 17",
+      "sector": "Telecommunications",
+      "val": 28.4938955,
+      "color": "#8c564b"
+    },
+    {
+      "id": "Telecommunications 18",
+      "name": "Telecommunications 18",
+      "sector": "Telecommunications",
+      "val": 55.899346,
+      "color": "#8c564b"
+    },
+    {
+      "id": "Telecommunications 19",
+      "name": "Telecommunications 19",
+      "sector": "Telecommunications",
+      "val": 39.535325,
+      "color": "#8c564b"
+    },
+    {
+      "id": "Telecommunications 20",
+      "name": "Telecommunications 20",
+      "sector": "Telecommunications",
+      "val": 56,
+      "color": "#8c564b"
+    },
+    {
+      "id": "Education 1",
+      "name": "Education 1",
+      "sector": "Education",
+      "val": 58.846,
+      "color": "#e377c2"
+    },
+    {
+      "id": "Education 2",
+      "name": "Education 2",
+      "sector": "Education",
+      "val": 72,
+      "color": "#e377c2"
+    },
+    {
+      "id": "Education 3",
+      "name": "Education 3",
+      "sector": "Education",
+      "val": 20,
+      "color": "#e377c2"
+    },
+    {
+      "id": "Education 4",
+      "name": "Education 4",
+      "sector": "Education",
+      "val": 52.877979999999994,
+      "color": "#e377c2"
+    },
+    {
+      "id": "Education 5",
+      "name": "Education 5",
+      "sector": "Education",
+      "val": 64.40572,
+      "color": "#e377c2"
+    },
+    {
+      "id": "Education 6",
+      "name": "Education 6",
+      "sector": "Education",
+      "val": 47.248259,
+      "color": "#e377c2"
+    },
+    {
+      "id": "Education 7",
+      "name": "Education 7",
+      "sector": "Education",
+      "val": 80.517636,
+      "color": "#e377c2"
+    },
+    {
+      "id": "Education 8",
+      "name": "Education 8",
+      "sector": "Education",
+      "val": 83.630165,
+      "color": "#e377c2"
+    },
+    {
+      "id": "Education 9",
+      "name": "Education 9",
+      "sector": "Education",
+      "val": 60,
+      "color": "#e377c2"
+    },
+    {
+      "id": "Education 10",
+      "name": "Education 10",
+      "sector": "Education",
+      "val": 53.3402805,
+      "color": "#e377c2"
+    },
+    {
+      "id": "Education 11",
+      "name": "Education 11",
+      "sector": "Education",
+      "val": 46,
+      "color": "#e377c2"
+    },
+    {
+      "id": "Education 12",
+      "name": "Education 12",
+      "sector": "Education",
+      "val": 43,
+      "color": "#e377c2"
+    },
+    {
+      "id": "Education 13",
+      "name": "Education 13",
+      "sector": "Education",
+      "val": 34,
+      "color": "#e377c2"
+    },
+    {
+      "id": "Education 14",
+      "name": "Education 14",
+      "sector": "Education",
+      "val": 34.30907,
+      "color": "#e377c2"
+    },
+    {
+      "id": "Education 15",
+      "name": "Education 15",
+      "sector": "Education",
+      "val": 34.1736315,
+      "color": "#e377c2"
+    },
+    {
+      "id": "Education 16",
+      "name": "Education 16",
+      "sector": "Education",
+      "val": 65.21351,
+      "color": "#e377c2"
+    },
+    {
+      "id": "Education 17",
+      "name": "Education 17",
+      "sector": "Education",
+      "val": 77.058015,
+      "color": "#e377c2"
+    },
+    {
+      "id": "Education 18",
+      "name": "Education 18",
+      "sector": "Education",
+      "val": 80.557098,
+      "color": "#e377c2"
+    },
+    {
+      "id": "Education 19",
+      "name": "Education 19",
+      "sector": "Education",
+      "val": 80.021345,
+      "color": "#e377c2"
+    },
+    {
+      "id": "Education 20",
+      "name": "Education 20",
+      "sector": "Education",
+      "val": 71.890036,
+      "color": "#e377c2"
+    },
+    {
+      "id": "Media 1",
+      "name": "Media 1",
+      "sector": "Media",
+      "val": 66,
+      "color": "#98df8a"
+    },
+    {
+      "id": "Media 2",
+      "name": "Media 2",
+      "sector": "Media",
+      "val": 81.01612,
+      "color": "#98df8a"
+    },
+    {
+      "id": "Media 3",
+      "name": "Media 3",
+      "sector": "Media",
+      "val": 63.073443,
+      "color": "#98df8a"
+    },
+    {
+      "id": "Media 4",
+      "name": "Media 4",
+      "sector": "Media",
+      "val": 44.31752,
+      "color": "#98df8a"
+    },
+    {
+      "id": "Media 5",
+      "name": "Media 5",
+      "sector": "Media",
+      "val": 43.915075,
+      "color": "#98df8a"
+    },
+    {
+      "id": "Media 6",
+      "name": "Media 6",
+      "sector": "Media",
+      "val": 47.16625,
+      "color": "#98df8a"
+    },
+    {
+      "id": "Media 7",
+      "name": "Media 7",
+      "sector": "Media",
+      "val": 32.3571205,
+      "color": "#98df8a"
+    },
+    {
+      "id": "Media 8",
+      "name": "Media 8",
+      "sector": "Media",
+      "val": 94.0,
+      "color": "#98df8a"
+    },
+    {
+      "id": "Media 9",
+      "name": "Media 9",
+      "sector": "Media",
+      "val": 78.1764245,
+      "color": "#98df8a"
+    },
+    {
+      "id": "Media 10",
+      "name": "Media 10",
+      "sector": "Media",
+      "val": 70.599409,
+      "color": "#98df8a"
+    },
+    {
+      "id": "Media 11",
+      "name": "Media 11",
+      "sector": "Media",
+      "val": 65.310092,
+      "color": "#98df8a"
+    },
+    {
+      "id": "Media 12",
+      "name": "Media 12",
+      "sector": "Media",
+      "val": 24.758295,
+      "color": "#98df8a"
+    },
+    {
+      "id": "Media 13",
+      "name": "Media 13",
+      "sector": "Media",
+      "val": 44,
+      "color": "#98df8a"
+    },
+    {
+      "id": "Media 14",
+      "name": "Media 14",
+      "sector": "Media",
+      "val": 78.86021,
+      "color": "#98df8a"
+    },
+    {
+      "id": "Media 15",
+      "name": "Media 15",
+      "sector": "Media",
+      "val": 48,
+      "color": "#98df8a"
+    },
+    {
+      "id": "Media 16",
+      "name": "Media 16",
+      "sector": "Media",
+      "val": 80.3589005,
+      "color": "#98df8a"
+    },
+    {
+      "id": "Media 17",
+      "name": "Media 17",
+      "sector": "Media",
+      "val": 67.2128725,
+      "color": "#98df8a"
+    },
+    {
+      "id": "Media 18",
+      "name": "Media 18",
+      "sector": "Media",
+      "val": 24.1413,
+      "color": "#98df8a"
+    },
+    {
+      "id": "Media 19",
+      "name": "Media 19",
+      "sector": "Media",
+      "val": 41.393176,
+      "color": "#98df8a"
+    },
+    {
+      "id": "Media 20",
+      "name": "Media 20",
+      "sector": "Media",
+      "val": 58,
+      "color": "#98df8a"
+    },
+    {
+      "id": "Mining 1",
+      "name": "Mining 1",
+      "sector": "Mining",
+      "val": 24.6384,
+      "color": "#bcbd22"
+    },
+    {
+      "id": "Mining 2",
+      "name": "Mining 2",
+      "sector": "Mining",
+      "val": 51,
+      "color": "#bcbd22"
+    },
+    {
+      "id": "Mining 3",
+      "name": "Mining 3",
+      "sector": "Mining",
+      "val": 47.049245,
+      "color": "#bcbd22"
+    },
+    {
+      "id": "Mining 4",
+      "name": "Mining 4",
+      "sector": "Mining",
+      "val": 60.19855,
+      "color": "#bcbd22"
+    },
+    {
+      "id": "Mining 5",
+      "name": "Mining 5",
+      "sector": "Mining",
+      "val": 20,
+      "color": "#bcbd22"
+    },
+    {
+      "id": "Mining 6",
+      "name": "Mining 6",
+      "sector": "Mining",
+      "val": 68.08699999999999,
+      "color": "#bcbd22"
+    },
+    {
+      "id": "Mining 7",
+      "name": "Mining 7",
+      "sector": "Mining",
+      "val": 61.98303,
+      "color": "#bcbd22"
+    },
+    {
+      "id": "Mining 8",
+      "name": "Mining 8",
+      "sector": "Mining",
+      "val": 48.63856,
+      "color": "#bcbd22"
+    },
+    {
+      "id": "Mining 9",
+      "name": "Mining 9",
+      "sector": "Mining",
+      "val": 45,
+      "color": "#bcbd22"
+    },
+    {
+      "id": "Mining 10",
+      "name": "Mining 10",
+      "sector": "Mining",
+      "val": 21.987105,
+      "color": "#bcbd22"
+    },
+    {
+      "id": "Mining 11",
+      "name": "Mining 11",
+      "sector": "Mining",
+      "val": 81.68007499999999,
+      "color": "#bcbd22"
+    },
+    {
+      "id": "Mining 12",
+      "name": "Mining 12",
+      "sector": "Mining",
+      "val": 25.548359,
+      "color": "#bcbd22"
+    },
+    {
+      "id": "Mining 13",
+      "name": "Mining 13",
+      "sector": "Mining",
+      "val": 72.210406,
+      "color": "#bcbd22"
+    },
+    {
+      "id": "Mining 14",
+      "name": "Mining 14",
+      "sector": "Mining",
+      "val": 66.31333049999999,
+      "color": "#bcbd22"
+    },
+    {
+      "id": "Mining 15",
+      "name": "Mining 15",
+      "sector": "Mining",
+      "val": 57,
+      "color": "#bcbd22"
+    },
+    {
+      "id": "Government 1",
+      "name": "Government 1",
+      "sector": "Government",
+      "val": 76.42041049999999,
+      "color": "#17becf"
+    },
+    {
+      "id": "Government 2",
+      "name": "Government 2",
+      "sector": "Government",
+      "val": 50,
+      "color": "#17becf"
+    },
+    {
+      "id": "Government 3",
+      "name": "Government 3",
+      "sector": "Government",
+      "val": 22.96432,
+      "color": "#17becf"
+    },
+    {
+      "id": "Government 4",
+      "name": "Government 4",
+      "sector": "Government",
+      "val": 56.054525,
+      "color": "#17becf"
+    },
+    {
+      "id": "Government 5",
+      "name": "Government 5",
+      "sector": "Government",
+      "val": 27.633905,
+      "color": "#17becf"
+    },
+    {
+      "id": "Government 6",
+      "name": "Government 6",
+      "sector": "Government",
+      "val": 33.24191,
+      "color": "#17becf"
+    },
+    {
+      "id": "Government 7",
+      "name": "Government 7",
+      "sector": "Government",
+      "val": 35.82327,
+      "color": "#17becf"
+    },
+    {
+      "id": "Government 8",
+      "name": "Government 8",
+      "sector": "Government",
+      "val": 42,
+      "color": "#17becf"
+    },
+    {
+      "id": "Government 9",
+      "name": "Government 9",
+      "sector": "Government",
+      "val": 51.377055,
+      "color": "#17becf"
+    },
+    {
+      "id": "Government 10",
+      "name": "Government 10",
+      "sector": "Government",
+      "val": 74.209369,
+      "color": "#17becf"
+    },
+    {
+      "id": "Waste Management 1",
+      "name": "Waste Management 1",
+      "sector": "Waste Management",
+      "val": 39.101479,
+      "color": "#aec7e8"
+    },
+    {
+      "id": "Waste Management 2",
+      "name": "Waste Management 2",
+      "sector": "Waste Management",
+      "val": 36.28925,
+      "color": "#aec7e8"
+    },
+    {
+      "id": "Waste Management 3",
+      "name": "Waste Management 3",
+      "sector": "Waste Management",
+      "val": 59,
+      "color": "#aec7e8"
+    },
+    {
+      "id": "Waste Management 4",
+      "name": "Waste Management 4",
+      "sector": "Waste Management",
+      "val": 32.7396795,
+      "color": "#aec7e8"
+    },
+    {
+      "id": "Waste Management 5",
+      "name": "Waste Management 5",
+      "sector": "Waste Management",
+      "val": 28.67445,
+      "color": "#aec7e8"
+    },
+    {
+      "id": "Waste Management 6",
+      "name": "Waste Management 6",
+      "sector": "Waste Management",
+      "val": 23,
+      "color": "#aec7e8"
+    },
+    {
+      "id": "Waste Management 7",
+      "name": "Waste Management 7",
+      "sector": "Waste Management",
+      "val": 46,
+      "color": "#aec7e8"
+    },
+    {
+      "id": "Waste Management 8",
+      "name": "Waste Management 8",
+      "sector": "Waste Management",
+      "val": 77.3247725,
+      "color": "#aec7e8"
+    },
+    {
+      "id": "Waste Management 9",
+      "name": "Waste Management 9",
+      "sector": "Waste Management",
+      "val": 52,
+      "color": "#aec7e8"
+    },
+    {
+      "id": "Waste Management 10",
+      "name": "Waste Management 10",
+      "sector": "Waste Management",
+      "val": 47.811832,
+      "color": "#aec7e8"
+    },
+    {
+      "id": "Waste Management 11",
+      "name": "Waste Management 11",
+      "sector": "Waste Management",
+      "val": 53.278203000000005,
+      "color": "#aec7e8"
+    },
+    {
+      "id": "Waste Management 12",
+      "name": "Waste Management 12",
+      "sector": "Waste Management",
+      "val": 75.71001,
+      "color": "#aec7e8"
+    },
+    {
+      "id": "Waste Management 13",
+      "name": "Waste Management 13",
+      "sector": "Waste Management",
+      "val": 67.152034,
+      "color": "#aec7e8"
+    },
+    {
+      "id": "Waste Management 14",
+      "name": "Waste Management 14",
+      "sector": "Waste Management",
+      "val": 45.686335,
+      "color": "#aec7e8"
+    },
+    {
+      "id": "Waste Management 15",
+      "name": "Waste Management 15",
+      "sector": "Waste Management",
+      "val": 63.158482500000005,
+      "color": "#aec7e8"
+    }
+  ],
+  "links": [
+    {
+      "source": "Transportation 17",
+      "target": "Information Technology 4",
+      "value": 0.3023
+    },
+    {
+      "source": "Transportation 17",
+      "target": "Healthcare 16",
+      "value": 0.0997
+    },
+    {
+      "source": "Retail 33",
+      "target": "Healthcare 4",
+      "value": 0.2898
+    },
+    {
+      "source": "Retail 33",
+      "target": "Retail 20",
+      "value": 0.4112
+    },
+    {
+      "source": "Healthcare 24",
+      "target": "Manufacturing 13",
+      "value": 0.0164
+    },
+    {
+      "source": "Healthcare 24",
+      "target": "Finance 20",
+      "value": 0.4741
+    },
+    {
+      "source": "Healthcare 24",
+      "target": "Finance 23",
+      "value": 0.1312
+    },
+    {
+      "source": "Healthcare 24",
+      "target": "Information Technology 45",
+      "value": 0.0262
+    },
+    {
+      "source": "Finance 2",
+      "target": "Transportation 15",
+      "value": 0.0814
+    },
+    {
+      "source": "Finance 2",
+      "target": "Construction 14",
+      "value": 0.1391
+    },
+    {
+      "source": "Finance 2",
+      "target": "Government 10",
+      "value": 0.0656
+    },
+    {
+      "source": "Finance 2",
+      "target": "Healthcare 16",
+      "value": 0.2099
+    },
+    {
+      "source": "Retail 21",
+      "target": "Information Technology 11",
+      "value": 0.166
+    },
+    {
+      "source": "Retail 21",
+      "target": "Mining 6",
+      "value": 0.0972
+    },
+    {
+      "source": "Retail 21",
+      "target": "Education 5",
+      "value": 0.0931
+    },
+    {
+      "source": "Retail 21",
+      "target": "Telecommunications 6",
+      "value": 0.0648
+    },
+    {
+      "source": "Information Technology 38",
+      "target": "Manufacturing 32",
+      "value": 0.0265
+    },
+    {
+      "source": "Information Technology 38",
+      "target": "Manufacturing 9",
+      "value": 0.0302
+    },
+    {
+      "source": "Information Technology 38",
+      "target": "Information Technology 26",
+      "value": 0.0227
+    },
+    {
+      "source": "Information Technology 38",
+      "target": "Transportation 17",
+      "value": 0.3573
+    },
+    {
+      "source": "Information Technology 38",
+      "target": "Telecommunications 17",
+      "value": 0.0284
+    },
+    {
+      "source": "Media 5",
+      "target": "Finance 30",
+      "value": 0.2415
+    },
+    {
+      "source": "Media 5",
+      "target": "Manufacturing 7",
+      "value": 0.298
+    },
+    {
+      "source": "Media 5",
+      "target": "Finance 3",
+      "value": 0.1245
+    },
+    {
+      "source": "Mining 10",
+      "target": "Mining 14",
+      "value": 0.2687
+    },
+    {
+      "source": "Mining 10",
+      "target": "Finance 26",
+      "value": 0.1343
+    },
+    {
+      "source": "Waste Management 12",
+      "target": "Healthcare 33",
+      "value": 0.3116
+    },
+    {
+      "source": "Waste Management 12",
+      "target": "Manufacturing 37",
+      "value": 0.1129
+    },
+    {
+      "source": "Waste Management 12",
+      "target": "Manufacturing 40",
+      "value": 0.0358
+    },
+    {
+      "source": "Waste Management 12",
+      "target": "Education 1",
+      "value": 0.0966
+    },
+    {
+      "source": "Mining 2",
+      "target": "Information Technology 20",
+      "value": 0.1875
+    },
+    {
+      "source": "Mining 2",
+      "target": "Finance 10",
+      "value": 0.1232
+    },
+    {
+      "source": "Mining 2",
+      "target": "Manufacturing 21",
+      "value": 0.3208
+    },
+    {
+      "source": "Mining 2",
+      "target": "Finance 5",
+      "value": 0.0525
+    },
+    {
+      "source": "Finance 18",
+      "target": "Information Technology 26",
+      "value": 0.0125
+    },
+    {
+      "source": "Finance 18",
+      "target": "Retail 37",
+      "value": 0.0271
+    },
+    {
+      "source": "Finance 18",
+      "target": "Healthcare 23",
+      "value": 0.3523
+    },
+    {
+      "source": "Finance 18",
+      "target": "Finance 14",
+      "value": 0.0261
+    },
+    {
+      "source": "Finance 33",
+      "target": "Transportation 16",
+      "value": 0.0468
+    },
+    {
+      "source": "Finance 33",
+      "target": "Telecommunications 13",
+      "value": 0.0416
+    },
+    {
+      "source": "Finance 33",
+      "target": "Government 8",
+      "value": 0.0416
+    },
+    {
+      "source": "Finance 33",
+      "target": "Manufacturing 12",
+      "value": 0.2873
+    },
+    {
+      "source": "Finance 33",
+      "target": "Construction 17",
+      "value": 0.2977
+    },
+    {
+      "source": "Finance 3",
+      "target": "Construction 3",
+      "value": 0.1365
+    },
+    {
+      "source": "Finance 3",
+      "target": "Government 1",
+      "value": 0.1081
+    },
+    {
+      "source": "Finance 3",
+      "target": "Manufacturing 29",
+      "value": 0.4494
+    },
+    {
+      "source": "Agriculture 10",
+      "target": "Media 10",
+      "value": 0.1631
+    },
+    {
+      "source": "Agriculture 10",
+      "target": "Healthcare 34",
+      "value": 0.0253
+    },
+    {
+      "source": "Agriculture 10",
+      "target": "Transportation 16",
+      "value": 0.1103
+    },
+    {
+      "source": "Agriculture 10",
+      "target": "Information Technology 16",
+      "value": 0.1332
+    },
+    {
+      "source": "Agriculture 10",
+      "target": "Education 18",
+      "value": 0.2711
+    },
+    {
+      "source": "Retail 2",
+      "target": "Education 10",
+      "value": 0.208
+    },
+    {
+      "source": "Retail 2",
+      "target": "Information Technology 34",
+      "value": 0.3519
+    },
+    {
+      "source": "Retail 2",
+      "target": "Finance 36",
+      "value": 0.1306
+    },
+    {
+      "source": "Retail 2",
+      "target": "Information Technology 19",
+      "value": 0.1085
+    },
+    {
+      "source": "Construction 27",
+      "target": "Retail 13",
+      "value": 0.562
+    },
+    {
+      "source": "Education 5",
+      "target": "Manufacturing 29",
+      "value": 0.072
+    },
+    {
+      "source": "Education 5",
+      "target": "Waste Management 6",
+      "value": 0.3092
+    },
+    {
+      "source": "Education 5",
+      "target": "Healthcare 5",
+      "value": 0.4108
+    },
+    {
+      "source": "Agriculture 3",
+      "target": "Manufacturing 32",
+      "value": 0.0827
+    },
+    {
+      "source": "Agriculture 3",
+      "target": "Retail 5",
+      "value": 0.0134
+    },
+    {
+      "source": "Agriculture 3",
+      "target": "Education 8",
+      "value": 0.0851
+    },
+    {
+      "source": "Agriculture 3",
+      "target": "Finance 30",
+      "value": 0.0268
+    },
+    {
+      "source": "Agriculture 3",
+      "target": "Manufacturing 6",
+      "value": 0.1985
+    },
+    {
+      "source": "Agriculture 3",
+      "target": "Waste Management 6",
+      "value": 0.0536
+    },
+    {
+      "source": "Education 9",
+      "target": "Retail 23",
+      "value": 0.0605
+    },
+    {
+      "source": "Education 9",
+      "target": "Education 8",
+      "value": 0.4145
+    },
+    {
+      "source": "Manufacturing 32",
+      "target": "Information Technology 2",
+      "value": 0.0714
+    },
+    {
+      "source": "Manufacturing 32",
+      "target": "Government 6",
+      "value": 0.2846
+    },
+    {
+      "source": "Manufacturing 32",
+      "target": "Construction 1",
+      "value": 0.1874
+    },
+    {
+      "source": "Manufacturing 32",
+      "target": "Finance 6",
+      "value": 0.0803
+    },
+    {
+      "source": "Manufacturing 32",
+      "target": "Construction 6",
+      "value": 0.0143
+    },
+    {
+      "source": "Construction 12",
+      "target": "Finance 9",
+      "value": 0.2277
+    },
+    {
+      "source": "Construction 12",
+      "target": "Retail 24",
+      "value": 0.1231
+    },
+    {
+      "source": "Construction 12",
+      "target": "Education 5",
+      "value": 0.0923
+    },
+    {
+      "source": "Construction 12",
+      "target": "Healthcare 35",
+      "value": 0.0779
+    },
+    {
+      "source": "Telecommunications 16",
+      "target": "Government 5",
+      "value": 0.3143
+    },
+    {
+      "source": "Telecommunications 16",
+      "target": "Healthcare 33",
+      "value": 0.3997
+    },
+    {
+      "source": "Telecommunications 17",
+      "target": "Information Technology 26",
+      "value": 0.1061
+    },
+    {
+      "source": "Telecommunications 17",
+      "target": "Manufacturing 18",
+      "value": 0.6629
+    },
+    {
+      "source": "Education 3",
+      "target": "Waste Management 12",
+      "value": 0.2017
+    },
+    {
+      "source": "Education 3",
+      "target": "Energy 15",
+      "value": 0.4413
+    },
+    {
+      "source": "Construction 8",
+      "target": "Finance 16",
+      "value": 0.0745
+    },
+    {
+      "source": "Construction 8",
+      "target": "Information Technology 24",
+      "value": 0.1816
+    },
+    {
+      "source": "Construction 8",
+      "target": "Retail 17",
+      "value": 0.0078
+    },
+    {
+      "source": "Construction 8",
+      "target": "Telecommunications 2",
+      "value": 0.1511
+    },
+    {
+      "source": "Retail 25",
+      "target": "Education 6",
+      "value": 0.6978
+    },
+    {
+      "source": "Retail 25",
+      "target": "Waste Management 10",
+      "value": 0.0465
+    },
+    {
+      "source": "Retail 25",
+      "target": "Transportation 3",
+      "value": 0.0426
+    },
+    {
+      "source": "Media 10",
+      "target": "Transportation 5",
+      "value": 0.3466
+    },
+    {
+      "source": "Media 10",
+      "target": "Information Technology 8",
+      "value": 0.2888
+    },
+    {
+      "source": "Media 10",
+      "target": "Healthcare 4",
+      "value": 0.0347
+    },
+    {
+      "source": "Media 10",
+      "target": "Manufacturing 39",
+      "value": 0.0739
+    },
+    {
+      "source": "Manufacturing 37",
+      "target": "Energy 5",
+      "value": 0.2119
+    },
+    {
+      "source": "Manufacturing 37",
+      "target": "Waste Management 15",
+      "value": 0.2119
+    },
+    {
+      "source": "Manufacturing 37",
+      "target": "Media 6",
+      "value": 0.2312
+    },
+    {
+      "source": "Waste Management 9",
+      "target": "Energy 13",
+      "value": 0.6305
+    },
+    {
+      "source": "Waste Management 9",
+      "target": "Manufacturing 20",
+      "value": 0.1335
+    },
+    {
+      "source": "Waste Management 15",
+      "target": "Information Technology 1",
+      "value": 0.1383
+    },
+    {
+      "source": "Waste Management 15",
+      "target": "Waste Management 8",
+      "value": 0.2439
+    },
+    {
+      "source": "Waste Management 15",
+      "target": "Information Technology 20",
+      "value": 0.2861
+    },
+    {
+      "source": "Waste Management 15",
+      "target": "Construction 19",
+      "value": 0.0492
+    },
+    {
+      "source": "Waste Management 15",
+      "target": "Education 14",
+      "value": 0.0305
+    },
+    {
+      "source": "Education 17",
+      "target": "Retail 12",
+      "value": 0.0969
+    },
+    {
+      "source": "Education 17",
+      "target": "Information Technology 34",
+      "value": 0.1159
+    },
+    {
+      "source": "Education 17",
+      "target": "Healthcare 7",
+      "value": 0.0411
+    },
+    {
+      "source": "Education 17",
+      "target": "Healthcare 32",
+      "value": 0.1591
+    },
+    {
+      "source": "Construction 29",
+      "target": "Education 11",
+      "value": 0.1621
+    },
+    {
+      "source": "Construction 29",
+      "target": "Information Technology 26",
+      "value": 0.1594
+    },
+    {
+      "source": "Construction 29",
+      "target": "Construction 19",
+      "value": 0.1512
+    },
+    {
+      "source": "Construction 29",
+      "target": "Construction 10",
+      "value": 0.0518
+    },
+    {
+      "source": "Construction 29",
+      "target": "Construction 25",
+      "value": 0.1376
+    },
+    {
+      "source": "Information Technology 24",
+      "target": "Government 5",
+      "value": 0.2037
+    },
+    {
+      "source": "Information Technology 24",
+      "target": "Telecommunications 16",
+      "value": 0.0313
+    },
+    {
+      "source": "Information Technology 24",
+      "target": "Media 12",
+      "value": 0.0679
+    },
+    {
+      "source": "Information Technology 24",
+      "target": "Mining 5",
+      "value": 0.175
+    },
+    {
+      "source": "Manufacturing 15",
+      "target": "Construction 8",
+      "value": 0.3599
+    },
+    {
+      "source": "Manufacturing 15",
+      "target": "Finance 6",
+      "value": 0.0781
+    },
+    {
+      "source": "Information Technology 1",
+      "target": "Waste Management 11",
+      "value": 0.3126
+    },
+    {
+      "source": "Information Technology 1",
+      "target": "Information Technology 32",
+      "value": 0.2654
+    },
+    {
+      "source": "Construction 23",
+      "target": "Finance 9",
+      "value": 0.0752
+    },
+    {
+      "source": "Construction 23",
+      "target": "Retail 20",
+      "value": 0.2506
+    },
+    {
+      "source": "Construction 23",
+      "target": "Agriculture 3",
+      "value": 0.0877
+    },
+    {
+      "source": "Construction 23",
+      "target": "Healthcare 5",
+      "value": 0.1065
+    },
+    {
+      "source": "Media 12",
+      "target": "Transportation 28",
+      "value": 0.0567
+    },
+    {
+      "source": "Media 12",
+      "target": "Healthcare 12",
+      "value": 0.0071
+    },
+    {
+      "source": "Media 12",
+      "target": "Waste Management 13",
+      "value": 0.2328
+    },
+    {
+      "source": "Media 12",
+      "target": "Waste Management 14",
+      "value": 0.1664
+    },
+    {
+      "source": "Agriculture 14",
+      "target": "Media 6",
+      "value": 0.0896
+    },
+    {
+      "source": "Agriculture 14",
+      "target": "Manufacturing 21",
+      "value": 0.0572
+    },
+    {
+      "source": "Agriculture 14",
+      "target": "Media 7",
+      "value": 0.0448
+    },
+    {
+      "source": "Agriculture 14",
+      "target": "Telecommunications 4",
+      "value": 0.0945
+    },
+    {
+      "source": "Agriculture 14",
+      "target": "Transportation 6",
+      "value": 0.1095
+    },
+    {
+      "source": "Agriculture 14",
+      "target": "Media 19",
+      "value": 0.1294
+    },
+    {
+      "source": "Construction 19",
+      "target": "Finance 38",
+      "value": 0.3847
+    },
+    {
+      "source": "Construction 19",
+      "target": "Finance 29",
+      "value": 0.3163
+    },
+    {
+      "source": "Construction 22",
+      "target": "Retail 9",
+      "value": 0.0319
+    },
+    {
+      "source": "Construction 22",
+      "target": "Finance 16",
+      "value": 0.0242
+    },
+    {
+      "source": "Construction 22",
+      "target": "Retail 36",
+      "value": 0.0153
+    },
+    {
+      "source": "Construction 22",
+      "target": "Healthcare 5",
+      "value": 0.2436
+    },
+    {
+      "source": "Construction 22",
+      "target": "Retail 2",
+      "value": 0.0166
+    },
+    {
+      "source": "Construction 22",
+      "target": "Construction 7",
+      "value": 0.0714
+    },
+    {
+      "source": "Information Technology 21",
+      "target": "Healthcare 15",
+      "value": 0.0573
+    },
+    {
+      "source": "Information Technology 21",
+      "target": "Waste Management 2",
+      "value": 0.3173
+    },
+    {
+      "source": "Information Technology 21",
+      "target": "Healthcare 20",
+      "value": 0.3594
+    },
+    {
+      "source": "Manufacturing 39",
+      "target": "Information Technology 9",
+      "value": 0.3495
+    },
+    {
+      "source": "Manufacturing 39",
+      "target": "Agriculture 3",
+      "value": 0.2185
+    },
+    {
+      "source": "Government 1",
+      "target": "Transportation 12",
+      "value": 0.2191
+    },
+    {
+      "source": "Government 1",
+      "target": "Construction 18",
+      "value": 0.0829
+    },
+    {
+      "source": "Government 1",
+      "target": "Finance 14",
+      "value": 0.302
+    },
+    {
+      "source": "Government 1",
+      "target": "Retail 6",
+      "value": 0.1599
+    },
+    {
+      "source": "Education 12",
+      "target": "Telecommunications 14",
+      "value": 0.125
+    },
+    {
+      "source": "Education 12",
+      "target": "Retail 36",
+      "value": 0.0301
+    },
+    {
+      "source": "Education 12",
+      "target": "Manufacturing 29",
+      "value": 0.2824
+    },
+    {
+      "source": "Education 12",
+      "target": "Energy 2",
+      "value": 0.1435
+    },
+    {
+      "source": "Healthcare 30",
+      "target": "Finance 31",
+      "value": 0.1775
+    },
+    {
+      "source": "Healthcare 30",
+      "target": "Transportation 4",
+      "value": 0.3755
+    },
+    {
+      "source": "Government 10",
+      "target": "Information Technology 7",
+      "value": 0.4252
+    },
+    {
+      "source": "Government 10",
+      "target": "Construction 2",
+      "value": 0.2598
+    },
+    {
+      "source": "Information Technology 17",
+      "target": "Healthcare 17",
+      "value": 0.1662
+    },
+    {
+      "source": "Information Technology 17",
+      "target": "Media 13",
+      "value": 0.4688
+    },
+    {
+      "source": "Retail 5",
+      "target": "Telecommunications 2",
+      "value": 0.142
+    },
+    {
+      "source": "Retail 5",
+      "target": "Healthcare 14",
+      "value": 0.284
+    },
+    {
+      "source": "Manufacturing 33",
+      "target": "Finance 5",
+      "value": 0.0667
+    },
+    {
+      "source": "Manufacturing 33",
+      "target": "Finance 31",
+      "value": 0.0243
+    },
+    {
+      "source": "Manufacturing 33",
+      "target": "Manufacturing 19",
+      "value": 0.2988
+    },
+    {
+      "source": "Manufacturing 33",
+      "target": "Finance 12",
+      "value": 0.0113
+    },
+    {
+      "source": "Manufacturing 33",
+      "target": "Information Technology 5",
+      "value": 0.026
+    },
+    {
+      "source": "Healthcare 5",
+      "target": "Agriculture 14",
+      "value": 0.1049
+    },
+    {
+      "source": "Healthcare 5",
+      "target": "Finance 27",
+      "value": 0.2267
+    },
+    {
+      "source": "Healthcare 5",
+      "target": "Finance 8",
+      "value": 0.3654
+    },
+    {
+      "source": "Healthcare 5",
+      "target": "Information Technology 19",
+      "value": 0.071
+    },
+    {
+      "source": "Transportation 25",
+      "target": "Agriculture 4",
+      "value": 0.43
+    },
+    {
+      "source": "Information Technology 30",
+      "target": "Transportation 27",
+      "value": 0.1144
+    },
+    {
+      "source": "Information Technology 30",
+      "target": "Healthcare 5",
+      "value": 0.5636
+    },
+    {
+      "source": "Telecommunications 9",
+      "target": "Manufacturing 29",
+      "value": 0.0643
+    },
+    {
+      "source": "Telecommunications 9",
+      "target": "Media 16",
+      "value": 0.2716
+    },
+    {
+      "source": "Telecommunications 9",
+      "target": "Mining 8",
+      "value": 0.1306
+    },
+    {
+      "source": "Telecommunications 9",
+      "target": "Manufacturing 5",
+      "value": 0.1016
+    },
+    {
+      "source": "Retail 10",
+      "target": "Information Technology 39",
+      "value": 0.2172
+    },
+    {
+      "source": "Retail 10",
+      "target": "Mining 1",
+      "value": 0.0583
+    },
+    {
+      "source": "Retail 10",
+      "target": "Retail 24",
+      "value": 0.2755
+    },
+    {
+      "source": "Retail 29",
+      "target": "Finance 7",
+      "value": 0.1921
+    },
+    {
+      "source": "Retail 29",
+      "target": "Healthcare 27",
+      "value": 0.0914
+    },
+    {
+      "source": "Retail 29",
+      "target": "Information Technology 33",
+      "value": 0.0351
+    },
+    {
+      "source": "Retail 29",
+      "target": "Government 2",
+      "value": 0.1546
+    },
+    {
+      "source": "Retail 29",
+      "target": "Information Technology 24",
+      "value": 0.0351
+    },
+    {
+      "source": "Retail 29",
+      "target": "Construction 10",
+      "value": 0.0796
+    },
+    {
+      "source": "Finance 34",
+      "target": "Retail 9",
+      "value": 0.102
+    },
+    {
+      "source": "Finance 34",
+      "target": "Finance 20",
+      "value": 0.04
+    },
+    {
+      "source": "Finance 34",
+      "target": "Retail 36",
+      "value": 0.091
+    },
+    {
+      "source": "Finance 34",
+      "target": "Media 6",
+      "value": 0.211
+    },
+    {
+      "source": "Telecommunications 10",
+      "target": "Telecommunications 9",
+      "value": 0.3073
+    },
+    {
+      "source": "Telecommunications 10",
+      "target": "Information Technology 39",
+      "value": 0.3053
+    },
+    {
+      "source": "Telecommunications 10",
+      "target": "Waste Management 9",
+      "value": 0.0615
+    },
+    {
+      "source": "Healthcare 18",
+      "target": "Retail 30",
+      "value": 0.0175
+    },
+    {
+      "source": "Healthcare 18",
+      "target": "Government 8",
+      "value": 0.1525
+    },
+    {
+      "source": "Healthcare 18",
+      "target": "Finance 40",
+      "value": 0.057
+    },
+    {
+      "source": "Healthcare 18",
+      "target": "Construction 9",
+      "value": 0.0105
+    },
+    {
+      "source": "Healthcare 18",
+      "target": "Finance 35",
+      "value": 0.2165
+    },
+    {
+      "source": "Education 14",
+      "target": "Information Technology 18",
+      "value": 0.0448
+    },
+    {
+      "source": "Education 14",
+      "target": "Information Technology 7",
+      "value": 0.0811
+    },
+    {
+      "source": "Education 14",
+      "target": "Retail 35",
+      "value": 0.0157
+    },
+    {
+      "source": "Education 14",
+      "target": "Waste Management 4",
+      "value": 0.2
+    },
+    {
+      "source": "Education 14",
+      "target": "Manufacturing 28",
+      "value": 0.0527
+    },
+    {
+      "source": "Education 14",
+      "target": "Information Technology 13",
+      "value": 0.0249
+    },
+    {
+      "source": "Education 14",
+      "target": "Agriculture 14",
+      "value": 0.0178
+    },
+    {
+      "source": "Waste Management 11",
+      "target": "Media 8",
+      "value": 0.0782
+    },
+    {
+      "source": "Waste Management 11",
+      "target": "Telecommunications 2",
+      "value": 0.0226
+    },
+    {
+      "source": "Waste Management 11",
+      "target": "Manufacturing 25",
+      "value": 0.0436
+    },
+    {
+      "source": "Waste Management 11",
+      "target": "Waste Management 13",
+      "value": 0.4827
+    },
+    {
+      "source": "Healthcare 14",
+      "target": "Information Technology 1",
+      "value": 0.1797
+    },
+    {
+      "source": "Healthcare 14",
+      "target": "Telecommunications 7",
+      "value": 0.2097
+    },
+    {
+      "source": "Healthcare 14",
+      "target": "Manufacturing 27",
+      "value": 0.2396
+    },
+    {
+      "source": "Healthcare 19",
+      "target": "Transportation 26",
+      "value": 0.1335
+    },
+    {
+      "source": "Healthcare 19",
+      "target": "Retail 17",
+      "value": 0.0119
+    },
+    {
+      "source": "Healthcare 19",
+      "target": "Transportation 5",
+      "value": 0.2072
+    },
+    {
+      "source": "Healthcare 19",
+      "target": "Transportation 8",
+      "value": 0.0184
+    },
+    {
+      "source": "Healthcare 19",
+      "target": "Construction 12",
+      "value": 0.0282
+    },
+    {
+      "source": "Healthcare 19",
+      "target": "Manufacturing 27",
+      "value": 0.0228
+    },
+    {
+      "source": "Healthcare 19",
+      "target": "Finance 20",
+      "value": 0.0119
+    },
+    {
+      "source": "Agriculture 15",
+      "target": "Telecommunications 1",
+      "value": 0.0851
+    },
+    {
+      "source": "Agriculture 15",
+      "target": "Information Technology 24",
+      "value": 0.2836
+    },
+    {
+      "source": "Agriculture 15",
+      "target": "Finance 17",
+      "value": 0.1063
+    },
+    {
+      "source": "Retail 32",
+      "target": "Retail 13",
+      "value": 0.3225
+    },
+    {
+      "source": "Retail 32",
+      "target": "Healthcare 5",
+      "value": 0.1548
+    },
+    {
+      "source": "Retail 32",
+      "target": "Manufacturing 20",
+      "value": 0.1258
+    },
+    {
+      "source": "Government 7",
+      "target": "Energy 5",
+      "value": 0.6282
+    },
+    {
+      "source": "Government 7",
+      "target": "Finance 23",
+      "value": 0.1238
+    },
+    {
+      "source": "Education 15",
+      "target": "Retail 19",
+      "value": 0.0373
+    },
+    {
+      "source": "Education 15",
+      "target": "Energy 5",
+      "value": 0.0313
+    },
+    {
+      "source": "Education 15",
+      "target": "Government 10",
+      "value": 0.047
+    },
+    {
+      "source": "Education 15",
+      "target": "Waste Management 12",
+      "value": 0.3264
+    },
+    {
+      "source": "Healthcare 3",
+      "target": "Manufacturing 4",
+      "value": 0.011
+    },
+    {
+      "source": "Healthcare 3",
+      "target": "Healthcare 34",
+      "value": 0.3591
+    },
+    {
+      "source": "Healthcare 3",
+      "target": "Information Technology 18",
+      "value": 0.0781
+    },
+    {
+      "source": "Healthcare 3",
+      "target": "Government 7",
+      "value": 0.0588
+    },
+    {
+      "source": "Education 4",
+      "target": "Healthcare 5",
+      "value": 0.2077
+    },
+    {
+      "source": "Education 4",
+      "target": "Manufacturing 25",
+      "value": 0.2297
+    },
+    {
+      "source": "Education 4",
+      "target": "Telecommunications 14",
+      "value": 0.3095
+    },
+    {
+      "source": "Telecommunications 7",
+      "target": "Waste Management 11",
+      "value": 0.734
+    },
+    {
+      "source": "Finance 30",
+      "target": "Telecommunications 12",
+      "value": 0.032
+    },
+    {
+      "source": "Finance 30",
+      "target": "Construction 9",
+      "value": 0.184
+    },
+    {
+      "source": "Finance 30",
+      "target": "Information Technology 37",
+      "value": 0.084
+    },
+    {
+      "source": "Finance 30",
+      "target": "Manufacturing 3",
+      "value": 0.022
+    },
+    {
+      "source": "Finance 30",
+      "target": "Information Technology 34",
+      "value": 0.086
+    },
+    {
+      "source": "Information Technology 12",
+      "target": "Mining 12",
+      "value": 0.2707
+    },
+    {
+      "source": "Information Technology 12",
+      "target": "Healthcare 16",
+      "value": 0.0824
+    },
+    {
+      "source": "Information Technology 12",
+      "target": "Manufacturing 39",
+      "value": 0.1059
+    },
+    {
+      "source": "Finance 9",
+      "target": "Information Technology 19",
+      "value": 0.028
+    },
+    {
+      "source": "Finance 9",
+      "target": "Manufacturing 22",
+      "value": 0.2458
+    },
+    {
+      "source": "Finance 9",
+      "target": "Construction 2",
+      "value": 0.1057
+    },
+    {
+      "source": "Finance 9",
+      "target": "Healthcare 16",
+      "value": 0.4165
+    },
+    {
+      "source": "Media 20",
+      "target": "Government 5",
+      "value": 0.1006
+    },
+    {
+      "source": "Media 20",
+      "target": "Manufacturing 38",
+      "value": 0.286
+    },
+    {
+      "source": "Media 20",
+      "target": "Healthcare 18",
+      "value": 0.0953
+    },
+    {
+      "source": "Construction 16",
+      "target": "Information Technology 17",
+      "value": 0.5213
+    },
+    {
+      "source": "Construction 16",
+      "target": "Telecommunications 11",
+      "value": 0.0746
+    },
+    {
+      "source": "Construction 16",
+      "target": "Education 14",
+      "value": 0.0861
+    },
+    {
+      "source": "Healthcare 16",
+      "target": "Healthcare 20",
+      "value": 0.1406
+    },
+    {
+      "source": "Healthcare 16",
+      "target": "Waste Management 7",
+      "value": 0.1428
+    },
+    {
+      "source": "Healthcare 16",
+      "target": "Agriculture 13",
+      "value": 0.0429
+    },
+    {
+      "source": "Healthcare 16",
+      "target": "Government 7",
+      "value": 0.1118
+    },
+    {
+      "source": "Healthcare 16",
+      "target": "Construction 13",
+      "value": 0.0228
+    },
+    {
+      "source": "Healthcare 16",
+      "target": "Media 13",
+      "value": 0.0483
+    },
+    {
+      "source": "Healthcare 16",
+      "target": "Education 3",
+      "value": 0.0347
+    },
+    {
+      "source": "Healthcare 16",
+      "target": "Retail 4",
+      "value": 0.006
+    },
+    {
+      "source": "Healthcare 7",
+      "target": "Retail 11",
+      "value": 0.0226
+    },
+    {
+      "source": "Healthcare 7",
+      "target": "Education 19",
+      "value": 0.3759
+    },
+    {
+      "source": "Healthcare 7",
+      "target": "Information Technology 6",
+      "value": 0.0165
+    },
+    {
+      "source": "Transportation 24",
+      "target": "Transportation 21",
+      "value": 0.3449
+    },
+    {
+      "source": "Transportation 24",
+      "target": "Agriculture 9",
+      "value": 0.123
+    },
+    {
+      "source": "Transportation 24",
+      "target": "Information Technology 23",
+      "value": 0.0242
+    },
+    {
+      "source": "Transportation 24",
+      "target": "Media 19",
+      "value": 0.0395
+    },
+    {
+      "source": "Transportation 24",
+      "target": "Manufacturing 1",
+      "value": 0.0121
+    },
+    {
+      "source": "Transportation 24",
+      "target": "Transportation 28",
+      "value": 0.0264
+    },
+    {
+      "source": "Retail 20",
+      "target": "Finance 33",
+      "value": 0.0693
+    },
+    {
+      "source": "Retail 20",
+      "target": "Construction 23",
+      "value": 0.1385
+    },
+    {
+      "source": "Retail 20",
+      "target": "Waste Management 14",
+      "value": 0.2193
+    },
+    {
+      "source": "Retail 20",
+      "target": "Finance 34",
+      "value": 0.1039
+    },
+    {
+      "source": "Finance 25",
+      "target": "Manufacturing 17",
+      "value": 0.622
+    },
+    {
+      "source": "Energy 1",
+      "target": "Construction 10",
+      "value": 0.0126
+    },
+    {
+      "source": "Energy 1",
+      "target": "Construction 22",
+      "value": 0.0307
+    },
+    {
+      "source": "Energy 1",
+      "target": "Healthcare 27",
+      "value": 0.1276
+    },
+    {
+      "source": "Energy 1",
+      "target": "Energy 12",
+      "value": 0.3016
+    },
+    {
+      "source": "Energy 1",
+      "target": "Healthcare 24",
+      "value": 0.0276
+    },
+    {
+      "source": "Information Technology 27",
+      "target": "Mining 10",
+      "value": 0.2107
+    },
+    {
+      "source": "Information Technology 27",
+      "target": "Agriculture 4",
+      "value": 0.5033
+    },
+    {
+      "source": "Mining 6",
+      "target": "Finance 36",
+      "value": 0.399
+    },
+    {
+      "source": "Mining 6",
+      "target": "Finance 12",
+      "value": 0.0686
+    },
+    {
+      "source": "Mining 6",
+      "target": "Finance 14",
+      "value": 0.1673
+    },
+    {
+      "source": "Manufacturing 35",
+      "target": "Finance 23",
+      "value": 0.1997
+    },
+    {
+      "source": "Manufacturing 35",
+      "target": "Construction 3",
+      "value": 0.2773
+    },
+    {
+      "source": "Manufacturing 31",
+      "target": "Energy 3",
+      "value": 0.3499
+    },
+    {
+      "source": "Manufacturing 31",
+      "target": "Construction 9",
+      "value": 0.0911
+    },
+    {
+      "source": "Education 19",
+      "target": "Retail 15",
+      "value": 0.084
+    },
+    {
+      "source": "Education 19",
+      "target": "Retail 20",
+      "value": 0.511
+    },
+    {
+      "source": "Mining 1",
+      "target": "Media 17",
+      "value": 0.0412
+    },
+    {
+      "source": "Mining 1",
+      "target": "Energy 14",
+      "value": 0.0608
+    },
+    {
+      "source": "Mining 1",
+      "target": "Manufacturing 23",
+      "value": 0.3277
+    },
+    {
+      "source": "Mining 1",
+      "target": "Information Technology 28",
+      "value": 0.025
+    },
+    {
+      "source": "Mining 1",
+      "target": "Construction 1",
+      "value": 0.0684
+    },
+    {
+      "source": "Mining 1",
+      "target": "Information Technology 20",
+      "value": 0.0499
+    },
+    {
+      "source": "Transportation 21",
+      "target": "Agriculture 14",
+      "value": 0.071
+    },
+    {
+      "source": "Transportation 21",
+      "target": "Information Technology 37",
+      "value": 0.2982
+    },
+    {
+      "source": "Transportation 21",
+      "target": "Healthcare 7",
+      "value": 0.0408
+    },
+    {
+      "source": "Finance 36",
+      "target": "Telecommunications 18",
+      "value": 0.1932
+    },
+    {
+      "source": "Finance 36",
+      "target": "Waste Management 14",
+      "value": 0.3288
+    },
+    {
+      "source": "Retail 16",
+      "target": "Manufacturing 17",
+      "value": 0.0852
+    },
+    {
+      "source": "Retail 16",
+      "target": "Manufacturing 6",
+      "value": 0.0497
+    },
+    {
+      "source": "Retail 16",
+      "target": "Information Technology 44",
+      "value": 0.4188
+    },
+    {
+      "source": "Retail 16",
+      "target": "Manufacturing 12",
+      "value": 0.0923
+    },
+    {
+      "source": "Mining 4",
+      "target": "Construction 10",
+      "value": 0.2221
+    },
+    {
+      "source": "Mining 4",
+      "target": "Information Technology 26",
+      "value": 0.3816
+    },
+    {
+      "source": "Mining 4",
+      "target": "Manufacturing 10",
+      "value": 0.0209
+    },
+    {
+      "source": "Mining 4",
+      "target": "Manufacturing 9",
+      "value": 0.0164
+    },
+    {
+      "source": "Information Technology 13",
+      "target": "Telecommunications 4",
+      "value": 0.055
+    },
+    {
+      "source": "Information Technology 13",
+      "target": "Transportation 11",
+      "value": 0.1781
+    },
+    {
+      "source": "Information Technology 13",
+      "target": "Manufacturing 13",
+      "value": 0.2407
+    },
+    {
+      "source": "Information Technology 13",
+      "target": "Manufacturing 18",
+      "value": 0.0246
+    },
+    {
+      "source": "Information Technology 13",
+      "target": "Healthcare 31",
+      "value": 0.0246
+    },
+    {
+      "source": "Manufacturing 36",
+      "target": "Construction 1",
+      "value": 0.1505
+    },
+    {
+      "source": "Manufacturing 36",
+      "target": "Information Technology 19",
+      "value": 0.0211
+    },
+    {
+      "source": "Manufacturing 36",
+      "target": "Education 8",
+      "value": 0.0782
+    },
+    {
+      "source": "Manufacturing 36",
+      "target": "Information Technology 43",
+      "value": 0.1836
+    },
+    {
+      "source": "Manufacturing 36",
+      "target": "Telecommunications 11",
+      "value": 0.0166
+    },
+    {
+      "source": "Manufacturing 36",
+      "target": "Manufacturing 8",
+      "value": 0.1791
+    },
+    {
+      "source": "Telecommunications 13",
+      "target": "Government 4",
+      "value": 0.1623
+    },
+    {
+      "source": "Telecommunications 13",
+      "target": "Healthcare 33",
+      "value": 0.2221
+    },
+    {
+      "source": "Telecommunications 13",
+      "target": "Media 3",
+      "value": 0.2306
+    },
+    {
+      "source": "Agriculture 9",
+      "target": "Manufacturing 8",
+      "value": 0.0147
+    },
+    {
+      "source": "Agriculture 9",
+      "target": "Finance 21",
+      "value": 0.0182
+    },
+    {
+      "source": "Agriculture 9",
+      "target": "Waste Management 15",
+      "value": 0.1928
+    },
+    {
+      "source": "Agriculture 9",
+      "target": "Education 17",
+      "value": 0.097
+    },
+    {
+      "source": "Agriculture 9",
+      "target": "Transportation 5",
+      "value": 0.0693
+    },
+    {
+      "source": "Agriculture 9",
+      "target": "Transportation 30",
+      "value": 0.01
+    },
+    {
+      "source": "Agriculture 9",
+      "target": "Education 7",
+      "value": 0.1992
+    },
+    {
+      "source": "Agriculture 9",
+      "target": "Transportation 32",
+      "value": 0.0811
+    },
+    {
+      "source": "Agriculture 9",
+      "target": "Finance 19",
+      "value": 0.0317
+    },
+    {
+      "source": "Agriculture 4",
+      "target": "Information Technology 2",
+      "value": 0.0453
+    },
+    {
+      "source": "Agriculture 4",
+      "target": "Retail 18",
+      "value": 0.0244
+    },
+    {
+      "source": "Agriculture 4",
+      "target": "Information Technology 17",
+      "value": 0.0163
+    },
+    {
+      "source": "Agriculture 4",
+      "target": "Manufacturing 3",
+      "value": 0.473
+    },
+    {
+      "source": "Media 9",
+      "target": "Manufacturing 22",
+      "value": 0.0528
+    },
+    {
+      "source": "Media 9",
+      "target": "Waste Management 10",
+      "value": 0.0365
+    },
+    {
+      "source": "Media 9",
+      "target": "Education 10",
+      "value": 0.0081
+    },
+    {
+      "source": "Media 9",
+      "target": "Waste Management 2",
+      "value": 0.0379
+    },
+    {
+      "source": "Media 9",
+      "target": "Transportation 16",
+      "value": 0.0453
+    },
+    {
+      "source": "Media 9",
+      "target": "Agriculture 20",
+      "value": 0.1394
+    },
+    {
+      "source": "Media 9",
+      "target": "Agriculture 10",
+      "value": 0.1489
+    },
+    {
+      "source": "Information Technology 15",
+      "target": "Waste Management 1",
+      "value": 0.1124
+    },
+    {
+      "source": "Information Technology 15",
+      "target": "Retail 15",
+      "value": 0.1592
+    },
+    {
+      "source": "Information Technology 15",
+      "target": "Retail 37",
+      "value": 0.2763
+    },
+    {
+      "source": "Retail 19",
+      "target": "Retail 23",
+      "value": 0.207
+    },
+    {
+      "source": "Retail 19",
+      "target": "Transportation 21",
+      "value": 0.0192
+    },
+    {
+      "source": "Retail 19",
+      "target": "Finance 23",
+      "value": 0.1242
+    },
+    {
+      "source": "Retail 19",
+      "target": "Retail 18",
+      "value": 0.0717
+    },
+    {
+      "source": "Retail 19",
+      "target": "Energy 3",
+      "value": 0.2939
+    },
+    {
+      "source": "Energy 6",
+      "target": "Healthcare 6",
+      "value": 0.1561
+    },
+    {
+      "source": "Energy 6",
+      "target": "Retail 3",
+      "value": 0.0162
+    },
+    {
+      "source": "Energy 6",
+      "target": "Finance 33",
+      "value": 0.1936
+    },
+    {
+      "source": "Energy 6",
+      "target": "Healthcare 21",
+      "value": 0.075
+    },
+    {
+      "source": "Energy 6",
+      "target": "Transportation 10",
+      "value": 0.0111
+    },
+    {
+      "source": "Energy 6",
+      "target": "Media 10",
+      "value": 0.081
+    },
+    {
+      "source": "Finance 35",
+      "target": "Information Technology 16",
+      "value": 0.101
+    },
+    {
+      "source": "Finance 35",
+      "target": "Telecommunications 15",
+      "value": 0.1552
+    },
+    {
+      "source": "Finance 35",
+      "target": "Finance 8",
+      "value": 0.172
+    },
+    {
+      "source": "Finance 35",
+      "target": "Retail 10",
+      "value": 0.1253
+    },
+    {
+      "source": "Finance 35",
+      "target": "Media 14",
+      "value": 0.1832
+    },
+    {
+      "source": "Finance 35",
+      "target": "Healthcare 31",
+      "value": 0.0374
+    },
+    {
+      "source": "Information Technology 33",
+      "target": "Transportation 30",
+      "value": 0.1596
+    },
+    {
+      "source": "Information Technology 33",
+      "target": "Manufacturing 15",
+      "value": 0.3724
+    },
+    {
+      "source": "Retail 34",
+      "target": "Education 15",
+      "value": 0.3318
+    },
+    {
+      "source": "Retail 34",
+      "target": "Energy 13",
+      "value": 0.1386
+    },
+    {
+      "source": "Retail 34",
+      "target": "Construction 1",
+      "value": 0.0309
+    },
+    {
+      "source": "Retail 34",
+      "target": "Retail 24",
+      "value": 0.1568
+    },
+    {
+      "source": "Healthcare 28",
+      "target": "Manufacturing 18",
+      "value": 0.094
+    },
+    {
+      "source": "Healthcare 28",
+      "target": "Media 20",
+      "value": 0.4769
+    },
+    {
+      "source": "Healthcare 28",
+      "target": "Agriculture 4",
+      "value": 0.1511
+    },
+    {
+      "source": "Retail 22",
+      "target": "Healthcare 2",
+      "value": 0.1339
+    },
+    {
+      "source": "Retail 22",
+      "target": "Waste Management 2",
+      "value": 0.5841
+    },
+    {
+      "source": "Energy 8",
+      "target": "Finance 24",
+      "value": 0.3491
+    },
+    {
+      "source": "Energy 8",
+      "target": "Retail 16",
+      "value": 0.1914
+    },
+    {
+      "source": "Energy 8",
+      "target": "Education 10",
+      "value": 0.2365
+    },
+    {
+      "source": "Construction 26",
+      "target": "Information Technology 11",
+      "value": 0.1255
+    },
+    {
+      "source": "Construction 26",
+      "target": "Finance 13",
+      "value": 0.2343
+    },
+    {
+      "source": "Construction 26",
+      "target": "Healthcare 33",
+      "value": 0.0294
+    },
+    {
+      "source": "Construction 26",
+      "target": "Healthcare 28",
+      "value": 0.1728
+    },
+    {
+      "source": "Media 19",
+      "target": "Information Technology 45",
+      "value": 0.0497
+    },
+    {
+      "source": "Media 19",
+      "target": "Retail 16",
+      "value": 0.0414
+    },
+    {
+      "source": "Media 19",
+      "target": "Manufacturing 33",
+      "value": 0.1154
+    },
+    {
+      "source": "Media 19",
+      "target": "Retail 6",
+      "value": 0.0236
+    },
+    {
+      "source": "Media 19",
+      "target": "Finance 17",
+      "value": 0.1747
+    },
+    {
+      "source": "Media 19",
+      "target": "Transportation 33",
+      "value": 0.0472
+    },
+    {
+      "source": "Transportation 31",
+      "target": "Construction 19",
+      "value": 0.1861
+    },
+    {
+      "source": "Transportation 31",
+      "target": "Transportation 12",
+      "value": 0.4059
+    },
+    {
+      "source": "Finance 1",
+      "target": "Manufacturing 12",
+      "value": 0.0947
+    },
+    {
+      "source": "Finance 1",
+      "target": "Manufacturing 36",
+      "value": 0.2682
+    },
+    {
+      "source": "Finance 1",
+      "target": "Energy 12",
+      "value": 0.2871
+    },
+    {
+      "source": "Media 17",
+      "target": "Agriculture 15",
+      "value": 0.055
+    },
+    {
+      "source": "Media 17",
+      "target": "Information Technology 26",
+      "value": 0.1955
+    },
+    {
+      "source": "Media 17",
+      "target": "Retail 39",
+      "value": 0.1897
+    },
+    {
+      "source": "Media 17",
+      "target": "Finance 13",
+      "value": 0.0941
+    },
+    {
+      "source": "Media 17",
+      "target": "Manufacturing 22",
+      "value": 0.029
+    },
+    {
+      "source": "Media 17",
+      "target": "Agriculture 4",
+      "value": 0.2187
+    },
+    {
+      "source": "Finance 26",
+      "target": "Information Technology 1",
+      "value": 0.0953
+    },
+    {
+      "source": "Finance 26",
+      "target": "Information Technology 37",
+      "value": 0.0359
+    },
+    {
+      "source": "Finance 26",
+      "target": "Education 5",
+      "value": 0.0552
+    },
+    {
+      "source": "Finance 26",
+      "target": "Manufacturing 39",
+      "value": 0.0193
+    },
+    {
+      "source": "Finance 26",
+      "target": "Healthcare 4",
+      "value": 0.1215
+    },
+    {
+      "source": "Finance 26",
+      "target": "Retail 34",
+      "value": 0.1077
+    },
+    {
+      "source": "Finance 26",
+      "target": "Retail 37",
+      "value": 0.0359
+    },
+    {
+      "source": "Mining 9",
+      "target": "Finance 27",
+      "value": 0.0763
+    },
+    {
+      "source": "Mining 9",
+      "target": "Construction 30",
+      "value": 0.3413
+    },
+    {
+      "source": "Mining 9",
+      "target": "Telecommunications 17",
+      "value": 0.0924
+    },
+    {
+      "source": "Retail 4",
+      "target": "Retail 6",
+      "value": 0.0888
+    },
+    {
+      "source": "Retail 4",
+      "target": "Finance 25",
+      "value": 0.5462
+    },
+    {
+      "source": "Retail 4",
+      "target": "Manufacturing 11",
+      "value": 0.1161
+    },
+    {
+      "source": "Retail 11",
+      "target": "Energy 5",
+      "value": 0.55
+    },
+    {
+      "source": "Media 16",
+      "target": "Manufacturing 29",
+      "value": 0.0923
+    },
+    {
+      "source": "Media 16",
+      "target": "Retail 2",
+      "value": 0.0333
+    },
+    {
+      "source": "Media 16",
+      "target": "Retail 31",
+      "value": 0.2253
+    },
+    {
+      "source": "Media 16",
+      "target": "Media 12",
+      "value": 0.0771
+    },
+    {
+      "source": "Retail 37",
+      "target": "Retail 39",
+      "value": 0.0913
+    },
+    {
+      "source": "Retail 37",
+      "target": "Education 11",
+      "value": 0.0913
+    },
+    {
+      "source": "Retail 37",
+      "target": "Finance 19",
+      "value": 0.0408
+    },
+    {
+      "source": "Retail 37",
+      "target": "Retail 24",
+      "value": 0.3626
+    },
+    {
+      "source": "Construction 28",
+      "target": "Finance 24",
+      "value": 0.121
+    },
+    {
+      "source": "Construction 28",
+      "target": "Finance 14",
+      "value": 0.2925
+    },
+    {
+      "source": "Construction 28",
+      "target": "Healthcare 24",
+      "value": 0.0773
+    },
+    {
+      "source": "Construction 28",
+      "target": "Retail 3",
+      "value": 0.1412
+    },
+    {
+      "source": "Manufacturing 1",
+      "target": "Information Technology 27",
+      "value": 0.2084
+    },
+    {
+      "source": "Manufacturing 1",
+      "target": "Healthcare 3",
+      "value": 0.1339
+    },
+    {
+      "source": "Manufacturing 1",
+      "target": "Waste Management 6",
+      "value": 0.0707
+    },
+    {
+      "source": "Information Technology 31",
+      "target": "Transportation 32",
+      "value": 0.1574
+    },
+    {
+      "source": "Information Technology 31",
+      "target": "Transportation 2",
+      "value": 0.06
+    },
+    {
+      "source": "Information Technology 31",
+      "target": "Retail 23",
+      "value": 0.3851
+    },
+    {
+      "source": "Information Technology 31",
+      "target": "Manufacturing 3",
+      "value": 0.1905
+    },
+    {
+      "source": "Healthcare 10",
+      "target": "Construction 19",
+      "value": 0.0365
+    },
+    {
+      "source": "Healthcare 10",
+      "target": "Media 18",
+      "value": 0.0801
+    },
+    {
+      "source": "Healthcare 10",
+      "target": "Finance 15",
+      "value": 0.5676
+    },
+    {
+      "source": "Healthcare 10",
+      "target": "Manufacturing 14",
+      "value": 0.0334
+    },
+    {
+      "source": "Healthcare 10",
+      "target": "Telecommunications 19",
+      "value": 0.0274
+    },
+    {
+      "source": "Mining 7",
+      "target": "Information Technology 3",
+      "value": 0.601
+    },
+    {
+      "source": "Media 11",
+      "target": "Manufacturing 35",
+      "value": 0.0464
+    },
+    {
+      "source": "Media 11",
+      "target": "Retail 33",
+      "value": 0.1042
+    },
+    {
+      "source": "Media 11",
+      "target": "Manufacturing 6",
+      "value": 0.2181
+    },
+    {
+      "source": "Media 11",
+      "target": "Finance 26",
+      "value": 0.0717
+    },
+    {
+      "source": "Media 11",
+      "target": "Retail 40",
+      "value": 0.1235
+    },
+    {
+      "source": "Information Technology 23",
+      "target": "Manufacturing 19",
+      "value": 0.1431
+    },
+    {
+      "source": "Information Technology 23",
+      "target": "Transportation 16",
+      "value": 0.0943
+    },
+    {
+      "source": "Information Technology 23",
+      "target": "Media 7",
+      "value": 0.0606
+    },
+    {
+      "source": "Information Technology 23",
+      "target": "Healthcare 35",
+      "value": 0.271
+    },
+    {
+      "source": "Healthcare 26",
+      "target": "Construction 4",
+      "value": 0.0215
+    },
+    {
+      "source": "Healthcare 26",
+      "target": "Transportation 23",
+      "value": 0.0215
+    },
+    {
+      "source": "Healthcare 26",
+      "target": "Finance 1",
+      "value": 0.3565
+    },
+    {
+      "source": "Healthcare 26",
+      "target": "Healthcare 15",
+      "value": 0.1875
+    },
+    {
+      "source": "Retail 24",
+      "target": "Education 17",
+      "value": 0.5621
+    },
+    {
+      "source": "Retail 24",
+      "target": "Retail 35",
+      "value": 0.0253
+    },
+    {
+      "source": "Retail 24",
+      "target": "Healthcare 18",
+      "value": 0.0758
+    },
+    {
+      "source": "Retail 24",
+      "target": "Finance 4",
+      "value": 0.0779
+    },
+    {
+      "source": "Retail 31",
+      "target": "Construction 19",
+      "value": 0.0469
+    },
+    {
+      "source": "Retail 31",
+      "target": "Waste Management 5",
+      "value": 0.213
+    },
+    {
+      "source": "Retail 31",
+      "target": "Energy 1",
+      "value": 0.0554
+    },
+    {
+      "source": "Retail 31",
+      "target": "Healthcare 10",
+      "value": 0.0554
+    },
+    {
+      "source": "Retail 31",
+      "target": "Construction 7",
+      "value": 0.0554
+    },
+    {
+      "source": "Manufacturing 18",
+      "target": "Telecommunications 4",
+      "value": 0.1024
+    },
+    {
+      "source": "Manufacturing 18",
+      "target": "Agriculture 15",
+      "value": 0.2389
+    },
+    {
+      "source": "Manufacturing 18",
+      "target": "Manufacturing 6",
+      "value": 0.1963
+    },
+    {
+      "source": "Manufacturing 18",
+      "target": "Healthcare 30",
+      "value": 0.1024
+    },
+    {
+      "source": "Agriculture 20",
+      "target": "Agriculture 1",
+      "value": 0.151
+    },
+    {
+      "source": "Agriculture 20",
+      "target": "Manufacturing 3",
+      "value": 0.3044
+    },
+    {
+      "source": "Agriculture 20",
+      "target": "Information Technology 41",
+      "value": 0.1392
+    },
+    {
+      "source": "Agriculture 20",
+      "target": "Information Technology 40",
+      "value": 0.0283
+    },
+    {
+      "source": "Finance 17",
+      "target": "Information Technology 27",
+      "value": 0.0646
+    },
+    {
+      "source": "Finance 17",
+      "target": "Information Technology 43",
+      "value": 0.0616
+    },
+    {
+      "source": "Finance 17",
+      "target": "Construction 6",
+      "value": 0.2818
+    },
+    {
+      "source": "Finance 17",
+      "target": "Education 14",
+      "value": 0.2187
+    },
+    {
+      "source": "Finance 17",
+      "target": "Finance 1",
+      "value": 0.047
+    },
+    {
+      "source": "Finance 17",
+      "target": "Education 5",
+      "value": 0.0323
+    },
+    {
+      "source": "Education 2",
+      "target": "Manufacturing 26",
+      "value": 0.1998
+    },
+    {
+      "source": "Education 2",
+      "target": "Education 11",
+      "value": 0.0991
+    },
+    {
+      "source": "Education 2",
+      "target": "Retail 38",
+      "value": 0.1039
+    },
+    {
+      "source": "Education 2",
+      "target": "Energy 15",
+      "value": 0.0288
+    },
+    {
+      "source": "Education 2",
+      "target": "Information Technology 35",
+      "value": 0.2094
+    },
+    {
+      "source": "Retail 26",
+      "target": "Construction 30",
+      "value": 0.1133
+    },
+    {
+      "source": "Retail 26",
+      "target": "Manufacturing 17",
+      "value": 0.0641
+    },
+    {
+      "source": "Retail 26",
+      "target": "Information Technology 25",
+      "value": 0.5766
+    },
+    {
+      "source": "Energy 3",
+      "target": "Transportation 24",
+      "value": 0.0266
+    },
+    {
+      "source": "Energy 3",
+      "target": "Transportation 18",
+      "value": 0.2442
+    },
+    {
+      "source": "Energy 3",
+      "target": "Manufacturing 15",
+      "value": 0.2242
+    },
+    {
+      "source": "Information Technology 37",
+      "target": "Mining 6",
+      "value": 0.3587
+    },
+    {
+      "source": "Information Technology 37",
+      "target": "Manufacturing 23",
+      "value": 0.2083
+    },
+    {
+      "source": "Information Technology 40",
+      "target": "Information Technology 22",
+      "value": 0.6181
+    },
+    {
+      "source": "Information Technology 40",
+      "target": "Transportation 19",
+      "value": 0.0979
+    },
+    {
+      "source": "Healthcare 6",
+      "target": "Healthcare 15",
+      "value": 0.196
+    },
+    {
+      "source": "Healthcare 6",
+      "target": "Manufacturing 19",
+      "value": 0.0557
+    },
+    {
+      "source": "Healthcare 6",
+      "target": "Education 14",
+      "value": 0.3823
+    },
+    {
+      "source": "Information Technology 32",
+      "target": "Information Technology 18",
+      "value": 0.3132
+    },
+    {
+      "source": "Information Technology 32",
+      "target": "Retail 21",
+      "value": 0.1541
+    },
+    {
+      "source": "Information Technology 32",
+      "target": "Healthcare 13",
+      "value": 0.1727
+    },
+    {
+      "source": "Energy 12",
+      "target": "Information Technology 24",
+      "value": 0.0688
+    },
+    {
+      "source": "Energy 12",
+      "target": "Manufacturing 31",
+      "value": 0.0724
+    },
+    {
+      "source": "Energy 12",
+      "target": "Retail 27",
+      "value": 0.1648
+    },
+    {
+      "source": "Energy 12",
+      "target": "Finance 17",
+      "value": 0.2535
+    },
+    {
+      "source": "Energy 12",
+      "target": "Government 8",
+      "value": 0.0905
+    },
+    {
+      "source": "Retail 3",
+      "target": "Construction 18",
+      "value": 0.0729
+    },
+    {
+      "source": "Retail 3",
+      "target": "Retail 27",
+      "value": 0.4534
+    },
+    {
+      "source": "Retail 3",
+      "target": "Healthcare 14",
+      "value": 0.1255
+    },
+    {
+      "source": "Retail 3",
+      "target": "Mining 4",
+      "value": 0.1012
+    },
+    {
+      "source": "Telecommunications 8",
+      "target": "Transportation 5",
+      "value": 0.2989
+    },
+    {
+      "source": "Telecommunications 8",
+      "target": "Manufacturing 24",
+      "value": 0.2371
+    },
+    {
+      "source": "Education 18",
+      "target": "Construction 12",
+      "value": 0.0295
+    },
+    {
+      "source": "Education 18",
+      "target": "Telecommunications 20",
+      "value": 0.0364
+    },
+    {
+      "source": "Education 18",
+      "target": "Manufacturing 17",
+      "value": 0.1231
+    },
+    {
+      "source": "Education 18",
+      "target": "Manufacturing 29",
+      "value": 0.1075
+    },
+    {
+      "source": "Education 18",
+      "target": "Telecommunications 2",
+      "value": 0.3796
+    },
+    {
+      "source": "Energy 2",
+      "target": "Energy 6",
+      "value": 0.3238
+    },
+    {
+      "source": "Energy 2",
+      "target": "Retail 29",
+      "value": 0.1192
+    },
+    {
+      "source": "Energy 7",
+      "target": "Healthcare 26",
+      "value": 0.5791
+    },
+    {
+      "source": "Energy 7",
+      "target": "Education 15",
+      "value": 0.1389
+    },
+    {
+      "source": "Construction 30",
+      "target": "Finance 14",
+      "value": 0.0803
+    },
+    {
+      "source": "Construction 30",
+      "target": "Finance 39",
+      "value": 0.0155
+    },
+    {
+      "source": "Construction 30",
+      "target": "Finance 16",
+      "value": 0.0388
+    },
+    {
+      "source": "Construction 30",
+      "target": "Telecommunications 9",
+      "value": 0.4544
+    },
+    {
+      "source": "Finance 16",
+      "target": "Retail 9",
+      "value": 0.1157
+    },
+    {
+      "source": "Finance 16",
+      "target": "Education 19",
+      "value": 0.0269
+    },
+    {
+      "source": "Finance 16",
+      "target": "Healthcare 15",
+      "value": 0.4517
+    },
+    {
+      "source": "Finance 16",
+      "target": "Information Technology 22",
+      "value": 0.0396
+    },
+    {
+      "source": "Mining 5",
+      "target": "Healthcare 13",
+      "value": 0.3158
+    },
+    {
+      "source": "Mining 5",
+      "target": "Construction 15",
+      "value": 0.0856
+    },
+    {
+      "source": "Mining 5",
+      "target": "Finance 32",
+      "value": 0.1659
+    },
+    {
+      "source": "Mining 5",
+      "target": "Construction 7",
+      "value": 0.2087
+    },
+    {
+      "source": "Telecommunications 5",
+      "target": "Mining 3",
+      "value": 0.0176
+    },
+    {
+      "source": "Telecommunications 5",
+      "target": "Information Technology 43",
+      "value": 0.0384
+    },
+    {
+      "source": "Telecommunications 5",
+      "target": "Telecommunications 12",
+      "value": 0.1597
+    },
+    {
+      "source": "Telecommunications 5",
+      "target": "Education 7",
+      "value": 0.1654
+    },
+    {
+      "source": "Telecommunications 5",
+      "target": "Transportation 18",
+      "value": 0.0228
+    },
+    {
+      "source": "Agriculture 12",
+      "target": "Transportation 15",
+      "value": 0.4028
+    },
+    {
+      "source": "Agriculture 12",
+      "target": "Finance 13",
+      "value": 0.1822
+    },
+    {
+      "source": "Media 4",
+      "target": "Agriculture 11",
+      "value": 0.0177
+    },
+    {
+      "source": "Media 4",
+      "target": "Manufacturing 13",
+      "value": 0.3947
+    },
+    {
+      "source": "Media 4",
+      "target": "Retail 21",
+      "value": 0.0806
+    },
+    {
+      "source": "Information Technology 45",
+      "target": "Agriculture 17",
+      "value": 0.2147
+    },
+    {
+      "source": "Information Technology 45",
+      "target": "Media 4",
+      "value": 0.0432
+    },
+    {
+      "source": "Information Technology 45",
+      "target": "Government 1",
+      "value": 0.0164
+    },
+    {
+      "source": "Information Technology 45",
+      "target": "Information Technology 24",
+      "value": 0.1804
+    },
+    {
+      "source": "Information Technology 45",
+      "target": "Retail 4",
+      "value": 0.0373
+    },
+    {
+      "source": "Information Technology 3",
+      "target": "Agriculture 20",
+      "value": 0.1938
+    },
+    {
+      "source": "Information Technology 3",
+      "target": "Manufacturing 24",
+      "value": 0.0256
+    },
+    {
+      "source": "Information Technology 3",
+      "target": "Agriculture 13",
+      "value": 0.2882
+    },
+    {
+      "source": "Information Technology 3",
+      "target": "Manufacturing 38",
+      "value": 0.0544
+    },
+    {
+      "source": "Information Technology 3",
+      "target": "Transportation 14",
+      "value": 0.1569
+    },
+    {
+      "source": "Manufacturing 11",
+      "target": "Construction 17",
+      "value": 0.2422
+    },
+    {
+      "source": "Manufacturing 11",
+      "target": "Information Technology 33",
+      "value": 0.0238
+    },
+    {
+      "source": "Manufacturing 11",
+      "target": "Construction 24",
+      "value": 0.3097
+    },
+    {
+      "source": "Manufacturing 11",
+      "target": "Education 19",
+      "value": 0.0258
+    },
+    {
+      "source": "Manufacturing 11",
+      "target": "Education 8",
+      "value": 0.0695
+    },
+    {
+      "source": "Information Technology 43",
+      "target": "Mining 12",
+      "value": 0.0688
+    },
+    {
+      "source": "Information Technology 43",
+      "target": "Government 9",
+      "value": 0.1145
+    },
+    {
+      "source": "Information Technology 43",
+      "target": "Information Technology 6",
+      "value": 0.1105
+    },
+    {
+      "source": "Information Technology 43",
+      "target": "Manufacturing 36",
+      "value": 0.028
+    },
+    {
+      "source": "Information Technology 43",
+      "target": "Government 10",
+      "value": 0.0624
+    },
+    {
+      "source": "Information Technology 43",
+      "target": "Information Technology 24",
+      "value": 0.0168
+    },
+    {
+      "source": "Energy 11",
+      "target": "Healthcare 9",
+      "value": 0.1969
+    },
+    {
+      "source": "Energy 11",
+      "target": "Transportation 33",
+      "value": 0.3938
+    },
+    {
+      "source": "Energy 11",
+      "target": "Manufacturing 7",
+      "value": 0.1153
+    },
+    {
+      "source": "Media 15",
+      "target": "Media 1",
+      "value": 0.0493
+    },
+    {
+      "source": "Media 15",
+      "target": "Agriculture 17",
+      "value": 0.1462
+    },
+    {
+      "source": "Media 15",
+      "target": "Transportation 35",
+      "value": 0.243
+    },
+    {
+      "source": "Media 15",
+      "target": "Energy 1",
+      "value": 0.1525
+    },
+    {
+      "source": "Media 18",
+      "target": "Media 6",
+      "value": 0.46
+    },
+    {
+      "source": "Media 18",
+      "target": "Retail 9",
+      "value": 0.058
+    },
+    {
+      "source": "Media 18",
+      "target": "Education 20",
+      "value": 0.0622
+    },
+    {
+      "source": "Media 18",
+      "target": "Manufacturing 15",
+      "value": 0.1658
+    },
+    {
+      "source": "Construction 25",
+      "target": "Finance 33",
+      "value": 0.713
+    },
+    {
+      "source": "Energy 5",
+      "target": "Retail 10",
+      "value": 0.252
+    },
+    {
+      "source": "Energy 5",
+      "target": "Finance 17",
+      "value": 0.037
+    },
+    {
+      "source": "Energy 5",
+      "target": "Education 11",
+      "value": 0.0229
+    },
+    {
+      "source": "Energy 5",
+      "target": "Finance 19",
+      "value": 0.1004
+    },
+    {
+      "source": "Energy 5",
+      "target": "Construction 5",
+      "value": 0.0097
+    },
+    {
+      "source": "Mining 12",
+      "target": "Mining 6",
+      "value": 0.2898
+    },
+    {
+      "source": "Mining 12",
+      "target": "Finance 18",
+      "value": 0.1178
+    },
+    {
+      "source": "Mining 12",
+      "target": "Information Technology 10",
+      "value": 0.0184
+    },
+    {
+      "source": "Manufacturing 9",
+      "target": "Manufacturing 5",
+      "value": 0.2788
+    },
+    {
+      "source": "Manufacturing 9",
+      "target": "Agriculture 9",
+      "value": 0.0225
+    },
+    {
+      "source": "Manufacturing 9",
+      "target": "Education 16",
+      "value": 0.0334
+    },
+    {
+      "source": "Manufacturing 9",
+      "target": "Information Technology 3",
+      "value": 0.1312
+    },
+    {
+      "source": "Manufacturing 9",
+      "target": "Energy 15",
+      "value": 0.0349
+    },
+    {
+      "source": "Manufacturing 9",
+      "target": "Finance 3",
+      "value": 0.1087
+    },
+    {
+      "source": "Manufacturing 9",
+      "target": "Construction 22",
+      "value": 0.0404
+    },
+    {
+      "source": "Energy 15",
+      "target": "Manufacturing 36",
+      "value": 0.136
+    },
+    {
+      "source": "Energy 15",
+      "target": "Information Technology 31",
+      "value": 0.108
+    },
+    {
+      "source": "Energy 15",
+      "target": "Healthcare 27",
+      "value": 0.036
+    },
+    {
+      "source": "Energy 15",
+      "target": "Energy 9",
+      "value": 0.04
+    },
+    {
+      "source": "Energy 15",
+      "target": "Transportation 26",
+      "value": 0.104
+    },
+    {
+      "source": "Information Technology 9",
+      "target": "Information Technology 37",
+      "value": 0.2101
+    },
+    {
+      "source": "Information Technology 9",
+      "target": "Information Technology 26",
+      "value": 0.3139
+    },
+    {
+      "source": "Education 16",
+      "target": "Energy 4",
+      "value": 0.3549
+    },
+    {
+      "source": "Education 16",
+      "target": "Media 11",
+      "value": 0.1597
+    },
+    {
+      "source": "Education 16",
+      "target": "Waste Management 13",
+      "value": 0.1065
+    },
+    {
+      "source": "Government 6",
+      "target": "Healthcare 12",
+      "value": 0.3844
+    },
+    {
+      "source": "Government 6",
+      "target": "Waste Management 11",
+      "value": 0.0653
+    },
+    {
+      "source": "Government 6",
+      "target": "Transportation 4",
+      "value": 0.0653
+    },
+    {
+      "source": "Media 7",
+      "target": "Manufacturing 35",
+      "value": 0.0311
+    },
+    {
+      "source": "Media 7",
+      "target": "Manufacturing 24",
+      "value": 0.0442
+    },
+    {
+      "source": "Media 7",
+      "target": "Finance 19",
+      "value": 0.3346
+    },
+    {
+      "source": "Media 7",
+      "target": "Transportation 3",
+      "value": 0.0131
+    },
+    {
+      "source": "Healthcare 11",
+      "target": "Transportation 24",
+      "value": 0.029
+    },
+    {
+      "source": "Healthcare 11",
+      "target": "Retail 38",
+      "value": 0.0122
+    },
+    {
+      "source": "Healthcare 11",
+      "target": "Construction 30",
+      "value": 0.0145
+    },
+    {
+      "source": "Healthcare 11",
+      "target": "Finance 37",
+      "value": 0.1182
+    },
+    {
+      "source": "Healthcare 11",
+      "target": "Transportation 18",
+      "value": 0.0488
+    },
+    {
+      "source": "Healthcare 11",
+      "target": "Healthcare 22",
+      "value": 0.324
+    },
+    {
+      "source": "Healthcare 11",
+      "target": "Manufacturing 35",
+      "value": 0.0114
+    },
+    {
+      "source": "Healthcare 27",
+      "target": "Government 2",
+      "value": 0.1253
+    },
+    {
+      "source": "Healthcare 27",
+      "target": "Transportation 13",
+      "value": 0.4387
+    },
+    {
+      "source": "Transportation 29",
+      "target": "Transportation 4",
+      "value": 0.091
+    },
+    {
+      "source": "Transportation 29",
+      "target": "Information Technology 30",
+      "value": 0.3372
+    },
+    {
+      "source": "Transportation 29",
+      "target": "Healthcare 18",
+      "value": 0.2218
+    },
+    {
+      "source": "Finance 6",
+      "target": "Manufacturing 15",
+      "value": 0.0714
+    },
+    {
+      "source": "Finance 6",
+      "target": "Information Technology 26",
+      "value": 0.1448
+    },
+    {
+      "source": "Finance 6",
+      "target": "Retail 29",
+      "value": 0.1289
+    },
+    {
+      "source": "Finance 6",
+      "target": "Government 5",
+      "value": 0.351
+    },
+    {
+      "source": "Information Technology 39",
+      "target": "Information Technology 37",
+      "value": 0.2519
+    },
+    {
+      "source": "Information Technology 39",
+      "target": "Manufacturing 1",
+      "value": 0.0782
+    },
+    {
+      "source": "Information Technology 39",
+      "target": "Agriculture 6",
+      "value": 0.0208
+    },
+    {
+      "source": "Information Technology 39",
+      "target": "Information Technology 11",
+      "value": 0.1268
+    },
+    {
+      "source": "Information Technology 39",
+      "target": "Manufacturing 40",
+      "value": 0.1042
+    },
+    {
+      "source": "Healthcare 4",
+      "target": "Agriculture 5",
+      "value": 0.1038
+    },
+    {
+      "source": "Healthcare 4",
+      "target": "Media 12",
+      "value": 0.2923
+    },
+    {
+      "source": "Healthcare 4",
+      "target": "Education 14",
+      "value": 0.1639
+    },
+    {
+      "source": "Energy 4",
+      "target": "Finance 40",
+      "value": 0.1676
+    },
+    {
+      "source": "Energy 4",
+      "target": "Media 4",
+      "value": 0.2272
+    },
+    {
+      "source": "Energy 4",
+      "target": "Education 5",
+      "value": 0.0441
+    },
+    {
+      "source": "Energy 4",
+      "target": "Media 11",
+      "value": 0.0971
+    },
+    {
+      "source": "Construction 20",
+      "target": "Retail 12",
+      "value": 0.0344
+    },
+    {
+      "source": "Construction 20",
+      "target": "Information Technology 23",
+      "value": 0.043
+    },
+    {
+      "source": "Construction 20",
+      "target": "Healthcare 2",
+      "value": 0.507
+    },
+    {
+      "source": "Construction 20",
+      "target": "Healthcare 14",
+      "value": 0.1117
+    },
+    {
+      "source": "Media 14",
+      "target": "Retail 11",
+      "value": 0.0291
+    },
+    {
+      "source": "Media 14",
+      "target": "Retail 15",
+      "value": 0.1275
+    },
+    {
+      "source": "Media 14",
+      "target": "Manufacturing 10",
+      "value": 0.0468
+    },
+    {
+      "source": "Media 14",
+      "target": "Information Technology 15",
+      "value": 0.0993
+    },
+    {
+      "source": "Media 14",
+      "target": "Manufacturing 34",
+      "value": 0.3123
+    },
+    {
+      "source": "Finance 28",
+      "target": "Healthcare 31",
+      "value": 0.1202
+    },
+    {
+      "source": "Finance 28",
+      "target": "Retail 10",
+      "value": 0.4326
+    },
+    {
+      "source": "Finance 28",
+      "target": "Education 1",
+      "value": 0.1842
+    },
+    {
+      "source": "Finance 13",
+      "target": "Information Technology 27",
+      "value": 0.094
+    },
+    {
+      "source": "Finance 13",
+      "target": "Energy 3",
+      "value": 0.1042
+    },
+    {
+      "source": "Finance 13",
+      "target": "Manufacturing 13",
+      "value": 0.0718
+    },
+    {
+      "source": "Finance 13",
+      "target": "Education 20",
+      "value": 0.176
+    },
+    {
+      "source": "Finance 12",
+      "target": "Healthcare 23",
+      "value": 0.412
+    },
+    {
+      "source": "Transportation 27",
+      "target": "Information Technology 2",
+      "value": 0.0257
+    },
+    {
+      "source": "Transportation 27",
+      "target": "Agriculture 12",
+      "value": 0.0422
+    },
+    {
+      "source": "Transportation 27",
+      "target": "Information Technology 15",
+      "value": 0.2624
+    },
+    {
+      "source": "Transportation 27",
+      "target": "Information Technology 40",
+      "value": 0.1358
+    },
+    {
+      "source": "Agriculture 19",
+      "target": "Mining 11",
+      "value": 0.1534
+    },
+    {
+      "source": "Agriculture 19",
+      "target": "Waste Management 8",
+      "value": 0.0765
+    },
+    {
+      "source": "Agriculture 19",
+      "target": "Education 20",
+      "value": 0.1912
+    },
+    {
+      "source": "Agriculture 19",
+      "target": "Waste Management 4",
+      "value": 0.1589
+    },
+    {
+      "source": "Government 5",
+      "target": "Healthcare 1",
+      "value": 0.4393
+    },
+    {
+      "source": "Government 5",
+      "target": "Manufacturing 40",
+      "value": 0.0842
+    },
+    {
+      "source": "Government 5",
+      "target": "Education 16",
+      "value": 0.1715
+    },
+    {
+      "source": "Mining 3",
+      "target": "Finance 28",
+      "value": 0.1628
+    },
+    {
+      "source": "Mining 3",
+      "target": "Agriculture 13",
+      "value": 0.0067
+    },
+    {
+      "source": "Mining 3",
+      "target": "Information Technology 18",
+      "value": 0.22
+    },
+    {
+      "source": "Mining 3",
+      "target": "Construction 24",
+      "value": 0.0397
+    },
+    {
+      "source": "Mining 3",
+      "target": "Manufacturing 29",
+      "value": 0.1195
+    },
+    {
+      "source": "Mining 3",
+      "target": "Healthcare 10",
+      "value": 0.0413
+    },
+    {
+      "source": "Construction 11",
+      "target": "Information Technology 25",
+      "value": 0.0884
+    },
+    {
+      "source": "Construction 11",
+      "target": "Construction 23",
+      "value": 0.2418
+    },
+    {
+      "source": "Construction 11",
+      "target": "Healthcare 14",
+      "value": 0.1714
+    },
+    {
+      "source": "Construction 11",
+      "target": "Retail 11",
+      "value": 0.009
+    },
+    {
+      "source": "Construction 11",
+      "target": "Information Technology 7",
+      "value": 0.0107
+    },
+    {
+      "source": "Construction 11",
+      "target": "Agriculture 8",
+      "value": 0.0107
+    },
+    {
+      "source": "Government 9",
+      "target": "Manufacturing 28",
+      "value": 0.0555
+    },
+    {
+      "source": "Government 9",
+      "target": "Finance 8",
+      "value": 0.081
+    },
+    {
+      "source": "Government 9",
+      "target": "Agriculture 2",
+      "value": 0.5435
+    },
+    {
+      "source": "Retail 27",
+      "target": "Retail 12",
+      "value": 0.1571
+    },
+    {
+      "source": "Retail 27",
+      "target": "Retail 17",
+      "value": 0.2514
+    },
+    {
+      "source": "Retail 27",
+      "target": "Energy 4",
+      "value": 0.0754
+    },
+    {
+      "source": "Manufacturing 30",
+      "target": "Manufacturing 31",
+      "value": 0.1082
+    },
+    {
+      "source": "Manufacturing 30",
+      "target": "Energy 4",
+      "value": 0.1789
+    },
+    {
+      "source": "Manufacturing 30",
+      "target": "Finance 7",
+      "value": 0.1899
+    },
+    {
+      "source": "Manufacturing 26",
+      "target": "Energy 12",
+      "value": 0.775
+    },
+    {
+      "source": "Information Technology 28",
+      "target": "Healthcare 14",
+      "value": 0.3533
+    },
+    {
+      "source": "Information Technology 28",
+      "target": "Information Technology 37",
+      "value": 0.0402
+    },
+    {
+      "source": "Information Technology 28",
+      "target": "Retail 38",
+      "value": 0.1434
+    },
+    {
+      "source": "Finance 15",
+      "target": "Construction 11",
+      "value": 0.0822
+    },
+    {
+      "source": "Finance 15",
+      "target": "Healthcare 5",
+      "value": 0.3958
+    },
+    {
+      "source": "Information Technology 19",
+      "target": "Manufacturing 30",
+      "value": 0.2035
+    },
+    {
+      "source": "Information Technology 19",
+      "target": "Information Technology 8",
+      "value": 0.0938
+    },
+    {
+      "source": "Information Technology 19",
+      "target": "Media 15",
+      "value": 0.046
+    },
+    {
+      "source": "Information Technology 19",
+      "target": "Healthcare 18",
+      "value": 0.0796
+    },
+    {
+      "source": "Mining 15",
+      "target": "Healthcare 20",
+      "value": 0.0219
+    },
+    {
+      "source": "Mining 15",
+      "target": "Manufacturing 18",
+      "value": 0.5267
+    },
+    {
+      "source": "Mining 15",
+      "target": "Healthcare 9",
+      "value": 0.0257
+    },
+    {
+      "source": "Mining 15",
+      "target": "Healthcare 33",
+      "value": 0.0356
+    },
+    {
+      "source": "Retail 18",
+      "target": "Information Technology 25",
+      "value": 0.0748
+    },
+    {
+      "source": "Retail 18",
+      "target": "Retail 40",
+      "value": 0.2859
+    },
+    {
+      "source": "Retail 18",
+      "target": "Finance 9",
+      "value": 0.2533
+    },
+    {
+      "source": "Manufacturing 34",
+      "target": "Agriculture 13",
+      "value": 0.3703
+    },
+    {
+      "source": "Manufacturing 34",
+      "target": "Agriculture 9",
+      "value": 0.3457
+    },
+    {
+      "source": "Information Technology 16",
+      "target": "Manufacturing 38",
+      "value": 0.403
+    },
+    {
+      "source": "Finance 4",
+      "target": "Information Technology 31",
+      "value": 0.781
+    },
+    {
+      "source": "Education 10",
+      "target": "Education 6",
+      "value": 0.3699
+    },
+    {
+      "source": "Education 10",
+      "target": "Retail 19",
+      "value": 0.0731
+    },
+    {
+      "source": "Mining 11",
+      "target": "Information Technology 8",
+      "value": 0.2162
+    },
+    {
+      "source": "Mining 11",
+      "target": "Transportation 12",
+      "value": 0.008
+    },
+    {
+      "source": "Mining 11",
+      "target": "Media 6",
+      "value": 0.025
+    },
+    {
+      "source": "Mining 11",
+      "target": "Manufacturing 10",
+      "value": 0.1695
+    },
+    {
+      "source": "Mining 11",
+      "target": "Telecommunications 2",
+      "value": 0.0095
+    },
+    {
+      "source": "Mining 11",
+      "target": "Manufacturing 2",
+      "value": 0.0288
+    },
+    {
+      "source": "Retail 14",
+      "target": "Waste Management 2",
+      "value": 0.1545
+    },
+    {
+      "source": "Retail 14",
+      "target": "Finance 19",
+      "value": 0.0473
+    },
+    {
+      "source": "Retail 14",
+      "target": "Information Technology 13",
+      "value": 0.0654
+    },
+    {
+      "source": "Retail 14",
+      "target": "Manufacturing 9",
+      "value": 0.0454
+    },
+    {
+      "source": "Retail 14",
+      "target": "Finance 35",
+      "value": 0.1163
+    },
+    {
+      "source": "Retail 14",
+      "target": "Finance 12",
+      "value": 0.0491
+    },
+    {
+      "source": "Retail 14",
+      "target": "Healthcare 23",
+      "value": 0.02
+    },
+    {
+      "source": "Agriculture 8",
+      "target": "Information Technology 10",
+      "value": 0.0439
+    },
+    {
+      "source": "Agriculture 8",
+      "target": "Education 12",
+      "value": 0.1116
+    },
+    {
+      "source": "Agriculture 8",
+      "target": "Retail 25",
+      "value": 0.0797
+    },
+    {
+      "source": "Agriculture 8",
+      "target": "Finance 32",
+      "value": 0.0439
+    },
+    {
+      "source": "Agriculture 8",
+      "target": "Finance 34",
+      "value": 0.0478
+    },
+    {
+      "source": "Agriculture 8",
+      "target": "Healthcare 31",
+      "value": 0.0638
+    },
+    {
+      "source": "Agriculture 8",
+      "target": "Information Technology 25",
+      "value": 0.2153
+    },
+    {
+      "source": "Healthcare 31",
+      "target": "Information Technology 13",
+      "value": 0.011
+    },
+    {
+      "source": "Healthcare 31",
+      "target": "Healthcare 11",
+      "value": 0.1129
+    },
+    {
+      "source": "Healthcare 31",
+      "target": "Education 4",
+      "value": 0.1656
+    },
+    {
+      "source": "Healthcare 31",
+      "target": "Construction 20",
+      "value": 0.0235
+    },
+    {
+      "source": "Healthcare 31",
+      "target": "Information Technology 18",
+      "value": 0.0733
+    },
+    {
+      "source": "Healthcare 31",
+      "target": "Retail 31",
+      "value": 0.0088
+    },
+    {
+      "source": "Healthcare 31",
+      "target": "Information Technology 20",
+      "value": 0.0227
+    },
+    {
+      "source": "Healthcare 31",
+      "target": "Agriculture 16",
+      "value": 0.0374
+    },
+    {
+      "source": "Healthcare 31",
+      "target": "Agriculture 19",
+      "value": 0.0169
+    },
+    {
+      "source": "Retail 28",
+      "target": "Finance 6",
+      "value": 0.0169
+    },
+    {
+      "source": "Retail 28",
+      "target": "Information Technology 41",
+      "value": 0.0105
+    },
+    {
+      "source": "Retail 28",
+      "target": "Education 1",
+      "value": 0.3367
+    },
+    {
+      "source": "Retail 28",
+      "target": "Retail 2",
+      "value": 0.0624
+    },
+    {
+      "source": "Retail 28",
+      "target": "Transportation 15",
+      "value": 0.0064
+    },
+    {
+      "source": "Retail 40",
+      "target": "Information Technology 25",
+      "value": 0.072
+    },
+    {
+      "source": "Retail 40",
+      "target": "Manufacturing 33",
+      "value": 0.0619
+    },
+    {
+      "source": "Retail 40",
+      "target": "Education 8",
+      "value": 0.4939
+    },
+    {
+      "source": "Retail 40",
+      "target": "Retail 33",
+      "value": 0.0502
+    },
+    {
+      "source": "Finance 7",
+      "target": "Waste Management 11",
+      "value": 0.0781
+    },
+    {
+      "source": "Finance 7",
+      "target": "Waste Management 8",
+      "value": 0.4039
+    },
+    {
+      "source": "Manufacturing 23",
+      "target": "Agriculture 16",
+      "value": 0.0412
+    },
+    {
+      "source": "Manufacturing 23",
+      "target": "Agriculture 9",
+      "value": 0.0726
+    },
+    {
+      "source": "Manufacturing 23",
+      "target": "Finance 35",
+      "value": 0.6381
+    },
+    {
+      "source": "Information Technology 41",
+      "target": "Waste Management 10",
+      "value": 0.3382
+    },
+    {
+      "source": "Information Technology 41",
+      "target": "Telecommunications 13",
+      "value": 0.0788
+    },
+    {
+      "source": "Education 13",
+      "target": "Media 9",
+      "value": 0.758
+    },
+    {
+      "source": "Healthcare 22",
+      "target": "Healthcare 17",
+      "value": 0.0707
+    },
+    {
+      "source": "Healthcare 22",
+      "target": "Transportation 26",
+      "value": 0.0909
+    },
+    {
+      "source": "Healthcare 22",
+      "target": "Information Technology 4",
+      "value": 0.0581
+    },
+    {
+      "source": "Healthcare 22",
+      "target": "Manufacturing 11",
+      "value": 0.0985
+    },
+    {
+      "source": "Healthcare 22",
+      "target": "Healthcare 14",
+      "value": 0.3157
+    },
+    {
+      "source": "Transportation 10",
+      "target": "Healthcare 11",
+      "value": 0.545
+    },
+    {
+      "source": "Finance 32",
+      "target": "Transportation 29",
+      "value": 0.064
+    },
+    {
+      "source": "Finance 32",
+      "target": "Retail 23",
+      "value": 0.0329
+    },
+    {
+      "source": "Finance 32",
+      "target": "Waste Management 13",
+      "value": 0.2833
+    },
+    {
+      "source": "Finance 32",
+      "target": "Media 5",
+      "value": 0.1718
+    },
+    {
+      "source": "Manufacturing 19",
+      "target": "Information Technology 41",
+      "value": 0.2897
+    },
+    {
+      "source": "Manufacturing 19",
+      "target": "Finance 26",
+      "value": 0.3743
+    },
+    {
+      "source": "Waste Management 1",
+      "target": "Education 12",
+      "value": 0.157
+    },
+    {
+      "source": "Waste Management 1",
+      "target": "Finance 35",
+      "value": 0.0218
+    },
+    {
+      "source": "Waste Management 1",
+      "target": "Manufacturing 11",
+      "value": 0.0887
+    },
+    {
+      "source": "Waste Management 1",
+      "target": "Telecommunications 17",
+      "value": 0.2515
+    },
+    {
+      "source": "Agriculture 16",
+      "target": "Agriculture 15",
+      "value": 0.0292
+    },
+    {
+      "source": "Agriculture 16",
+      "target": "Transportation 21",
+      "value": 0.2
+    },
+    {
+      "source": "Agriculture 16",
+      "target": "Finance 1",
+      "value": 0.0292
+    },
+    {
+      "source": "Agriculture 16",
+      "target": "Education 2",
+      "value": 0.4495
+    },
+    {
+      "source": "Manufacturing 24",
+      "target": "Information Technology 12",
+      "value": 0.1127
+    },
+    {
+      "source": "Manufacturing 24",
+      "target": "Finance 27",
+      "value": 0.5353
+    },
+    {
+      "source": "Media 13",
+      "target": "Energy 12",
+      "value": 0.2165
+    },
+    {
+      "source": "Media 13",
+      "target": "Retail 5",
+      "value": 0.2275
+    },
+    {
+      "source": "Manufacturing 28",
+      "target": "Manufacturing 27",
+      "value": 0.1408
+    },
+    {
+      "source": "Manufacturing 28",
+      "target": "Healthcare 11",
+      "value": 0.4412
+    },
+    {
+      "source": "Construction 14",
+      "target": "Healthcare 25",
+      "value": 0.673
+    },
+    {
+      "source": "Finance 20",
+      "target": "Education 13",
+      "value": 0.0788
+    },
+    {
+      "source": "Finance 20",
+      "target": "Information Technology 16",
+      "value": 0.048
+    },
+    {
+      "source": "Finance 20",
+      "target": "Manufacturing 13",
+      "value": 0.0435
+    },
+    {
+      "source": "Finance 20",
+      "target": "Healthcare 1",
+      "value": 0.3088
+    },
+    {
+      "source": "Energy 13",
+      "target": "Finance 35",
+      "value": 0.4547
+    },
+    {
+      "source": "Energy 13",
+      "target": "Construction 25",
+      "value": 0.1773
+    },
+    {
+      "source": "Transportation 35",
+      "target": "Transportation 8",
+      "value": 0.2382
+    },
+    {
+      "source": "Transportation 35",
+      "target": "Healthcare 26",
+      "value": 0.2958
+    },
+    {
+      "source": "Transportation 1",
+      "target": "Media 20",
+      "value": 0.5492
+    },
+    {
+      "source": "Transportation 1",
+      "target": "Information Technology 20",
+      "value": 0.1068
+    },
+    {
+      "source": "Finance 37",
+      "target": "Information Technology 44",
+      "value": 0.0509
+    },
+    {
+      "source": "Finance 37",
+      "target": "Finance 11",
+      "value": 0.066
+    },
+    {
+      "source": "Finance 37",
+      "target": "Healthcare 14",
+      "value": 0.3791
+    },
+    {
+      "source": "Manufacturing 10",
+      "target": "Finance 23",
+      "value": 0.426
+    },
+    {
+      "source": "Healthcare 25",
+      "target": "Media 13",
+      "value": 0.57
+    },
+    {
+      "source": "Manufacturing 22",
+      "target": "Finance 33",
+      "value": 0.1756
+    },
+    {
+      "source": "Manufacturing 22",
+      "target": "Information Technology 32",
+      "value": 0.186
+    },
+    {
+      "source": "Manufacturing 22",
+      "target": "Information Technology 16",
+      "value": 0.3151
+    },
+    {
+      "source": "Manufacturing 22",
+      "target": "Manufacturing 13",
+      "value": 0.0413
+    },
+    {
+      "source": "Healthcare 33",
+      "target": "Healthcare 35",
+      "value": 0.2657
+    },
+    {
+      "source": "Healthcare 33",
+      "target": "Construction 11",
+      "value": 0.0613
+    },
+    {
+      "source": "Healthcare 33",
+      "target": "Finance 7",
+      "value": 0.1594
+    },
+    {
+      "source": "Healthcare 33",
+      "target": "Manufacturing 5",
+      "value": 0.045
+    },
+    {
+      "source": "Healthcare 33",
+      "target": "Retail 4",
+      "value": 0.1267
+    },
+    {
+      "source": "Retail 36",
+      "target": "Retail 7",
+      "value": 0.3524
+    },
+    {
+      "source": "Retail 36",
+      "target": "Waste Management 9",
+      "value": 0.0775
+    },
+    {
+      "source": "Retail 36",
+      "target": "Retail 12",
+      "value": 0.1691
+    },
+    {
+      "source": "Education 20",
+      "target": "Manufacturing 17",
+      "value": 0.0398
+    },
+    {
+      "source": "Education 20",
+      "target": "Healthcare 30",
+      "value": 0.0609
+    },
+    {
+      "source": "Education 20",
+      "target": "Retail 17",
+      "value": 0.3743
+    },
+    {
+      "source": "Healthcare 21",
+      "target": "Information Technology 41",
+      "value": 0.474
+    },
+    {
+      "source": "Healthcare 21",
+      "target": "Manufacturing 37",
+      "value": 0.067
+    },
+    {
+      "source": "Manufacturing 3",
+      "target": "Construction 25",
+      "value": 0.0185
+    },
+    {
+      "source": "Manufacturing 3",
+      "target": "Government 2",
+      "value": 0.2209
+    },
+    {
+      "source": "Manufacturing 3",
+      "target": "Finance 26",
+      "value": 0.4996
+    },
+    {
+      "source": "Education 8",
+      "target": "Retail 39",
+      "value": 0.614
+    },
+    {
+      "source": "Media 8",
+      "target": "Energy 14",
+      "value": 0.5432
+    },
+    {
+      "source": "Media 8",
+      "target": "Retail 33",
+      "value": 0.037
+    },
+    {
+      "source": "Media 8",
+      "target": "Government 1",
+      "value": 0.0267
+    },
+    {
+      "source": "Energy 14",
+      "target": "Finance 26",
+      "value": 0.2712
+    },
+    {
+      "source": "Energy 14",
+      "target": "Construction 9",
+      "value": 0.1628
+    },
+    {
+      "source": "Media 2",
+      "target": "Transportation 5",
+      "value": 0.5585
+    },
+    {
+      "source": "Media 2",
+      "target": "Finance 23",
+      "value": 0.1528
+    },
+    {
+      "source": "Media 2",
+      "target": "Manufacturing 11",
+      "value": 0.0738
+    },
+    {
+      "source": "Healthcare 12",
+      "target": "Manufacturing 10",
+      "value": 0.0228
+    },
+    {
+      "source": "Healthcare 12",
+      "target": "Waste Management 5",
+      "value": 0.013
+    },
+    {
+      "source": "Healthcare 12",
+      "target": "Education 4",
+      "value": 0.1789
+    },
+    {
+      "source": "Healthcare 12",
+      "target": "Finance 18",
+      "value": 0.0821
+    },
+    {
+      "source": "Healthcare 12",
+      "target": "Finance 8",
+      "value": 0.035
+    },
+    {
+      "source": "Healthcare 12",
+      "target": "Education 19",
+      "value": 0.1903
+    },
+    {
+      "source": "Retail 23",
+      "target": "Healthcare 10",
+      "value": 0.144
+    },
+    {
+      "source": "Retail 23",
+      "target": "Education 20",
+      "value": 0.605
+    },
+    {
+      "source": "Healthcare 1",
+      "target": "Information Technology 40",
+      "value": 0.1202
+    },
+    {
+      "source": "Healthcare 1",
+      "target": "Construction 6",
+      "value": 0.1132
+    },
+    {
+      "source": "Healthcare 1",
+      "target": "Retail 15",
+      "value": 0.1768
+    },
+    {
+      "source": "Healthcare 1",
+      "target": "Retail 17",
+      "value": 0.2758
+    },
+    {
+      "source": "Retail 1",
+      "target": "Information Technology 4",
+      "value": 0.115
+    },
+    {
+      "source": "Retail 1",
+      "target": "Finance 16",
+      "value": 0.6162
+    },
+    {
+      "source": "Retail 1",
+      "target": "Energy 4",
+      "value": 0.0598
+    },
+    {
+      "source": "Healthcare 2",
+      "target": "Media 20",
+      "value": 0.153
+    },
+    {
+      "source": "Healthcare 2",
+      "target": "Agriculture 10",
+      "value": 0.2781
+    },
+    {
+      "source": "Healthcare 2",
+      "target": "Retail 18",
+      "value": 0.1669
+    },
+    {
+      "source": "Telecommunications 12",
+      "target": "Information Technology 13",
+      "value": 0.1575
+    },
+    {
+      "source": "Telecommunications 12",
+      "target": "Transportation 29",
+      "value": 0.2552
+    },
+    {
+      "source": "Telecommunications 12",
+      "target": "Transportation 20",
+      "value": 0.2857
+    },
+    {
+      "source": "Telecommunications 12",
+      "target": "Information Technology 33",
+      "value": 0.0126
+    },
+    {
+      "source": "Transportation 28",
+      "target": "Media 4",
+      "value": 0.2072
+    },
+    {
+      "source": "Transportation 28",
+      "target": "Information Technology 7",
+      "value": 0.3168
+    },
+    {
+      "source": "Manufacturing 25",
+      "target": "Information Technology 42",
+      "value": 0.1521
+    },
+    {
+      "source": "Manufacturing 25",
+      "target": "Government 4",
+      "value": 0.2535
+    },
+    {
+      "source": "Manufacturing 25",
+      "target": "Information Technology 36",
+      "value": 0.1304
+    },
+    {
+      "source": "Healthcare 15",
+      "target": "Telecommunications 7",
+      "value": 0.125
+    },
+    {
+      "source": "Healthcare 15",
+      "target": "Information Technology 30",
+      "value": 0.4406
+    },
+    {
+      "source": "Healthcare 15",
+      "target": "Manufacturing 39",
+      "value": 0.2084
+    },
+    {
+      "source": "Waste Management 14",
+      "target": "Manufacturing 34",
+      "value": 0.0962
+    },
+    {
+      "source": "Waste Management 14",
+      "target": "Manufacturing 5",
+      "value": 0.1106
+    },
+    {
+      "source": "Waste Management 14",
+      "target": "Construction 17",
+      "value": 0.0232
+    },
+    {
+      "source": "Waste Management 14",
+      "target": "Information Technology 45",
+      "value": 0.2548
+    },
+    {
+      "source": "Waste Management 14",
+      "target": "Media 14",
+      "value": 0.0112
+    },
+    {
+      "source": "Energy 9",
+      "target": "Finance 22",
+      "value": 0.2808
+    },
+    {
+      "source": "Energy 9",
+      "target": "Energy 13",
+      "value": 0.1311
+    },
+    {
+      "source": "Energy 9",
+      "target": "Finance 24",
+      "value": 0.1426
+    },
+    {
+      "source": "Energy 9",
+      "target": "Media 5",
+      "value": 0.0979
+    },
+    {
+      "source": "Energy 9",
+      "target": "Information Technology 38",
+      "value": 0.0576
+    },
+    {
+      "source": "Telecommunications 4",
+      "target": "Media 14",
+      "value": 0.2086
+    },
+    {
+      "source": "Telecommunications 4",
+      "target": "Agriculture 18",
+      "value": 0.1079
+    },
+    {
+      "source": "Telecommunications 4",
+      "target": "Agriculture 11",
+      "value": 0.4604
+    },
+    {
+      "source": "Finance 29",
+      "target": "Manufacturing 1",
+      "value": 0.2743
+    },
+    {
+      "source": "Finance 29",
+      "target": "Manufacturing 36",
+      "value": 0.2743
+    },
+    {
+      "source": "Finance 29",
+      "target": "Transportation 35",
+      "value": 0.0539
+    },
+    {
+      "source": "Finance 29",
+      "target": "Media 2",
+      "value": 0.1616
+    },
+    {
+      "source": "Waste Management 7",
+      "target": "Manufacturing 8",
+      "value": 0.693
+    },
+    {
+      "source": "Transportation 26",
+      "target": "Media 6",
+      "value": 0.5
+    },
+    {
+      "source": "Retail 39",
+      "target": "Telecommunications 17",
+      "value": 0.55
+    },
+    {
+      "source": "Construction 13",
+      "target": "Retail 34",
+      "value": 0.0655
+    },
+    {
+      "source": "Construction 13",
+      "target": "Information Technology 42",
+      "value": 0.0605
+    },
+    {
+      "source": "Construction 13",
+      "target": "Construction 5",
+      "value": 0.2067
+    },
+    {
+      "source": "Construction 13",
+      "target": "Telecommunications 4",
+      "value": 0.3932
+    },
+    {
+      "source": "Telecommunications 6",
+      "target": "Transportation 27",
+      "value": 0.0853
+    },
+    {
+      "source": "Telecommunications 6",
+      "target": "Telecommunications 3",
+      "value": 0.4226
+    },
+    {
+      "source": "Telecommunications 6",
+      "target": "Transportation 30",
+      "value": 0.1776
+    },
+    {
+      "source": "Telecommunications 6",
+      "target": "Telecommunications 7",
+      "value": 0.0193
+    },
+    {
+      "source": "Telecommunications 6",
+      "target": "Transportation 11",
+      "value": 0.0193
+    },
+    {
+      "source": "Transportation 32",
+      "target": "Agriculture 1",
+      "value": 0.1056
+    },
+    {
+      "source": "Transportation 32",
+      "target": "Healthcare 8",
+      "value": 0.6174
+    },
+    {
+      "source": "Finance 24",
+      "target": "Information Technology 3",
+      "value": 0.0446
+    },
+    {
+      "source": "Finance 24",
+      "target": "Government 7",
+      "value": 0.2533
+    },
+    {
+      "source": "Finance 24",
+      "target": "Healthcare 26",
+      "value": 0.1294
+    },
+    {
+      "source": "Finance 24",
+      "target": "Finance 39",
+      "value": 0.0141
+    },
+    {
+      "source": "Finance 24",
+      "target": "Media 2",
+      "value": 0.0946
+    },
+    {
+      "source": "Information Technology 44",
+      "target": "Retail 10",
+      "value": 0.1135
+    },
+    {
+      "source": "Information Technology 44",
+      "target": "Mining 1",
+      "value": 0.3755
+    },
+    {
+      "source": "Manufacturing 16",
+      "target": "Energy 15",
+      "value": 0.515
+    },
+    {
+      "source": "Manufacturing 16",
+      "target": "Government 5",
+      "value": 0.186
+    },
+    {
+      "source": "Retail 6",
+      "target": "Finance 18",
+      "value": 0.3098
+    },
+    {
+      "source": "Retail 6",
+      "target": "Retail 2",
+      "value": 0.1482
+    },
+    {
+      "source": "Agriculture 2",
+      "target": "Transportation 19",
+      "value": 0.0781
+    },
+    {
+      "source": "Agriculture 2",
+      "target": "Manufacturing 31",
+      "value": 0.5901
+    },
+    {
+      "source": "Agriculture 2",
+      "target": "Finance 11",
+      "value": 0.0358
+    },
+    {
+      "source": "Agriculture 11",
+      "target": "Agriculture 9",
+      "value": 0.4214
+    },
+    {
+      "source": "Agriculture 11",
+      "target": "Transportation 25",
+      "value": 0.2676
+    },
+    {
+      "source": "Healthcare 20",
+      "target": "Education 10",
+      "value": 0.3562
+    },
+    {
+      "source": "Healthcare 20",
+      "target": "Manufacturing 5",
+      "value": 0.0148
+    },
+    {
+      "source": "Healthcare 20",
+      "target": "Agriculture 10",
+      "value": 0.021
+    },
+    {
+      "source": "Healthcare 20",
+      "target": "Education 12",
+      "value": 0.1232
+    },
+    {
+      "source": "Healthcare 20",
+      "target": "Manufacturing 9",
+      "value": 0.0629
+    },
+    {
+      "source": "Waste Management 5",
+      "target": "Waste Management 4",
+      "value": 0.085
+    },
+    {
+      "source": "Waste Management 5",
+      "target": "Retail 6",
+      "value": 0.08
+    },
+    {
+      "source": "Waste Management 5",
+      "target": "Construction 19",
+      "value": 0.21
+    },
+    {
+      "source": "Waste Management 5",
+      "target": "Finance 29",
+      "value": 0.125
+    },
+    {
+      "source": "Manufacturing 20",
+      "target": "Government 8",
+      "value": 0.0392
+    },
+    {
+      "source": "Manufacturing 20",
+      "target": "Government 10",
+      "value": 0.0248
+    },
+    {
+      "source": "Manufacturing 20",
+      "target": "Finance 21",
+      "value": 0.1104
+    },
+    {
+      "source": "Manufacturing 20",
+      "target": "Information Technology 10",
+      "value": 0.036
+    },
+    {
+      "source": "Manufacturing 20",
+      "target": "Energy 1",
+      "value": 0.1568
+    },
+    {
+      "source": "Manufacturing 20",
+      "target": "Energy 3",
+      "value": 0.0368
+    },
+    {
+      "source": "Transportation 5",
+      "target": "Agriculture 10",
+      "value": 0.0546
+    },
+    {
+      "source": "Transportation 5",
+      "target": "Media 17",
+      "value": 0.1501
+    },
+    {
+      "source": "Transportation 5",
+      "target": "Transportation 7",
+      "value": 0.3684
+    },
+    {
+      "source": "Retail 9",
+      "target": "Transportation 32",
+      "value": 0.0392
+    },
+    {
+      "source": "Retail 9",
+      "target": "Waste Management 10",
+      "value": 0.1744
+    },
+    {
+      "source": "Retail 9",
+      "target": "Healthcare 17",
+      "value": 0.0463
+    },
+    {
+      "source": "Retail 9",
+      "target": "Finance 23",
+      "value": 0.2171
+    },
+    {
+      "source": "Media 3",
+      "target": "Transportation 25",
+      "value": 0.1894
+    },
+    {
+      "source": "Media 3",
+      "target": "Retail 7",
+      "value": 0.3246
+    },
+    {
+      "source": "Transportation 9",
+      "target": "Telecommunications 1",
+      "value": 0.587
+    },
+    {
+      "source": "Telecommunications 2",
+      "target": "Mining 14",
+      "value": 0.0261
+    },
+    {
+      "source": "Telecommunications 2",
+      "target": "Healthcare 5",
+      "value": 0.4123
+    },
+    {
+      "source": "Telecommunications 2",
+      "target": "Media 14",
+      "value": 0.1926
+    },
+    {
+      "source": "Agriculture 6",
+      "target": "Agriculture 5",
+      "value": 0.5411
+    },
+    {
+      "source": "Agriculture 6",
+      "target": "Telecommunications 3",
+      "value": 0.1589
+    },
+    {
+      "source": "Manufacturing 4",
+      "target": "Construction 12",
+      "value": 0.2197
+    },
+    {
+      "source": "Manufacturing 4",
+      "target": "Construction 5",
+      "value": 0.1638
+    },
+    {
+      "source": "Manufacturing 4",
+      "target": "Manufacturing 33",
+      "value": 0.0425
+    },
+    {
+      "source": "Agriculture 1",
+      "target": "Finance 26",
+      "value": 0.4998
+    },
+    {
+      "source": "Agriculture 1",
+      "target": "Construction 18",
+      "value": 0.1052
+    },
+    {
+      "source": "Information Technology 22",
+      "target": "Healthcare 24",
+      "value": 0.2505
+    },
+    {
+      "source": "Information Technology 22",
+      "target": "Healthcare 3",
+      "value": 0.045
+    },
+    {
+      "source": "Information Technology 22",
+      "target": "Agriculture 17",
+      "value": 0.3546
+    },
+    {
+      "source": "Information Technology 22",
+      "target": "Waste Management 2",
+      "value": 0.0929
+    },
+    {
+      "source": "Government 3",
+      "target": "Media 18",
+      "value": 0.4528
+    },
+    {
+      "source": "Government 3",
+      "target": "Mining 1",
+      "value": 0.1312
+    },
+    {
+      "source": "Waste Management 3",
+      "target": "Construction 14",
+      "value": 0.724
+    },
+    {
+      "source": "Transportation 11",
+      "target": "Transportation 25",
+      "value": 0.704
+    },
+    {
+      "source": "Mining 8",
+      "target": "Agriculture 19",
+      "value": 0.352
+    },
+    {
+      "source": "Mining 8",
+      "target": "Mining 9",
+      "value": 0.2322
+    },
+    {
+      "source": "Mining 8",
+      "target": "Manufacturing 24",
+      "value": 0.0899
+    },
+    {
+      "source": "Healthcare 8",
+      "target": "Manufacturing 10",
+      "value": 0.0271
+    },
+    {
+      "source": "Healthcare 8",
+      "target": "Information Technology 14",
+      "value": 0.016
+    },
+    {
+      "source": "Healthcare 8",
+      "target": "Finance 6",
+      "value": 0.4449
+    },
+    {
+      "source": "Transportation 7",
+      "target": "Transportation 32",
+      "value": 0.1607
+    },
+    {
+      "source": "Transportation 7",
+      "target": "Construction 18",
+      "value": 0.1258
+    },
+    {
+      "source": "Transportation 7",
+      "target": "Government 6",
+      "value": 0.0838
+    },
+    {
+      "source": "Transportation 7",
+      "target": "Healthcare 1",
+      "value": 0.1397
+    },
+    {
+      "source": "Construction 9",
+      "target": "Information Technology 14",
+      "value": 0.3123
+    },
+    {
+      "source": "Construction 9",
+      "target": "Retail 29",
+      "value": 0.0215
+    },
+    {
+      "source": "Construction 9",
+      "target": "Healthcare 25",
+      "value": 0.0886
+    },
+    {
+      "source": "Construction 9",
+      "target": "Healthcare 4",
+      "value": 0.0576
+    },
+    {
+      "source": "Telecommunications 18",
+      "target": "Agriculture 8",
+      "value": 0.0844
+    },
+    {
+      "source": "Telecommunications 18",
+      "target": "Waste Management 15",
+      "value": 0.0406
+    },
+    {
+      "source": "Telecommunications 18",
+      "target": "Telecommunications 16",
+      "value": 0.3087
+    },
+    {
+      "source": "Telecommunications 18",
+      "target": "Transportation 31",
+      "value": 0.0273
+    },
+    {
+      "source": "Construction 7",
+      "target": "Construction 27",
+      "value": 0.0413
+    },
+    {
+      "source": "Construction 7",
+      "target": "Construction 12",
+      "value": 0.3877
+    },
+    {
+      "source": "Mining 13",
+      "target": "Manufacturing 30",
+      "value": 0.2955
+    },
+    {
+      "source": "Mining 13",
+      "target": "Healthcare 22",
+      "value": 0.0422
+    },
+    {
+      "source": "Mining 13",
+      "target": "Information Technology 38",
+      "value": 0.1261
+    },
+    {
+      "source": "Mining 13",
+      "target": "Energy 4",
+      "value": 0.024
+    },
+    {
+      "source": "Mining 13",
+      "target": "Healthcare 3",
+      "value": 0.027
+    },
+    {
+      "source": "Mining 13",
+      "target": "Transportation 32",
+      "value": 0.0452
+    },
+    {
+      "source": "Manufacturing 2",
+      "target": "Finance 38",
+      "value": 0.2252
+    },
+    {
+      "source": "Manufacturing 2",
+      "target": "Manufacturing 5",
+      "value": 0.2145
+    },
+    {
+      "source": "Manufacturing 2",
+      "target": "Manufacturing 40",
+      "value": 0.0853
+    },
+    {
+      "source": "Waste Management 13",
+      "target": "Finance 10",
+      "value": 0.778
+    },
+    {
+      "source": "Retail 38",
+      "target": "Healthcare 33",
+      "value": 0.529
+    },
+    {
+      "source": "Agriculture 5",
+      "target": "Waste Management 4",
+      "value": 0.4556
+    },
+    {
+      "source": "Agriculture 5",
+      "target": "Finance 1",
+      "value": 0.0354
+    },
+    {
+      "source": "Healthcare 17",
+      "target": "Information Technology 27",
+      "value": 0.3041
+    },
+    {
+      "source": "Healthcare 17",
+      "target": "Finance 6",
+      "value": 0.3159
+    },
+    {
+      "source": "Retail 13",
+      "target": "Energy 12",
+      "value": 0.4665
+    },
+    {
+      "source": "Retail 13",
+      "target": "Waste Management 2",
+      "value": 0.1438
+    },
+    {
+      "source": "Retail 13",
+      "target": "Waste Management 7",
+      "value": 0.0403
+    },
+    {
+      "source": "Retail 13",
+      "target": "Retail 11",
+      "value": 0.1403
+    },
+    {
+      "source": "Government 4",
+      "target": "Construction 2",
+      "value": 0.1704
+    },
+    {
+      "source": "Government 4",
+      "target": "Transportation 22",
+      "value": 0.0836
+    },
+    {
+      "source": "Government 4",
+      "target": "Retail 25",
+      "value": 0.2025
+    },
+    {
+      "source": "Government 4",
+      "target": "Construction 20",
+      "value": 0.0482
+    },
+    {
+      "source": "Government 4",
+      "target": "Manufacturing 10",
+      "value": 0.1254
+    },
+    {
+      "source": "Information Technology 34",
+      "target": "Agriculture 11",
+      "value": 0.1274
+    },
+    {
+      "source": "Information Technology 34",
+      "target": "Transportation 30",
+      "value": 0.191
+    },
+    {
+      "source": "Information Technology 34",
+      "target": "Information Technology 40",
+      "value": 0.1245
+    },
+    {
+      "source": "Information Technology 34",
+      "target": "Information Technology 9",
+      "value": 0.1881
+    },
+    {
+      "source": "Telecommunications 11",
+      "target": "Government 7",
+      "value": 0.0105
+    },
+    {
+      "source": "Telecommunications 11",
+      "target": "Media 19",
+      "value": 0.036
+    },
+    {
+      "source": "Telecommunications 11",
+      "target": "Manufacturing 24",
+      "value": 0.0464
+    },
+    {
+      "source": "Telecommunications 11",
+      "target": "Telecommunications 6",
+      "value": 0.0327
+    },
+    {
+      "source": "Telecommunications 11",
+      "target": "Government 8",
+      "value": 0.0131
+    },
+    {
+      "source": "Telecommunications 11",
+      "target": "Healthcare 27",
+      "value": 0.4054
+    },
+    {
+      "source": "Telecommunications 11",
+      "target": "Information Technology 12",
+      "value": 0.017
+    },
+    {
+      "source": "Retail 35",
+      "target": "Education 16",
+      "value": 0.5159
+    },
+    {
+      "source": "Retail 35",
+      "target": "Manufacturing 10",
+      "value": 0.0316
+    },
+    {
+      "source": "Retail 35",
+      "target": "Finance 36",
+      "value": 0.0192
+    },
+    {
+      "source": "Retail 35",
+      "target": "Retail 11",
+      "value": 0.0373
+    },
+    {
+      "source": "Agriculture 13",
+      "target": "Media 7",
+      "value": 0.301
+    },
+    {
+      "source": "Agriculture 13",
+      "target": "Retail 33",
+      "value": 0.416
+    },
+    {
+      "source": "Construction 24",
+      "target": "Education 13",
+      "value": 0.023
+    },
+    {
+      "source": "Construction 24",
+      "target": "Information Technology 23",
+      "value": 0.3535
+    },
+    {
+      "source": "Construction 24",
+      "target": "Information Technology 13",
+      "value": 0.346
+    },
+    {
+      "source": "Construction 24",
+      "target": "Retail 20",
+      "value": 0.0065
+    },
+    {
+      "source": "Information Technology 10",
+      "target": "Retail 14",
+      "value": 0.6598
+    },
+    {
+      "source": "Information Technology 10",
+      "target": "Healthcare 18",
+      "value": 0.0942
+    },
+    {
+      "source": "Manufacturing 17",
+      "target": "Construction 27",
+      "value": 0.2145
+    },
+    {
+      "source": "Manufacturing 17",
+      "target": "Information Technology 12",
+      "value": 0.2785
+    },
+    {
+      "source": "Manufacturing 21",
+      "target": "Information Technology 13",
+      "value": 0.0945
+    },
+    {
+      "source": "Manufacturing 21",
+      "target": "Manufacturing 30",
+      "value": 0.3064
+    },
+    {
+      "source": "Manufacturing 21",
+      "target": "Waste Management 7",
+      "value": 0.014
+    },
+    {
+      "source": "Manufacturing 21",
+      "target": "Education 18",
+      "value": 0.1391
+    },
+    {
+      "source": "Transportation 15",
+      "target": "Media 11",
+      "value": 0.2121
+    },
+    {
+      "source": "Transportation 15",
+      "target": "Transportation 24",
+      "value": 0.3559
+    },
+    {
+      "source": "Healthcare 13",
+      "target": "Manufacturing 36",
+      "value": 0.1262
+    },
+    {
+      "source": "Healthcare 13",
+      "target": "Agriculture 14",
+      "value": 0.1465
+    },
+    {
+      "source": "Healthcare 13",
+      "target": "Retail 10",
+      "value": 0.0549
+    },
+    {
+      "source": "Healthcare 13",
+      "target": "Manufacturing 16",
+      "value": 0.0224
+    },
+    {
+      "source": "Healthcare 13",
+      "target": "Information Technology 31",
+      "value": 0.405
+    },
+    {
+      "source": "Telecommunications 15",
+      "target": "Telecommunications 19",
+      "value": 0.115
+    },
+    {
+      "source": "Telecommunications 15",
+      "target": "Healthcare 8",
+      "value": 0.1683
+    },
+    {
+      "source": "Telecommunications 15",
+      "target": "Transportation 23",
+      "value": 0.0091
+    },
+    {
+      "source": "Telecommunications 15",
+      "target": "Telecommunications 3",
+      "value": 0.1092
+    },
+    {
+      "source": "Telecommunications 15",
+      "target": "Media 17",
+      "value": 0.0075
+    },
+    {
+      "source": "Information Technology 42",
+      "target": "Government 8",
+      "value": 0.209
+    },
+    {
+      "source": "Information Technology 42",
+      "target": "Information Technology 21",
+      "value": 0.279
+    },
+    {
+      "source": "Manufacturing 29",
+      "target": "Manufacturing 34",
+      "value": 0.1691
+    },
+    {
+      "source": "Manufacturing 29",
+      "target": "Manufacturing 38",
+      "value": 0.2635
+    },
+    {
+      "source": "Manufacturing 29",
+      "target": "Finance 8",
+      "value": 0.0983
+    },
+    {
+      "source": "Education 1",
+      "target": "Government 1",
+      "value": 0.652
+    },
+    {
+      "source": "Telecommunications 19",
+      "target": "Manufacturing 29",
+      "value": 0.095
+    },
+    {
+      "source": "Telecommunications 19",
+      "target": "Healthcare 20",
+      "value": 0.5194
+    },
+    {
+      "source": "Telecommunications 19",
+      "target": "Information Technology 35",
+      "value": 0.1667
+    },
+    {
+      "source": "Finance 19",
+      "target": "Healthcare 33",
+      "value": 0.2568
+    },
+    {
+      "source": "Finance 19",
+      "target": "Manufacturing 31",
+      "value": 0.0351
+    },
+    {
+      "source": "Finance 19",
+      "target": "Media 20",
+      "value": 0.0979
+    },
+    {
+      "source": "Finance 19",
+      "target": "Energy 6",
+      "value": 0.0222
+    },
+    {
+      "source": "Information Technology 14",
+      "target": "Transportation 23",
+      "value": 0.537
+    },
+    {
+      "source": "Finance 39",
+      "target": "Manufacturing 9",
+      "value": 0.332
+    },
+    {
+      "source": "Finance 39",
+      "target": "Information Technology 24",
+      "value": 0.1172
+    },
+    {
+      "source": "Finance 39",
+      "target": "Telecommunications 5",
+      "value": 0.2148
+    },
+    {
+      "source": "Retail 12",
+      "target": "Construction 13",
+      "value": 0.64
+    },
+    {
+      "source": "Manufacturing 5",
+      "target": "Manufacturing 30",
+      "value": 0.2985
+    },
+    {
+      "source": "Manufacturing 5",
+      "target": "Energy 12",
+      "value": 0.0497
+    },
+    {
+      "source": "Manufacturing 5",
+      "target": "Manufacturing 35",
+      "value": 0.1028
+    },
+    {
+      "source": "Healthcare 9",
+      "target": "Telecommunications 2",
+      "value": 0.0777
+    },
+    {
+      "source": "Healthcare 9",
+      "target": "Education 6",
+      "value": 0.1328
+    },
+    {
+      "source": "Healthcare 9",
+      "target": "Information Technology 29",
+      "value": 0.1846
+    },
+    {
+      "source": "Healthcare 9",
+      "target": "Transportation 10",
+      "value": 0.0858
+    },
+    {
+      "source": "Manufacturing 6",
+      "target": "Manufacturing 30",
+      "value": 0.352
+    },
+    {
+      "source": "Manufacturing 6",
+      "target": "Education 15",
+      "value": 0.416
+    },
+    {
+      "source": "Information Technology 4",
+      "target": "Retail 17",
+      "value": 0.0198
+    },
+    {
+      "source": "Information Technology 4",
+      "target": "Waste Management 7",
+      "value": 0.4042
+    },
+    {
+      "source": "Media 6",
+      "target": "Information Technology 30",
+      "value": 0.428
+    },
+    {
+      "source": "Waste Management 6",
+      "target": "Information Technology 37",
+      "value": 0.636
+    },
+    {
+      "source": "Waste Management 6",
+      "target": "Waste Management 3",
+      "value": 0.124
+    },
+    {
+      "source": "Healthcare 34",
+      "target": "Education 1",
+      "value": 0.544
+    },
+    {
+      "source": "Retail 17",
+      "target": "Transportation 29",
+      "value": 0.476
+    },
+    {
+      "source": "Construction 4",
+      "target": "Finance 3",
+      "value": 0.021
+    },
+    {
+      "source": "Construction 4",
+      "target": "Information Technology 6",
+      "value": 0.693
+    },
+    {
+      "source": "Waste Management 8",
+      "target": "Education 18",
+      "value": 0.0342
+    },
+    {
+      "source": "Waste Management 8",
+      "target": "Healthcare 34",
+      "value": 0.2751
+    },
+    {
+      "source": "Waste Management 8",
+      "target": "Telecommunications 19",
+      "value": 0.2737
+    },
+    {
+      "source": "Telecommunications 20",
+      "target": "Retail 29",
+      "value": 0.0546
+    },
+    {
+      "source": "Telecommunications 20",
+      "target": "Education 5",
+      "value": 0.1793
+    },
+    {
+      "source": "Telecommunications 20",
+      "target": "Media 9",
+      "value": 0.2982
+    },
+    {
+      "source": "Healthcare 29",
+      "target": "Agriculture 14",
+      "value": 0.0456
+    },
+    {
+      "source": "Healthcare 29",
+      "target": "Transportation 9",
+      "value": 0.3274
+    },
+    {
+      "source": "Healthcare 29",
+      "target": "Healthcare 16",
+      "value": 0.0471
+    },
+    {
+      "source": "Healthcare 29",
+      "target": "Media 4",
+      "value": 0.0456
+    },
+    {
+      "source": "Healthcare 29",
+      "target": "Healthcare 30",
+      "value": 0.0613
+    },
+    {
+      "source": "Construction 15",
+      "target": "Information Technology 39",
+      "value": 0.153
+    },
+    {
+      "source": "Construction 15",
+      "target": "Construction 24",
+      "value": 0.357
+    },
+    {
+      "source": "Education 7",
+      "target": "Media 2",
+      "value": 0.1112
+    },
+    {
+      "source": "Education 7",
+      "target": "Waste Management 1",
+      "value": 0.4448
+    },
+    {
+      "source": "Agriculture 18",
+      "target": "Agriculture 4",
+      "value": 0.2929
+    },
+    {
+      "source": "Agriculture 18",
+      "target": "Agriculture 17",
+      "value": 0.1213
+    },
+    {
+      "source": "Agriculture 18",
+      "target": "Retail 14",
+      "value": 0.0697
+    },
+    {
+      "source": "Construction 5",
+      "target": "Education 2",
+      "value": 0.0703
+    },
+    {
+      "source": "Construction 5",
+      "target": "Information Technology 12",
+      "value": 0.7007
+    },
+    {
+      "source": "Manufacturing 14",
+      "target": "Healthcare 18",
+      "value": 0.553
+    },
+    {
+      "source": "Finance 27",
+      "target": "Information Technology 40",
+      "value": 0.3067
+    },
+    {
+      "source": "Finance 27",
+      "target": "Media 13",
+      "value": 0.0736
+    },
+    {
+      "source": "Finance 27",
+      "target": "Retail 37",
+      "value": 0.0286
+    },
+    {
+      "source": "Agriculture 17",
+      "target": "Agriculture 16",
+      "value": 0.5502
+    },
+    {
+      "source": "Agriculture 17",
+      "target": "Transportation 14",
+      "value": 0.1288
+    },
+    {
+      "source": "Finance 38",
+      "target": "Construction 10",
+      "value": 0.1927
+    },
+    {
+      "source": "Finance 38",
+      "target": "Healthcare 1",
+      "value": 0.4358
+    },
+    {
+      "source": "Finance 38",
+      "target": "Finance 7",
+      "value": 0.0955
+    },
+    {
+      "source": "Information Technology 11",
+      "target": "Waste Management 13",
+      "value": 0.71
+    },
+    {
+      "source": "Government 2",
+      "target": "Finance 31",
+      "value": 0.1571
+    },
+    {
+      "source": "Government 2",
+      "target": "Finance 33",
+      "value": 0.0428
+    },
+    {
+      "source": "Government 2",
+      "target": "Waste Management 3",
+      "value": 0.5521
+    },
+    {
+      "source": "Manufacturing 12",
+      "target": "Construction 25",
+      "value": 0.624
+    },
+    {
+      "source": "Information Technology 6",
+      "target": "Transportation 8",
+      "value": 0.2003
+    },
+    {
+      "source": "Information Technology 6",
+      "target": "Healthcare 35",
+      "value": 0.236
+    },
+    {
+      "source": "Information Technology 6",
+      "target": "Media 1",
+      "value": 0.0411
+    },
+    {
+      "source": "Information Technology 6",
+      "target": "Retail 13",
+      "value": 0.0966
+    },
+    {
+      "source": "Construction 17",
+      "target": "Finance 20",
+      "value": 0.0796
+    },
+    {
+      "source": "Construction 17",
+      "target": "Information Technology 24",
+      "value": 0.7194
+    },
+    {
+      "source": "Healthcare 23",
+      "target": "Media 17",
+      "value": 0.4905
+    },
+    {
+      "source": "Healthcare 23",
+      "target": "Transportation 26",
+      "value": 0.0955
+    },
+    {
+      "source": "Finance 11",
+      "target": "Information Technology 40",
+      "value": 0.2489
+    },
+    {
+      "source": "Finance 11",
+      "target": "Healthcare 26",
+      "value": 0.0241
+    },
+    {
+      "source": "Finance 11",
+      "target": "Energy 9",
+      "value": 0.156
+    },
+    {
+      "source": "Healthcare 32",
+      "target": "Transportation 33",
+      "value": 0.0838
+    },
+    {
+      "source": "Healthcare 32",
+      "target": "Manufacturing 10",
+      "value": 0.0387
+    },
+    {
+      "source": "Healthcare 32",
+      "target": "Finance 35",
+      "value": 0.3715
+    },
+    {
+      "source": "Finance 22",
+      "target": "Healthcare 35",
+      "value": 0.3464
+    },
+    {
+      "source": "Finance 22",
+      "target": "Healthcare 14",
+      "value": 0.4076
+    },
+    {
+      "source": "Construction 6",
+      "target": "Healthcare 14",
+      "value": 0.2988
+    },
+    {
+      "source": "Construction 6",
+      "target": "Education 1",
+      "value": 0.1402
+    },
+    {
+      "source": "Healthcare 35",
+      "target": "Finance 19",
+      "value": 0.433
+    },
+    {
+      "source": "Finance 10",
+      "target": "Waste Management 12",
+      "value": 0.2459
+    },
+    {
+      "source": "Finance 10",
+      "target": "Construction 4",
+      "value": 0.2991
+    },
+    {
+      "source": "Agriculture 7",
+      "target": "Retail 18",
+      "value": 0.3933
+    },
+    {
+      "source": "Agriculture 7",
+      "target": "Waste Management 8",
+      "value": 0.1967
+    },
+    {
+      "source": "Information Technology 26",
+      "target": "Telecommunications 11",
+      "value": 0.763
+    },
+    {
+      "source": "Finance 21",
+      "target": "Government 4",
+      "value": 0.2888
+    },
+    {
+      "source": "Finance 21",
+      "target": "Manufacturing 35",
+      "value": 0.1812
+    },
+    {
+      "source": "Information Technology 25",
+      "target": "Media 1",
+      "value": 0.0862
+    },
+    {
+      "source": "Information Technology 25",
+      "target": "Transportation 2",
+      "value": 0.3938
+    },
+    {
+      "source": "Manufacturing 27",
+      "target": "Manufacturing 35",
+      "value": 0.3279
+    },
+    {
+      "source": "Manufacturing 27",
+      "target": "Information Technology 6",
+      "value": 0.0976
+    },
+    {
+      "source": "Manufacturing 27",
+      "target": "Manufacturing 26",
+      "value": 0.2874
+    },
+    {
+      "source": "Media 1",
+      "target": "Information Technology 41",
+      "value": 0.1531
+    },
+    {
+      "source": "Media 1",
+      "target": "Information Technology 22",
+      "value": 0.2749
+    },
+    {
+      "source": "Information Technology 20",
+      "target": "Information Technology 6",
+      "value": 0.5116
+    },
+    {
+      "source": "Information Technology 20",
+      "target": "Media 11",
+      "value": 0.0914
+    },
+    {
+      "source": "Transportation 20",
+      "target": "Manufacturing 21",
+      "value": 0.038
+    },
+    {
+      "source": "Transportation 20",
+      "target": "Transportation 5",
+      "value": 0.591
+    },
+    {
+      "source": "Transportation 30",
+      "target": "Healthcare 27",
+      "value": 0.439
+    },
+    {
+      "source": "Government 8",
+      "target": "Healthcare 6",
+      "value": 0.0479
+    },
+    {
+      "source": "Government 8",
+      "target": "Retail 26",
+      "value": 0.0701
+    },
+    {
+      "source": "Government 8",
+      "target": "Energy 12",
+      "value": 0.4172
+    },
+    {
+      "source": "Government 8",
+      "target": "Government 2",
+      "value": 0.0479
+    },
+    {
+      "source": "Waste Management 2",
+      "target": "Healthcare 12",
+      "value": 0.645
+    },
+    {
+      "source": "Transportation 16",
+      "target": "Transportation 32",
+      "value": 0.58
+    },
+    {
+      "source": "Education 11",
+      "target": "Energy 9",
+      "value": 0.5129
+    },
+    {
+      "source": "Education 11",
+      "target": "Energy 11",
+      "value": 0.1151
+    },
+    {
+      "source": "Construction 18",
+      "target": "Information Technology 14",
+      "value": 0.71
+    },
+    {
+      "source": "Construction 18",
+      "target": "Retail 40",
+      "value": 0.0383
+    },
+    {
+      "source": "Construction 18",
+      "target": "Telecommunications 13",
+      "value": 0.0507
+    },
+    {
+      "source": "Transportation 12",
+      "target": "Transportation 34",
+      "value": 0.754
+    },
+    {
+      "source": "Transportation 13",
+      "target": "Information Technology 30",
+      "value": 0.49
+    },
+    {
+      "source": "Information Technology 8",
+      "target": "Retail 1",
+      "value": 0.276
+    },
+    {
+      "source": "Information Technology 8",
+      "target": "Mining 7",
+      "value": 0.426
+    },
+    {
+      "source": "Retail 8",
+      "target": "Waste Management 15",
+      "value": 0.718
+    },
+    {
+      "source": "Education 6",
+      "target": "Media 1",
+      "value": 0.0906
+    },
+    {
+      "source": "Education 6",
+      "target": "Retail 24",
+      "value": 0.3914
+    },
+    {
+      "source": "Manufacturing 40",
+      "target": "Energy 6",
+      "value": 0.0655
+    },
+    {
+      "source": "Manufacturing 40",
+      "target": "Construction 2",
+      "value": 0.5868
+    },
+    {
+      "source": "Manufacturing 40",
+      "target": "Mining 3",
+      "value": 0.0378
+    },
+    {
+      "source": "Construction 3",
+      "target": "Healthcare 10",
+      "value": 0.444
+    },
+    {
+      "source": "Construction 3",
+      "target": "Telecommunications 15",
+      "value": 0.213
+    },
+    {
+      "source": "Mining 14",
+      "target": "Manufacturing 23",
+      "value": 0.723
+    },
+    {
+      "source": "Construction 2",
+      "target": "Energy 3",
+      "value": 0.605
+    },
+    {
+      "source": "Information Technology 36",
+      "target": "Manufacturing 28",
+      "value": 0.646
+    },
+    {
+      "source": "Retail 15",
+      "target": "Retail 21",
+      "value": 0.418
+    },
+    {
+      "source": "Retail 7",
+      "target": "Information Technology 22",
+      "value": 0.77
+    },
+    {
+      "source": "Finance 8",
+      "target": "Waste Management 1",
+      "value": 0.384
+    },
+    {
+      "source": "Finance 8",
+      "target": "Healthcare 16",
+      "value": 0.09
+    },
+    {
+      "source": "Construction 1",
+      "target": "Retail 9",
+      "value": 0.0168
+    },
+    {
+      "source": "Construction 1",
+      "target": "Telecommunications 5",
+      "value": 0.0156
+    },
+    {
+      "source": "Construction 1",
+      "target": "Information Technology 5",
+      "value": 0.7045
+    },
+    {
+      "source": "Telecommunications 14",
+      "target": "Information Technology 24",
+      "value": 0.53
+    },
+    {
+      "source": "Telecommunications 1",
+      "target": "Government 6",
+      "value": 0.2078
+    },
+    {
+      "source": "Telecommunications 1",
+      "target": "Mining 11",
+      "value": 0.3422
+    },
+    {
+      "source": "Finance 5",
+      "target": "Retail 23",
+      "value": 0.3611
+    },
+    {
+      "source": "Finance 5",
+      "target": "Information Technology 9",
+      "value": 0.1719
+    },
+    {
+      "source": "Information Technology 2",
+      "target": "Transportation 19",
+      "value": 0.497
+    },
+    {
+      "source": "Information Technology 29",
+      "target": "Healthcare 22",
+      "value": 0.667
+    },
+    {
+      "source": "Information Technology 5",
+      "target": "Waste Management 2",
+      "value": 0.525
+    },
+    {
+      "source": "Construction 21",
+      "target": "Mining 1",
+      "value": 0.153
+    },
+    {
+      "source": "Construction 21",
+      "target": "Healthcare 2",
+      "value": 0.612
+    },
+    {
+      "source": "Transportation 23",
+      "target": "Transportation 7",
+      "value": 0.791
+    },
+    {
+      "source": "Transportation 3",
+      "target": "Agriculture 14",
+      "value": 0.421
+    },
+    {
+      "source": "Finance 40",
+      "target": "Information Technology 5",
+      "value": 0.776
+    },
+    {
+      "source": "Transportation 6",
+      "target": "Agriculture 4",
+      "value": 0.798
+    },
+    {
+      "source": "Finance 14",
+      "target": "Transportation 22",
+      "value": 0.516
+    },
+    {
+      "source": "Information Technology 18",
+      "target": "Government 9",
+      "value": 0.671
+    }
+  ]
+}
