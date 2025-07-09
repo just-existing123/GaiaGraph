@@ -14,7 +14,6 @@
 11. [⚡ Performance & Optimization](#-performance--optimization)
 12. [⚙️ Configuration](#️-configuration)
 13. [🤝 Contributing](#-contributing)
-14. [📄 License](#-license)
 
 ---
 
